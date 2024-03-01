@@ -1,0 +1,19 @@
+If the user types $help
+Bot will say
+Hello! I am KandiPicker and these are my commands:
+
+Kandi or Perler:
+$type (2)
+
+Type of kandi:
+$kandi
+
+Type of perler:
+$perler
+
+Color:
+$color
+
+Theme:
+$theme
+
