@@ -35,4 +35,6 @@ def stats(ints):
 
 input = [15, 4, 10, 2]
 output = stats(input)
-print(f"output: {output[0]}, {output[1]}")
+# print(f"output: {output[0]}, {output[1]}")
+print(output)
+assert stats([15, 4, 10, 2]) == {"mean": 7.75, "median": 7.0} 

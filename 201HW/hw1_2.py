@@ -1,11 +1,4 @@
 def primes(n):
-	# """Returns all prime numbers from 2 to n (excluding n) """
-	# YOUR CODE HERE
-	# new number array
-	# for loop % every number below half of every number below n
-		# if any % == 0, continue
-		# add to array if for loop ends 
-	  # fuck time efficiency
 	primes = []
 	for i in range (2, n):
 		isPrime = 1
@@ -18,12 +11,6 @@ def primes(n):
 	return primes
 
 def factor(n):
-	"""Return all the prime factors of n."""
-	# YOUR CODE HERE
-	# find factor f of n
-		# if prime, add to array
-		# if not prime, find factors of f
-		# recursively add factors of f to array
 	factors = []
 	possibleFactors = primes(n)
 
@@ -48,7 +35,7 @@ def factor(n):
 		factors.append(curLeft)
 	return factors
 
-n = 41
+n = 42
 result = factor(n)
 print(f"factors of {n}:")
 for x in result:
