@@ -1,0 +1,5016 @@
+Name,Size,Type,Environment
+Aarakocra,medium,humanoid,mountain
+Aarakocra,medium,humanoid,planar
+Aarakocra Captain,medium,humanoid,mountain
+Aarakocra Captain,medium,humanoid,planar
+Aarakocra Priest of Aerdrie,medium,humanoid,mountain
+Aarakocra Priest of Aerdrie,medium,humanoid,planar
+Aarakocra Sharpshooter,medium,humanoid,mountain
+Aarakocra Sharpshooter,medium,humanoid,planar
+Abaasy,huge,giant,badlands
+Abjurer,medium,humanoid,urban
+Aboleth,large,aberration,aquatic
+Aboleth,large,aberration,coast
+Aboleth (A5E),large,aberration,caverns
+Aboleth (A5E),large,aberration,plane of water
+Aboleth (A5E),large,aberration,sewer
+Aboleth (A5E),large,aberration,water
+Aboleth Sovereign,huge,aberration,aquatic
+Aboleth Sovereign,huge,aberration,coast
+Aboleth Thrall (A5E),medium,humanoid,caverns
+Aboleth Thrall (A5E),medium,humanoid,settlement
+Aboleth Thrall (A5E),medium,humanoid,water
+"Aboleth, Nihileth",large,undead,any
+"Aboleth, Nihilethic Zombie",medium,undead,aquatic
+"Aboleth, Nihilethic Zombie",medium,undead,ruins
+"Aboleth, Nihilethic Zombie",medium,undead,underground
+Abominable Beauty,medium,fey,any
+Abominable Snowman (A5E),large,monstrosity,tundra
+Abominable Yeti,huge,monstrosity,arctic
+Abominable Yeti,huge,monstrosity,cave
+Abominable Yeti,huge,monstrosity,mountain
+Accursed Guardian Naga (A5E),large,monstrosity,astral plane
+Accursed Guardian Naga (A5E),large,monstrosity,caverns
+Accursed Guardian Naga (A5E),large,monstrosity,desert
+Accursed Guardian Naga (A5E),large,monstrosity,forest
+Accursed Guardian Naga (A5E),large,monstrosity,jungle
+Accursed Guardian Naga (A5E),large,monstrosity,mountains
+Accursed Guardian Naga (A5E),large,monstrosity,ruin
+Accursed Guardian Naga (A5E),large,monstrosity,temple
+Accursed Spirit Naga (A5E),large,monstrosity,astral plane
+Accursed Spirit Naga (A5E),large,monstrosity,caverns
+Accursed Spirit Naga (A5E),large,monstrosity,desert
+Accursed Spirit Naga (A5E),large,monstrosity,forest
+Accursed Spirit Naga (A5E),large,monstrosity,jungle
+Accursed Spirit Naga (A5E),large,monstrosity,mountains
+Accursed Spirit Naga (A5E),large,monstrosity,ruin
+Accursed Spirit Naga (A5E),large,monstrosity,temple
+Acolyte,medium,humanoid,arctic
+Acolyte,medium,humanoid,desert
+Acolyte,medium,humanoid,dungeon
+Acolyte,medium,humanoid,forest
+Acolyte,medium,humanoid,grassland
+Acolyte,medium,humanoid,mountain
+Acolyte,medium,humanoid,swamp
+Acolyte,medium,humanoid,underground
+Acolyte,medium,humanoid,urban
+Acolyte (A5E),medium,humanoid,desert
+Acolyte (A5E),medium,humanoid,hills
+Acolyte (A5E),medium,humanoid,settlement
+Acolyte (A5E),medium,humanoid,temple
+Adamanticore (A5E),large,monstrosity,desert
+Adamanticore (A5E),large,monstrosity,forest
+Adamanticore (A5E),large,monstrosity,grassland
+Adamanticore (A5E),large,monstrosity,hills
+Adamanticore (A5E),large,monstrosity,jungle
+Adamanticore (A5E),large,monstrosity,mountains
+Adamanticore (A5E),large,monstrosity,tundra
+Adult Amethyst Dragon (A5E),huge,dragon,caverns
+Adult Black Dragon,huge,dragon,swamp
+Adult Black Dragon (A5E),huge,dragon,swamp
+Adult Black Dragon Lich (A5E),huge,undead,swamp
+Adult Black Dragon Spellcaster (A5E),gargantuan,dragon,swamps
+Adult Black Dragon Spellcaster (A5E),gargantuan,dragon,ruins
+Adult Blue Dracolich,huge,undead,desert
+Adult Blue Dracolich,huge,undead,dungeon
+Adult Blue Dragon,huge,dragon,desert
+Adult Blue Dragon (A5E),huge,dragon,desert
+Adult Blue Dragon Spellcaster (A5E),huge,dragon,caves
+Adult Blue Dragon Spellcaster (A5E),huge,dragon,coastal
+Adult Blue Dragon Spellcaster (A5E),huge,dragon,desert
+Adult Blue Dragon Spellcaster (A5E),huge,dragon,oasis
+Adult Brass Dragon (A5E),huge,dragon,desert
+Adult Brass Dragon Spellcaster (A5E),huge,dragon,caves
+Adult Bronze Dragon,huge,dragon,coast
+Adult Bronze Dragon (A5E),huge,dragon,water
+Adult Bronze Dragon Spellcaster (A5E),huge,dragon,caves
+Adult Bronze Dragon Spellcaster (A5E),huge,dragon,aquatic
+Adult Bronze Dragon Spellcaster (A5E),huge,dragon,coastal
+Adult Cave Dragon,huge,dragon,ruins
+Adult Cave Dragon,huge,dragon,underground
+Adult Copper Dragon,huge,dragon,cave
+Adult Copper Dragon,huge,dragon,desert
+Adult Copper Dragon,huge,dragon,grassland
+Adult Copper Dragon (A5E),huge,dragon,hills
+Adult Copper Dragon (A5E),huge,dragon,mountains
+Adult Copper Dragon Spellcaster (A5E),huge,dragon (shapechanger),mountains
+Adult Earth Dragon (A5E),huge,dragon,desert
+Adult Earth Dragon (A5E),huge,dragon,hills
+Adult Earth Dragon (A5E),huge,dragon,mountains
+Adult Earth Dragon Spellcaster (A5E),gargantuan,dragon,mountains
+Adult Earth Dragon Spellcaster (A5E),gargantuan,dragon,hills
+Adult Earth Dragon Spellcaster (A5E),gargantuan,dragon,deserts
+Adult Emerald Dragon (A5E),huge,dragon,caverns
+Adult Emerald Dragon (A5E),huge,dragon,ruin
+Adult Emerald Dragon (A5E),huge,dragon,sewer
+Adult Flame Dragon,huge,dragon,mountains
+Adult Gold Dragon,huge,dragon,mountain
+Adult Gold Dragon,huge,dragon,ruins
+Adult Gold Dragon (A5E),huge,dragon,astral plane
+Adult Gold Dragon (A5E),huge,dragon,grassland
+Adult Gold Dragon (A5E),huge,dragon,ruin
+Adult Gold Dragon (A5E),huge,dragon,water
+Adult Gold Dragon Spellcaster (A5E),huge,dragon (shapechanger),ruins
+Adult Green Dragon,huge,dragon,forest
+Adult Green Dragon (A5E),huge,dragon,forest
+Adult Green Dragon (A5E),huge,dragon,jungle
+Adult Green Dragon Spellcaster (A5E),huge,dragon,forests
+Adult Imperial Forest Dragon,huge,dragon,forests
+Adult Imperial Sea Dragon,huge,dragon,aquatic
+Adult Imperial Sea Dragon,huge,dragon,coastal
+Adult Imperial Underworld Dragon,huge,dragon,underground
+Adult Imperial Underworld Dragon,huge,dragon,volcano
+Adult Imperial Underworld Dragon,huge,dragon,cave
+Adult Leucrotta,large,monstrosity,forest
+Adult Mithral Dragon,huge,dragon,mountains
+Adult Red Dragon,huge,dragon,mountain
+Adult Red Dragon (A5E),huge,dragon,mountains
+Adult Red Dragon Spellcaster (A5E),huge,dragon,volcano
+Adult Red Dragon Spellcaster (A5E),huge,dragon,mountains
+Adult River Dragon (A5E),huge,dragon,grassland
+Adult River Dragon (A5E),huge,dragon,water
+Adult River Dragon Spellcaster (A5E),huge,dragon,rivers
+Adult Sapphire Dragon (A5E),huge,dragon,caverns
+Adult Sea Dragon,huge,dragon,aquatic
+Adult Shadow Dragon Spellcaster (A5E),huge,dragon,swamps
+Adult Shadow Dragon Spellcaster (A5E),huge,dragon,ruins
+Adult Silver Dragon,huge,dragon,arctic
+Adult Silver Dragon,huge,dragon,mountain
+Adult Silver Dragon Spellcaster (A5E),huge,dragon (shapechanger),caves
+Adult Silver Dragon Spellcaster (A5E),huge,dragon (shapechanger),mountains
+Adult Void Dragon,huge,dragon,badlands
+Adult Void Dragon,huge,dragon,mountains
+Adult White Dragon (A5E),huge,dragon,tundra
+Agathion,medium,celestial,planar
+Aghoy,large,plant,forests
+Ahu-nixta mechanon,medium,construct,any
+Ahu-nixta mechanon,medium,construct,planar
+Air Elemental,large,elemental,arctic
+Air Elemental,large,elemental,cave
+Air Elemental,large,elemental,coast
+Air Elemental,large,elemental,desert
+Air Elemental,large,elemental,dungeon
+Air Elemental,large,elemental,forest
+Air Elemental,large,elemental,grassland
+Air Elemental,large,elemental,mountain
+Air Elemental,large,elemental,planar
+Air Elemental,large,elemental,ruins
+Air Elemental,large,elemental,swamp
+Air Elemental,large,elemental,underground
+Air Elemental Myrmidon,medium,elemental,arctic
+Air Elemental Myrmidon,medium,elemental,cave
+Air Elemental Myrmidon,medium,elemental,coast
+Air Elemental Myrmidon,medium,elemental,desert
+Air Elemental Myrmidon,medium,elemental,dungeon
+Air Elemental Myrmidon,medium,elemental,forest
+Air Elemental Myrmidon,medium,elemental,grassland
+Air Elemental Myrmidon,medium,elemental,mountain
+Air Elemental Myrmidon,medium,elemental,planar
+Air Elemental Myrmidon,medium,elemental,ruins
+Air Elemental Myrmidon,medium,elemental,swamp
+Air Elemental Myrmidon,medium,elemental,underground
+Akanka,medium,fey,desert
+Akanka,medium,fey,underground
+Akanka,medium,fey,urban
+Aklea (A5E),gargantuan,celestial,astral plane
+Alabroza,small,monstrosity,farmland
+"Alabroza, bloodfiend",small,fiend,farmland
+Alawig,tiny,elemental,plains
+Alawig,tiny,elemental,forests
+Alazai,large,elemental,badlands
+Alazai,large,elemental,desert
+Alchemist (A5E),medium,humanoid,desert
+Alchemist (A5E),medium,humanoid,forest
+Alchemist (A5E),medium,humanoid,hills
+Alchemist (A5E),medium,humanoid,jungle
+Alchemist (A5E),medium,humanoid,laboratory
+Alchemist (A5E),medium,humanoid,settlement
+Alchemist (A5E),medium,humanoid,swamp
+Alehouse Drake,tiny,dragon,urban
+Algoid,medium,plant,swamp
+Alhoon,medium,undead,underground
+"Alliumite, husker",medium,plant,farmland
+"Alliumite, husker",medium,plant,grassland
+"Alliumite, rapscallion",small,plant,farmland
+"Alliumite, rapscallion",small,plant,urban
+Allosaurus,large,beast,coast
+Allosaurus,large,beast,grassland
+Allosaurus,large,beast,swamp
+Alpha Werewolf (A5E),medium,humanoid,feywild
+Alpha Werewolf (A5E),medium,humanoid,forest
+Alpha Werewolf (A5E),medium,humanoid,hills
+Alpha Werewolf (A5E),medium,humanoid,ruin
+Alpha Werewolf (A5E),medium,humanoid,settlement
+Alpha Werewolf (A5E),medium,humanoid,shadowfell
+Alpine creeper,huge,plant,arctic
+Alpine creeper,huge,plant,mountains
+Alseid,medium,monstrosity,forests
+Amethyst Dragon Wyrmling (A5E),medium,dragon,caverns
+Amomongo,medium,monstrosity,mountains
+Amomongo,medium,monstrosity,caves
+Amomongo,medium,monstrosity,forests
+Amphibolt,large,monstrosity,swamp
+Amphiptere,medium,beast,forests
+Ancient Aboleth (A5E),huge,aberration,caverns
+Ancient Aboleth (A5E),huge,aberration,plane of water
+Ancient Aboleth (A5E),huge,aberration,sewer
+Ancient Aboleth (A5E),huge,aberration,water
+Ancient Amethyst Dragon (A5E),gargantuan,dragon,caverns
+Ancient Black Dragon,gargantuan,dragon,swamp
+Ancient Black Dragon (A5E),gargantuan,dragon,swamp
+Ancient Black Dragon Spellcaster (A5E),gargantuan,dragon,swamps
+Ancient Black Dragon Spellcaster (A5E),gargantuan,dragon,ruins
+Ancient Blue Dragon,gargantuan,dragon,desert
+Ancient Blue Dragon (A5E),gargantuan,dragon,desert
+Ancient Brass Dragon (A5E),gargantuan,dragon,desert
+Ancient Brass Dragon Spellcaster (A5E),gargantuan,dragon,caves
+Ancient Bronze Dragon,gargantuan,dragon,coast
+Ancient Bronze Dragon (A5E),gargantuan,dragon,water
+Ancient Bronze Dragon Spellcaster (A5E),gargantuan,dragon,caves
+Ancient Bronze Dragon Spellcaster (A5E),gargantuan,dragon,aquatic
+Ancient Bronze Dragon Spellcaster (A5E),gargantuan,dragon,coastal
+Ancient Copper Dragon,gargantuan,dragon,cave
+Ancient Copper Dragon,gargantuan,dragon,desert
+Ancient Copper Dragon,gargantuan,dragon,grassland
+Ancient Copper Dragon Spellcaster (A5E),gargantuan,dragon (shapechanger),mountains
+Ancient Earth Dragon Spellcaster (A5E),gargantuan,dragon,mountains
+Ancient Earth Dragon Spellcaster (A5E),gargantuan,dragon,hills
+Ancient Earth Dragon Spellcaster (A5E),gargantuan,dragon,deserts
+Ancient Emerald Dragon (A5E),gargantuan,dragon,caverns
+Ancient Emerald Dragon (A5E),gargantuan,dragon,ruin
+Ancient Emerald Dragon (A5E),gargantuan,dragon,sewer
+Ancient Flame Dragon,gargantuan,dragon,mountains
+Ancient Gold Dragon (A5E),gargantuan,dragon,astral plane
+Ancient Gold Dragon (A5E),gargantuan,dragon,grassland
+Ancient Gold Dragon (A5E),gargantuan,dragon,ruin
+Ancient Gold Dragon (A5E),gargantuan,dragon,water
+Ancient Gold Dragon Spellcaster (A5E),gargantuan,dragon (shapechanger),ruins
+Ancient Green Dragon,gargantuan,dragon,forest
+Ancient Green Dragon (A5E),gargantuan,dragon,forest
+Ancient Green Dragon (A5E),gargantuan,dragon,jungle
+Ancient Green Dragon Spellcaster (A5E),gargantuan,dragon,forests
+Ancient Mithral Dragon,gargantuan,dragon,mountains
+Ancient Red Dragon,gargantuan,dragon,mountain
+Ancient Red Dragon (A5E),gargantuan,dragon,mountains
+Ancient River Dragon Spellcaster (A5E),gargantuan,dragon,rivers
+Ancient Sapphire Dragon (A5E),gargantuan,dragon,caverns
+Ancient Sea Dragon,gargantuan,dragon,aquatic
+Ancient Shadow Dragon Spellcaster (A5E),gargantuan,dragon,swamps
+Ancient Shadow Dragon Spellcaster (A5E),gargantuan,dragon,ruins
+Ancient Silver Dragon (A5E),gargantuan,dragon,feywild
+Ancient Silver Dragon (A5E),gargantuan,dragon,mountains
+Ancient Void Dragon,gargantuan,dragon,badlands
+Ancient Void Dragon,gargantuan,dragon,mountains
+Ancient White Dragon,gargantuan,dragon,arctic
+Ancient White Dragon,gargantuan,dragon,cave
+Ancient White Dragon,gargantuan,dragon,underground
+Ancient White Dragon (A5E),gargantuan,dragon,tundra
+Ancient White Dragon Spellcaster (A5E),gargantuan,dragon,snow
+Ancient Wind Dragon,gargantuan,dragon,mountains
+Ancient Wind Dragon,gargantuan,dragon,plains
+Androsphinx,large,monstrosity,dungeon
+Androsphinx,large,monstrosity,ruins
+Angatra,medium,undead,forests
+"Angel, archangel hala’ath",huge,celestial,any
+"Angel, archangel hala’ath",huge,celestial,planar
+"Angel, haladron",tiny,celestial,any
+"Angel, haladron",tiny,celestial,planar
+"Angel, kalkydra",huge,celestial,planar
+"Angel, pelagic deva",medium,celestial,planar
+"Angel, psychopomp",medium,celestial,any
+"Angel, psychopomp",medium,celestial,planar
+"Angel, shrouded",medium,celestial,any
+"Angel, shrouded",medium,celestial,planar
+"Angel, zirnitran",huge,celestial,mountains
+"Angel, zirnitran",huge,celestial,planar
+Angler Worm,huge,monstrosity,ruins
+Angler Worm,huge,monstrosity,underground
+"Animal lord, mammoth queen",huge,fey,arctic
+"Animal lord, mammoth queen",huge,fey,grassland
+"Animal lord, mammoth queen",huge,fey,hills
+Animated Armor,medium,construct,dungeon
+Animated Armor,medium,construct,ruins
+Animated Armor,medium,construct,urban
+Animated instrument,tiny,construct,farmland
+Animated instrument,tiny,construct,urban
+"Animated instrument, symphony",gargantuan,swarm,urban
+Animated offal,huge,ooze,any
+Animators Staff,small,construct,dungeon
+Animators Staff,small,construct,ruins
+Animators Staff,small,construct,urban
+Animators Wand,tiny,construct,dungeon
+Animators Wand,tiny,construct,ruins
+Animators Wand,tiny,construct,urban
+Ankheg Queen (A5E),huge,monstrosity,desert
+Ankheg Queen (A5E),huge,monstrosity,grassland
+Ankheg Queen (A5E),huge,monstrosity,hills
+Ankheg Queen (A5E),huge,monstrosity,settlement
+Ankheg Spawn (A5E),medium,monstrosity,desert
+Ankheg Spawn (A5E),medium,monstrosity,grassland
+Ankheg Spawn (A5E),medium,monstrosity,hills
+Ankheg Spawn (A5E),medium,monstrosity,settlement
+Ankylosaurus,huge,beast,grassland
+Ankylosaurus (A5E),huge,beast,grassland
+Ankylosaurus (A5E),huge,beast,jungle
+Ankylosaurus (A5E),huge,beast,mountains
+Ankylosaurus (A5E),huge,beast,swamp
+Annis Hag,large,fey,grassland
+Annis Hag,large,fey,mountain
+Ant Lion,large,beast,desert
+Ape,medium,beast,forest
+Ape (A5E),medium,beast,jungle
+Apostle,medium,humanoid,any
+Apostle,medium,humanoid,urban
+Apprentice Mage (A5E),medium,humanoid,laboratory
+Apprentice Mage (A5E),medium,humanoid,settlement
+Apprentice Wizard,medium,humanoid,urban
+Arboreal Grappler,medium,aberration,forests
+Arcane Blademaster (A5E),medium,humanoid,laboratory
+Arcane Blademaster (A5E),medium,humanoid,mountains
+Arcane Blademaster (A5E),medium,humanoid,settlement
+Arcane leviathan,gargantuan,construct,underwater
+Arcane scavenger,large,construct,badlands
+Arcanoplasm,large,monstrosity,underground
+Archdruid,medium,humanoid,forest
+Archdruid,medium,humanoid,mountain
+Archdruid,medium,humanoid,swamp
+Archdruid,medium,humanoid,aquatic
+Archfey (A5E),medium,fey,feywild
+Archfey (A5E),medium,fey,forest
+Archfey (A5E),medium,fey,swamp
+Archmage,medium,humanoid,ruins
+Archmage,medium,humanoid,urban
+"Archon, siege",huge,celestial,planar
+"Archon, siege",huge,celestial,urban
+"Archon, ursan",large,celestial,any
+"Archon, ursan",large,celestial,planar
+"Archon, word",tiny,celestial,planar
+Archpriest (A5E),medium,humanoid,settlement
+Archpriest (A5E),medium,humanoid,temple
+Arenea,large,monstrosity,cave
+Arenea,large,monstrosity,dungeon
+Arenea,large,monstrosity,forest
+Asanbosam,large,aberration,forests
+Ascetic Grandmaster (A5E),medium,humanoid,desert
+Ascetic Grandmaster (A5E),medium,humanoid,mountains
+Ascetic Grandmaster (A5E),medium,humanoid,settlement
+Ascetic Grandmaster (A5E),medium,humanoid,temple
+Ascomoid,large,plant,underground
+Ash Drake,small,dragon,mountains
+Ash Drake,small,dragon,urban
+Asp vine,medium,plant,badlands
+Asp vine,medium,plant,forest
+Assassin,medium,humanoid,arctic
+Assassin,medium,humanoid,cave
+Assassin,medium,humanoid,coast
+Assassin,medium,humanoid,desert
+Assassin,medium,humanoid,dungeon
+Assassin,medium,humanoid,forest
+Assassin,medium,humanoid,grassland
+Assassin,medium,humanoid,mountain
+Assassin,medium,humanoid,ruins
+Assassin,medium,humanoid,swamp
+Assassin,medium,humanoid,underground
+Assassin,medium,humanoid,urban
+Assassin Bug,medium,beast,forest
+Astral Moth,large,monstrosity,forest
+Astral Shark,large,fiend,planar
+Astralsupial,medium,beast,forest
+Astralsupial,medium,beast,swamp
+Atavist,medium,humanoid,any
+Atavist,medium,humanoid,urban
+Atuikakura,gargantuan,monstrosity,aquatic
+Atuikakura,gargantuan,monstrosity,coastal
+Aural hunter,large,aberration,mountains
+Aural hunter,large,aberration,planar
+Aural hunter,large,aberration,underground
+Aurochs,large,beast,grassland
+Aurochs,large,beast,mountain
+Avestruzii,medium,humanoid,grassland
+Avestruzii,medium,humanoid,planar
+Avestruzii champion,medium,humanoid,grassland
+Avestruzii champion,medium,humanoid,planar
+Awakened Shrub,small,plant,forest
+Awakened Shrub,small,plant,grassland
+Awakened Shrub (A5E),small,plant,forest
+Awakened Shrub (A5E),small,plant,jungle
+Awakened Shrub (A5E),small,plant,laboratory
+Awakened Shrub (A5E),small,plant,swamp
+Awakened Tree,huge,plant,forest
+Awakened Tree (A5E),huge,plant,forest
+Awakened Tree (A5E),huge,plant,jungle
+Awakened Tree (A5E),huge,plant,swamp
+Axe Beak,large,beast,grassland
+Axe Beak (A5E),large,beast,forest
+Axe Beak (A5E),large,beast,grassland
+Axe Beak (A5E),large,beast,swamp
+Azer,medium,elemental,planar
+Azer,medium,elemental,underground
+Azer (A5E),medium,elemental,caverns
+Azer (A5E),medium,elemental,plane of fire
+Azer Artisan,medium,elemental,planar
+Azer Artisan,medium,elemental,underground
+Azer Forgemaster (A5E),medium,elemental,caverns
+Azer Forgemaster (A5E),medium,elemental,plane of fire
+Azer Lord,medium,elemental,planar
+Azer Lord,medium,elemental,underground
+Aziza,tiny,fey,forest
+Babau,medium,fiend,underground
+Babau,medium,fiend,urban
+Baboon,small,beast,forest
+Baboon,small,beast,grassland
+Baboon (A5E),small,beast,grassland
+Baboon (A5E),small,beast,jungle
+Badger,tiny,beast,forest
+Badger (A5E),tiny,beast,forest
+Badger (A5E),tiny,beast,grassland
+Bakekujira,gargantuan,undead,coastal
+Bakekujira,gargantuan,undead,aquatic
+Baleful miasma,medium,elemental,any
+Balor (A5E),huge,fiend,abyss
+Balor General (A5E),huge,fiend,abyss
+Banderhobb,large,monstrosity,urban
+Bandit,medium,humanoid,arctic
+Bandit,medium,humanoid,coast
+Bandit,medium,humanoid,desert
+Bandit,medium,humanoid,forest
+Bandit,medium,humanoid,grassland
+Bandit,medium,humanoid,mountain
+Bandit,medium,humanoid,ruins
+Bandit,medium,humanoid,urban
+Bandit (A5E),medium,humanoid,caverns
+Bandit (A5E),medium,humanoid,desert
+Bandit (A5E),medium,humanoid,forest
+Bandit (A5E),medium,humanoid,grassland
+Bandit (A5E),medium,humanoid,hills
+Bandit (A5E),medium,humanoid,jungle
+Bandit (A5E),medium,humanoid,laboratory
+Bandit (A5E),medium,humanoid,mountains
+Bandit (A5E),medium,humanoid,ruin
+Bandit (A5E),medium,humanoid,settlement
+Bandit (A5E),medium,humanoid,sewer
+Bandit (A5E),medium,humanoid,swamp
+Bandit (A5E),medium,humanoid,tundra
+Bandit Captain,medium,humanoid,arctic
+Bandit Captain,medium,humanoid,coast
+Bandit Captain,medium,humanoid,desert
+Bandit Captain,medium,humanoid,forest
+Bandit Captain,medium,humanoid,grassland
+Bandit Captain,medium,humanoid,mountain
+Bandit Captain,medium,humanoid,ruins
+Bandit Captain,medium,humanoid,urban
+Bandit Captain (A5E),medium,humanoid,caverns
+Bandit Captain (A5E),medium,humanoid,desert
+Bandit Captain (A5E),medium,humanoid,forest
+Bandit Captain (A5E),medium,humanoid,grassland
+Bandit Captain (A5E),medium,humanoid,hills
+Bandit Captain (A5E),medium,humanoid,jungle
+Bandit Captain (A5E),medium,humanoid,laboratory
+Bandit Captain (A5E),medium,humanoid,mountains
+Bandit Captain (A5E),medium,humanoid,ruin
+Bandit Captain (A5E),medium,humanoid,settlement
+Bandit Captain (A5E),medium,humanoid,sewer
+Bandit Captain (A5E),medium,humanoid,swamp
+Bandit Captain (A5E),medium,humanoid,tundra
+Bannik,medium,fey,urban
+Banshee (A5E),medium,undead,ethereal plane
+Banshee (A5E),medium,undead,forest
+Banshee (A5E),medium,undead,ruin
+Banshee (A5E),medium,undead,shadowfell
+Banshee (A5E),medium,undead,swamp
+Banshee (A5E),medium,undead,tomb
+Barbed Devil,medium,fiend,dungeon
+Barbed Devil,medium,fiend,planar
+Barbed Devil (A5E),medium,fiend,hell
+Bard,medium,humanoid,urban
+Barghest,large,fiend,forest
+Barghest,large,fiend,grassland
+Barghest,large,fiend,mountain
+Barghest,large,fiend,underground
+Barlgura,large,fiend,dungeon
+Barlgura,large,fiend,planar
+Basilisk,medium,monstrosity,arctic
+Basilisk,medium,monstrosity,cave
+Basilisk,medium,monstrosity,coast
+Basilisk,medium,monstrosity,desert
+Basilisk,medium,monstrosity,dungeon
+Basilisk,medium,monstrosity,forest
+Basilisk,medium,monstrosity,grassland
+Basilisk,medium,monstrosity,mountain
+Basilisk,medium,monstrosity,ruins
+Basilisk,medium,monstrosity,swamp
+Basilisk,medium,monstrosity,underground
+Bastet Temple Cat,small,monstrosity,urban
+Bat,tiny,beast,cave
+Bat,tiny,beast,forest
+Bat,tiny,beast,mountain
+Bat,tiny,beast,underground
+Bat,tiny,beast,urban
+Bat (A5E),tiny,beast,caverns
+Bat (A5E),tiny,beast,forest
+Beach weird,large,elemental,coastal
+Bear King,medium,fey,forests
+Bear King,medium,fey,hills
+Bearded Devil,medium,fiend,dungeon
+Bearded Devil,medium,fiend,planar
+Bearded Devil (A5E),medium,fiend,hell
+Bearfolk,medium,humanoid,forests
+Bearfolk thunderstomper,medium,humanoid,any
+"Beetle, clacker soldier",small,beast,underground
+"Beetle, clacker swarm",medium,swarm,underground
+Behir,huge,monstrosity,cave
+Behir,huge,monstrosity,mountain
+Behir,huge,monstrosity,underground
+Behir Magus (A5E),huge,monstrosity,caverns
+Behir Magus (A5E),huge,monstrosity,plane of earth
+Behir Magus (A5E),huge,monstrosity,ruin
+Beholder,large,aberration,cave
+Beholder,large,aberration,dungeon
+Beholder,large,aberration,underground
+Beholder (in lair),large,aberration,cave
+Beholder (in lair),large,aberration,dungeon
+Beholder (in lair),large,aberration,underground
+Beholder Zombie,large,undead,cave
+Beholder Zombie,large,undead,dungeon
+Beholder Zombie,large,undead,underground
+Behtu,small,humanoid,forests
+Belu,huge,giant,forest
+Belu,huge,giant,swamp
+Berberoka,large,giant,swamp
+Bereginyas,tiny,fey,mountains
+Berserker,medium,humanoid,arctic
+Berserker,medium,humanoid,cave
+Berserker,medium,humanoid,desert
+Berserker,medium,humanoid,forest
+Berserker,medium,humanoid,grassland
+Berserker,medium,humanoid,mountain
+Berserker,medium,humanoid,swamp
+Berserker,medium,humanoid,urban
+Berserker (A5E),medium,humanoid,desert
+Berserker (A5E),medium,humanoid,forest
+Berserker (A5E),medium,humanoid,grassland
+Berserker (A5E),medium,humanoid,hills
+Berserker (A5E),medium,humanoid,jungle
+Berserker (A5E),medium,humanoid,mountains
+Berserker (A5E),medium,humanoid,swamp
+Berserker (A5E),medium,humanoid,tundra
+Bewailer,medium,undead,dungeon
+Bewailer,medium,undead,forest
+Bewailer,medium,undead,ruins
+Bewailer,medium,undead,swamp
+Bheur Hag,medium,fey,arctic
+Biclops,huge,giant,mountain
+Birgemon seal,medium,aberration,arctic
+Birgemon seal,medium,aberration,underwater
+Black Bear (A5E),medium,beast,forest
+Black Bear (A5E),medium,beast,mountains
+Black Dragon Wyrmling,medium,dragon,swamp
+Black Dragon Wyrmling (A5E),medium,dragon,swamp
+Black Earth Priest,medium,humanoid,arctic
+Black Earth Priest,medium,humanoid,cave
+Black Earth Priest,medium,humanoid,coast
+Black Earth Priest,medium,humanoid,desert
+Black Earth Priest,medium,humanoid,dungeon
+Black Earth Priest,medium,humanoid,forest
+Black Earth Priest,medium,humanoid,grassland
+Black Earth Priest,medium,humanoid,mountain
+Black Earth Priest,medium,humanoid,ruins
+Black Earth Priest,medium,humanoid,underground
+Black Great Wyrm (A5E),gargantuan,dragon,lake
+Black Great Wyrm (A5E),gargantuan,dragon,swamps
+Black patch,large,ooze,swamp
+Black Pudding,large,ooze,dungeon
+Black shuck,large,fiend,farmland
+Blackguard,medium,humanoid,underground
+Blackguard,medium,humanoid,urban
+Blackguard (A5E),medium,humanoid,grassland
+Blackguard (A5E),medium,humanoid,hills
+Blackguard (A5E),medium,humanoid,mountains
+Blackguard (A5E),medium,humanoid,settlement
+Blackguard (A5E),medium,humanoid,temple
+Blaspheming hand,large,fiend,any
+Blemmyes,large,monstrosity,hills
+Blemmyes,large,monstrosity,mountains
+Blestsessebe,large,celestial,grassland
+Blestsessebe,large,celestial,planar
+Blink Dog,medium,fey,forest
+Blink Dog,medium,fey,grassland
+Blink Dog (A5E),medium,fey,feywild
+Blink Dog (A5E),medium,fey,forest
+Blink Dog (A5E),medium,fey,grassland
+Blink Dog (A5E),medium,fey,jungle
+Blood barnacle,tiny,beast,coastal
+Blood barnacle,tiny,beast,underwater
+Blood flurry,medium,swarm,arctic
+Blood Hawk,small,monstrosity,forest
+Blood Hawk,small,monstrosity,grassland
+Blood Hawk,small,monstrosity,mountain
+Blood Orchid,large,aberration,underground
+Blood Orchid Grand Savant,huge,aberration,underground
+Blood Orchid Savant,large,aberration,underground
+Bloodhawk (A5E),small,beast,desert
+Bloodhawk (A5E),small,beast,forest
+Bloodhawk (A5E),small,beast,grassland
+Bloodhawk (A5E),small,beast,hills
+Bloodhawk (A5E),small,beast,jungle
+Bloodhawk (A5E),small,beast,mountains
+Bloodhawk (A5E),small,beast,swamp
+Bloodhawk (A5E),small,beast,tundra
+Bloodsuckle,large,plant,forest
+Bloodsuckle,large,plant,grassland
+Bloody Bones,medium,monstrosity,cave
+Bloody Bones,medium,monstrosity,ruins
+Blue Dragon Wyrmling,medium,dragon,desert
+Blue Dragon Wyrmling (A5E),medium,dragon,desert
+Blue Great Wyrm (A5E),gargantuan,dragon,caves
+Blue Great Wyrm (A5E),gargantuan,dragon,coastal
+Blue Great Wyrm (A5E),gargantuan,dragon,desert
+Blue Great Wyrm (A5E),gargantuan,dragon,oasis
+Blue Slaad,large,aberration,planar
+Boalisk,large,monstrosity,aquatic
+Boalisk,large,monstrosity,forest
+Boar,medium,beast,forest
+Boar,medium,beast,grassland
+Boar (A5E),medium,beast,forest
+Bodak,medium,undead,swamp
+Bodak,medium,undead,underground
+Bodak,medium,undead,urban
+Boggard (A5E),medium,humanoid,jungle
+Boggard (A5E),medium,humanoid,plane of water
+Boggard (A5E),medium,humanoid,sewer
+Boggard (A5E),medium,humanoid,swamp
+Boggard Bravo (A5E),medium,humanoid,jungle
+Boggard Bravo (A5E),medium,humanoid,plane of water
+Boggard Bravo (A5E),medium,humanoid,sewer
+Boggard Bravo (A5E),medium,humanoid,swamp
+Boloti,tiny,fey,marshes
+Bolt-Thrower (A5E),small,construct,laboratory
+Bolt-Thrower (A5E),small,construct,ruin
+Bolt-Thrower (A5E),small,construct,sewer
+Bone Cobbler,medium,aberration,underground
+Bone collector,small,undead,any
+Bone collector,small,undead,badlands
+Bone Crab,small,beast,aquatic
+Bone Devil,large,fiend,dungeon
+Bone Devil,large,fiend,planar
+Bone Devil (A5E),large,fiend,hell
+Bone lord,huge,undead,any
+Bone Naga,large,undead,dungeon
+Bone Naga,large,undead,ruins
+Bonesucker,large,aberration,underground
+Brain coral,huge,aberration,underwater
+Bramble Blight,medium,plant,forest
+Bramble Blight,medium,plant,grassland
+Bramble Blight,medium,plant,swamp
+Branch Blight,large,plant,forest
+Branch Blight,large,plant,grassland
+Branch Blight,large,plant,swamp
+Brass Dragon Wyrmling,medium,dragon,cave
+Brass Dragon Wyrmling,medium,dragon,underground
+Brass Dragon Wyrmling (A5E),medium,dragon,desert
+Brass Man,large,construct,planar
+Breathstealer,medium,humanoid,any
+Breathstealer,medium,humanoid,urban
+Brine Sea Serpent,huge,dragon,aquatic
+Brontosaurus,gargantuan,beast,forest
+Brontosaurus,gargantuan,beast,grassland
+Bronze Dragon Wyrmling,medium,dragon,coast
+Bronze Dragon Wyrmling (A5E),medium,dragon,water
+Brown Bear,large,beast,cave
+Brown Bear,large,beast,forest
+Brown Bear (A5E),large,beast,feywild
+Brown Bear (A5E),large,beast,forest
+Brown Bear (A5E),large,beast,mountains
+Brownie,tiny,fey,farmland
+Brownie,tiny,fey,forest
+Brownie,tiny,fey,urban
+Brownie beastrider,tiny,fey,farmland
+Brownie beastrider,tiny,fey,forest
+Brownie beastrider,tiny,fey,urban
+Brownie mystic,tiny,fey,farmland
+Brownie mystic,tiny,fey,forest
+Brownie mystic,tiny,fey,urban
+Brumalek,small,beast,arctic
+Brumalek,small,beast,mountains
+Bugbear,medium,humanoid,cave
+Bugbear,medium,humanoid,dungeon
+Bugbear,medium,humanoid,forest
+Bugbear,medium,humanoid,mountain
+Bugbear,medium,humanoid,ruins
+Bugbear,medium,humanoid,urban
+Bugbear (A5E),medium,humanoid,desert
+Bugbear (A5E),medium,humanoid,forest
+Bugbear (A5E),medium,humanoid,grassland
+Bugbear (A5E),medium,humanoid,hills
+Bugbear (A5E),medium,humanoid,jungle
+Bugbear (A5E),medium,humanoid,mountains
+Bugbear (A5E),medium,humanoid,swamp
+Bugbear Assassin,medium,humanoid,cave
+Bugbear Assassin,medium,humanoid,dungeon
+Bugbear Assassin,medium,humanoid,forest
+Bugbear Assassin,medium,humanoid,mountain
+Bugbear Assassin,medium,humanoid,ruins
+Bugbear Assassin,medium,humanoid,urban
+Bugbear Champion of Hruggek,medium,humanoid,cave
+Bugbear Champion of Hruggek,medium,humanoid,dungeon
+Bugbear Champion of Hruggek,medium,humanoid,forest
+Bugbear Champion of Hruggek,medium,humanoid,mountain
+Bugbear Champion of Hruggek,medium,humanoid,ruins
+Bugbear Champion of Hruggek,medium,humanoid,urban
+Bukavac,large,monstrosity,forests
+Bukavac,large,monstrosity,marshes
+Bulette (A5E),large,monstrosity,desert
+Bulette (A5E),large,monstrosity,forest
+Bulette (A5E),large,monstrosity,grassland
+Bulette (A5E),large,monstrosity,hills
+Bulette (A5E),large,monstrosity,mountains
+Bulette (A5E),large,monstrosity,plane of earth
+Bulette (A5E),large,monstrosity,ruin
+Bulette (A5E),large,monstrosity,settlement
+Bulgasari,huge,monstrosity (bul),forests
+Bulgasari,huge,monstrosity (bul),urban
+Bullywug,medium,humanoid,coast
+Bullywug,medium,humanoid,swamp
+Bullywug Chief,medium,humanoid,coast
+Bullywug Chief,medium,humanoid,swamp
+Bullywug Hunter,medium,humanoid,coast
+Bullywug Hunter,medium,humanoid,swamp
+Bullywug Shaman,medium,humanoid,coast
+Bullywug Shaman,medium,humanoid,swamp
+Burinkatada,gargantuan,giant,coastal
+Burinkatada,gargantuan,giant,urban
+Burinkatada,gargantuan,giant,forests
+Burning Dervish,medium,fiend,planar
+Burrow Shark,medium,humanoid,arctic
+Burrow Shark,medium,humanoid,cave
+Burrow Shark,medium,humanoid,coast
+Burrow Shark,medium,humanoid,desert
+Burrow Shark,medium,humanoid,dungeon
+Burrow Shark,medium,humanoid,forest
+Burrow Shark,medium,humanoid,grassland
+Burrow Shark,medium,humanoid,mountain
+Burrow Shark,medium,humanoid,ruins
+Burrow Shark,medium,humanoid,underground
+Burrowling,small,fey,plains
+Cactid,large,plant,desert
+Caldera kite,large,monstrosity,mountains
+Cambion,medium,fiend,dungeon
+Cambion,medium,fiend,planar
+Cambion,medium,fiend,urban
+Cambion (A5E),medium,fiend,abyss
+Cambion (A5E),medium,fiend,desert
+Cambion (A5E),medium,fiend,hell
+Cambion (A5E),medium,fiend,hills
+Cambion (A5E),medium,fiend,ruin
+Cambion (A5E),medium,fiend,settlement
+Cambion (A5E),medium,fiend,temple
+Cambium,large,fiend,urban
+Camel,large,beast,desert
+Camel (A5E),large,beast,desert
+Camel (A5E),large,beast,settlement
+Cannibal Reaver (A5E),medium,fiend,abyss
+Cannibal Reaver (A5E),medium,fiend,desert
+Cannibal Reaver (A5E),medium,fiend,grassland
+Cannibal Reaver (A5E),medium,fiend,hills
+Cannibal Reaver (A5E),medium,fiend,jungle
+Cannibal Reaver (A5E),medium,fiend,mountains
+Cannibal Reaver (A5E),medium,fiend,settlement
+Capybear,medium,monstrosity,forest
+Capybear,medium,monstrosity,swamp
+Carbuncle,small,monstrosity,forest
+Caretaker weevil,medium,beast,farmland
+Caretaker weevil,medium,beast,forest
+Carrion Crawler,large,monstrosity,cave
+Carrion Crawler,large,monstrosity,dungeon
+Carrion Crawler,large,monstrosity,underground
+Cat,tiny,beast,urban
+Cat (A5E),tiny,beast,settlement
+Catamount,large,monstrosity,badlands
+Catamount,large,monstrosity,mountains
+Caterprism,large,monstrosity,planar
+Catoblepas,large,monstrosity,swamp
+Catonoctrix,large,aberration,badlands
+Catonoctrix,large,aberration,planar
+Catterball,small,fey,forest
+Catterball,small,fey,urban
+Cave Bear (A5E),large,beast,caverns
+Cave Cricket,small,beast,underground
+Cave Eel,medium,beast,cave
+Cave Eel,medium,beast,dungeon
+Cave Fisher,large,monstrosity,underground
+Cave Leech,large,beast,underground
+Cave mimic,gargantuan,monstrosity,any
+Cave mimic,gargantuan,monstrosity,underground
+Cave Ogre (A5E),large,giant,caverns
+Cave Ogre (A5E),large,giant,desert
+Cave Ogre (A5E),large,giant,feywild
+Cave Ogre (A5E),large,giant,forest
+Cave Ogre (A5E),large,giant,grassland
+Cave Ogre (A5E),large,giant,hills
+Cave Ogre (A5E),large,giant,jungle
+Cave Ogre (A5E),large,giant,mountains
+Cave Ogre (A5E),large,giant,plane of earth
+Cave Ogre (A5E),large,giant,ruin
+Cave Ogre (A5E),large,giant,swamp
+Cave Ogre (A5E),large,giant,tundra
+Cave sovereign,huge,aberration,underground
+Cave Troll (A5E),large,giant,caverns
+Cave Wyrmling Dragon,medium,dragon,ruins
+Cave Wyrmling Dragon,medium,dragon,underground
+Cavelight Moss,large,plant,ruins
+Cavelight Moss,large,plant,underground
+Centaur,large,monstrosity,coast
+Centaur,large,monstrosity,desert
+Centaur,large,monstrosity,grassland
+Centaur (A5E),large,fey,feywild
+Centaur (A5E),large,fey,forest
+Centaur (A5E),large,fey,grassland
+Chain Devil,medium,fiend,dungeon
+Chain Devil,medium,fiend,planar
+Chain Devil (A5E),medium,fiend,hell
+Chain Worm,large,beast,underground
+Champion,medium,humanoid,desert
+Champion,medium,humanoid,urban
+Champion Warrior (A5E),medium,humanoid,caverns
+Champion Warrior (A5E),medium,humanoid,desert
+Champion Warrior (A5E),medium,humanoid,feywild
+Champion Warrior (A5E),medium,humanoid,forest
+Champion Warrior (A5E),medium,humanoid,grassland
+Champion Warrior (A5E),medium,humanoid,hills
+Champion Warrior (A5E),medium,humanoid,jungle
+Champion Warrior (A5E),medium,humanoid,settlement
+Champion Warrior (A5E),medium,humanoid,swamp
+Champion Warrior (A5E),medium,humanoid,temple
+Champion Warrior (A5E),medium,humanoid,tundra
+Champion Warrior (A5E),medium,humanoid,water
+Chang Nam,tiny,monstrosity,forests
+Chang Nam,tiny,monstrosity,coastal
+Chaos creeper,medium,plant,hills
+Chaos raptor,gargantuan,monstrosity,mountains
+Chasme,large,fiend,dungeon
+Chasme,large,fiend,planar
+Chelicerae,large,aberration,badlands
+Chemosit,medium,fiend,forest
+Chernomoi,tiny,fey,urban
+Child of the Briar,tiny,plant,forests
+Chimera,large,monstrosity,mountain
+Chimera (A5E),large,monstrosity,desert
+Chimera (A5E),large,monstrosity,feywild
+Chimera (A5E),large,monstrosity,forest
+Chimera (A5E),large,monstrosity,grassland
+Chimera (A5E),large,monstrosity,hills
+Chimera (A5E),large,monstrosity,mountains
+Chimera (A5E),large,monstrosity,sewer
+Chimera (A5E),large,monstrosity,swamp
+Chimera (A5E),large,monstrosity,tundra
+Chimera (A5E),large,monstrosity,water
+Chitine,small,monstrosity,underground
+Choldrith,medium,monstrosity,underground
+Chroma lizard,large,beast,grassland
+Chupacabra,small,monstrosity,forest
+Chupacabra,small,monstrosity,urban
+Churr,large,monstrosity,forest
+Chuul,large,aberration,aquatic
+Chuul,large,aberration,coast
+Chuul (A5E),large,aberration,caverns
+Chuul (A5E),large,aberration,plane of water
+Chuul (A5E),large,aberration,water
+City Watch Captain,medium,humanoid,urban
+Clay Golem,large,construct,dungeon
+Clay Golem,large,construct,ruins
+Clay Golem,large,construct,urban
+Clay Guardian (A5E),large,construct,laboratory
+Clay Guardian (A5E),large,construct,ruin
+Clay Guardian (A5E),large,construct,temple
+Clay Guardian (A5E),large,construct,tomb
+Climbing vine,medium,plant,mountains
+Climbing vine,medium,plant,urban
+Cloaker,large,aberration,cave
+Cloaker,large,aberration,dungeon
+Cloaker,large,aberration,underground
+Cloaker (A5E),large,aberration,caverns
+Cloaker (A5E),large,aberration,laboratory
+Cloaker (A5E),large,aberration,sewer
+Clockwork armadillo,small,construct,urban
+Clockwork conductor,small,construct,urban
+Clockwork Hound,medium,construct,forests
+Clockwork Hound,medium,construct,urban
+Clockwork Huntsman,medium,construct,forests
+Clockwork Huntsman,medium,construct,urban
+Clockwork Myrmidon,large,construct,forests
+Clockwork Myrmidon,large,construct,plains
+Clockwork Myrmidon,large,construct,urban
+Clockwork pugilist,medium,construct,urban
+Clockwork scorpion,large,construct,urban
+Clockwork Sentinel (A5E),medium,construct,laboratory
+Clockwork Sentinel (A5E),medium,construct,ruin
+Clockwork Sentinel (A5E),medium,construct,sewer
+Clockwork tactician,medium,construct,urban
+Clockwork Watchman,medium,construct,urban
+Clockwork Weaving Spider,tiny,construct,urban
+Cloud Giant,huge,giant,mountain
+Cloud Giant,huge,giant,planar
+Cloud Giant Noble (A5E),huge,giant,mountains
+Cloud Giant Noble (A5E),huge,giant,plane of air
+Cloud Giant Smiling One,huge,giant,mountain
+Cloudhoof assassin,medium,beast,mountains
+Clurichaun,tiny,fey,urban
+Cobra Flower,large,plant,forest
+Cockatrice (A5E),small,monstrosity,desert
+Cockatrice (A5E),small,monstrosity,grassland
+Cockatrice (A5E),small,monstrosity,hills
+Cockatrice (A5E),small,monstrosity,jungle
+Cockatrice (A5E),small,monstrosity,mountains
+Cockatrice (A5E),small,monstrosity,ruin
+Cockatrice (A5E),small,monstrosity,swamp
+Coffer Corpse,medium,undead,underground
+Colossal Ape,gargantuan,beast,forests
+Colossal King Ape,gargantuan,beast (titan),forests
+Commoner,medium,humanoid,urban
+Commoner (A5E),medium,humanoid,settlement
+Commoner Mob (A5E),huge,humanoid,settlement
+Conjurer,medium,humanoid,urban
+Conniption bug,small,beast,coastal
+Conniption bug,small,beast,swamp
+Conniption bug,small,beast,underwater
+Constrictor Snake,large,beast,forest
+Constrictor Snake,large,beast,swamp
+Constrictor Snake (A5E),large,beast,jungle
+Constrictor Snake (A5E),large,beast,swamp
+Cooshee,medium,monstrosity,forest
+Copper Dragon Wyrmling (A5E),medium,dragon,hills
+Copper Dragon Wyrmling (A5E),medium,dragon,mountains
+Coral Drake,medium,dragon,aquatic
+Coralfish (A5E),small,monstrosity,plane of water
+Coralfish (A5E),small,monstrosity,water
+Coralfish Cockatrice Variant (A5E),small,monstrosity,aquatic
+Corpse Rook,large,monstrosity,grassland
+Corpselight moth,large,beast,forest
+Corpselight moth,large,beast,planar
+Corpsespinner,huge,monstrosity,planar
+Corpsespun,medium,undead,planar
+Corrupted Unicorn (A5E),large,celestial,feywild
+Corrupted Unicorn (A5E),large,celestial,forest
+Corrupted Unicorn (A5E),large,celestial,jungle
+Cosmic symphony,large,celestial,planar
+Cosmopolitan Alchemist (A5E),medium,humanoid,desert
+Cosmopolitan Alchemist (A5E),medium,humanoid,forest
+Cosmopolitan Alchemist (A5E),medium,humanoid,hills
+Cosmopolitan Alchemist (A5E),medium,humanoid,jungle
+Cosmopolitan Alchemist (A5E),medium,humanoid,laboratory
+Cosmopolitan Alchemist (A5E),medium,humanoid,settlement
+Cosmopolitan Alchemist (A5E),medium,humanoid,swamp
+Couatl,medium,celestial,planar
+Couatl (A5E),medium,celestial,astral plane
+Couatl (A5E),medium,celestial,desert
+Couatl (A5E),medium,celestial,jungle
+Coven Green Hag (A5E),medium,fey,caverns
+Coven Green Hag (A5E),medium,fey,feywild
+Coven Green Hag (A5E),medium,fey,forest
+Coven Green Hag (A5E),medium,fey,jungle
+Coven Green Hag (A5E),medium,fey,ruin
+Coven Green Hag (A5E),medium,fey,settlement
+Coven Green Hag (A5E),medium,fey,shadowfell
+Coven Green Hag (A5E),medium,fey,swamp
+Coven Sea Hag (A5E),medium,fey,feywild
+Coven Sea Hag (A5E),medium,fey,plane of water
+Coven Sea Hag (A5E),medium,fey,water
+Coven Winter Hag (A5E),medium,fey,tundra
+Cow,large,beast,urban
+Cow (Ox),large,beast,urban
+Crab,tiny,beast,aquatic
+Crab,tiny,beast,coast
+Crab (A5E),tiny,beast,water
+"Crab, razorback",medium,beast,farmland
+"Crab, razorback",medium,beast,grassland
+"Crab, samurai",medium,beast,coastal
+"Crab, samurai",medium,beast,underwater
+Crabman,large,monstrosity,aquatic
+Cranium Rat,tiny,beast,underground
+Cranium Rat,tiny,beast,urban
+Crawling Claw,tiny,undead,dungeon
+Crawling Claw,tiny,undead,ruins
+Crawling Claw,tiny,undead,swamp
+Crime Boss (A5E),medium,humanoid,settlement
+Crimson Basilisk,medium,monstrosity,underground
+Crimson Drake,tiny,dragon,forests
+Crimson Mist,medium,undead,swamp
+Crimson Mist,medium,undead,underground
+Crocodile,large,beast,aquatic
+Crocodile,large,beast,coast
+Crocodile,large,beast,swamp
+Crocodile (A5E),large,beast,swamp
+Crocodile (A5E),large,beast,water
+Crocodile Spirit,huge,fey,sea
+Crocodile Spirit,huge,fey,coastal
+Crusher (A5E),large,construct,laboratory
+Crusher (A5E),large,construct,ruin
+Crusher (A5E),large,construct,sewer
+Crushing Wave Priest,medium,humanoid,aquatic
+Crushing Wave Priest,medium,humanoid,cave
+Crushing Wave Priest,medium,humanoid,coast
+Crushing Wave Priest,medium,humanoid,grassland
+Crushing Wave Priest,medium,humanoid,swamp
+Crushing Wave Priest,medium,humanoid,underground
+Crushing Wave Reaver,medium,humanoid,aquatic
+Crushing Wave Reaver,medium,humanoid,cave
+Crushing Wave Reaver,medium,humanoid,coast
+Crushing Wave Reaver,medium,humanoid,grassland
+Crushing Wave Reaver,medium,humanoid,swamp
+Crushing Wave Reaver,medium,humanoid,underground
+Crypt Thing,medium,undead,underground
+Crystalline Devil,medium,fiend,ruins
+Crystalline Devil,medium,fiend,underground
+Crystalline Devil,medium,fiend,urban
+Crystallite,large,giant,mountains
+Crystallite,large,giant,underground
+Cueyatl warchief,small,humanoid,coastal
+Cult Fanatic,medium,humanoid,dungeon
+Cult Fanatic,medium,humanoid,urban
+Cult Fanatic (A5E),medium,humanoid,desert
+Cult Fanatic (A5E),medium,humanoid,forest
+Cult Fanatic (A5E),medium,humanoid,hills
+Cult Fanatic (A5E),medium,humanoid,jungle
+Cult Fanatic (A5E),medium,humanoid,ruin
+Cult Fanatic (A5E),medium,humanoid,settlement
+Cult Fanatic (A5E),medium,humanoid,sewer
+Cult Fanatic (A5E),medium,humanoid,temple
+Cultist (A5E),medium,humanoid,desert
+Cultist (A5E),medium,humanoid,forest
+Cultist (A5E),medium,humanoid,hills
+Cultist (A5E),medium,humanoid,jungle
+Cultist (A5E),medium,humanoid,ruin
+Cultist (A5E),medium,humanoid,settlement
+Cultist (A5E),medium,humanoid,sewer
+Cultist (A5E),medium,humanoid,temple
+Cultist Psychophant,medium,humanoid,any
+Cultist Psychophant,medium,humanoid,urban
+Cutthroat (A5E),medium,humanoid,ruin
+Cutthroat (A5E),medium,humanoid,settlement
+Cutthroat (A5E),medium,humanoid,sewer
+Cyclops,huge,giant,cave
+Cyclops,huge,giant,coast
+Cyclops,huge,giant,grassland
+Cyclops,huge,giant,mountain
+Cyclops,huge,giant,ruins
+Cyclops,huge,giant,swamp
+Cyclops (A5E),huge,giant,desert
+Cyclops (A5E),huge,giant,grassland
+Cyclops (A5E),huge,giant,hills
+Cyclops (A5E),huge,giant,mountains
+Cyclops (A5E),huge,giant,plane of earth
+Cyclops (A5E),huge,giant,ruin
+Cyclops (A5E),huge,giant,swamp
+Cyclops Myrmidon (A5E),huge,giant,desert
+Cyclops Myrmidon (A5E),huge,giant,grassland
+Cyclops Myrmidon (A5E),huge,giant,hills
+Cyclops Myrmidon (A5E),huge,giant,mountains
+Cyclops Myrmidon (A5E),huge,giant,plane of earth
+Cyclops Myrmidon (A5E),huge,giant,ruin
+Cyclops Myrmidon (A5E),huge,giant,swamp
+Cyclops Myrmidon Cyclops Variant (A5E),huge,giant,forests
+Cyclops Myrmidon Cyclops Variant (A5E),huge,giant,caves
+Cyonaxin,medium,celestial,grassland
+Cyonaxin,medium,celestial,planar
+Daeodon,large,beast,forest
+Daeodon,large,beast,grassland
+Dagon,large,fiend,aquatic
+Dagon,large,fiend,planar
+Dao,large,elemental,cave
+Dao,large,elemental,dungeon
+Dao,large,elemental,mountain
+Dao,large,elemental,planar
+Dao,large,elemental,underground
+Darakhul,medium,undead,ruins
+Darakhul,medium,undead,underground
+Dark Creeper,small,humanoid,underground
+Dark Stalker,medium,humanoid,underground
+Dark Triton,large,monstrosity,aquatic
+Dark Triton Captain,large,monstrosity,aquatic
+Dark Triton Lieutenant,large,monstrosity,aquatic
+Dark Triton Shaman,large,monstrosity,aquatic
+Darkling,small,fey,forest
+Darkling,small,fey,swamp
+Darkling,small,fey,underground
+Darkling,small,fey,urban
+Darkling Elder,medium,fey,forest
+Darkling Elder,medium,fey,swamp
+Darkling Elder,medium,fey,underground
+Darkling Elder,medium,fey,urban
+Darkmantle,small,monstrosity,cave
+Darkmantle,small,monstrosity,underground
+Darkmantle (A5E),small,monstrosity,caverns
+Darkmantle (A5E),small,monstrosity,shadowfell
+Dau,small,fey,desert
+Dawnfly,gargantuan,beast,badlands
+Dawnfly,gargantuan,beast,coastal
+Dawnfly,gargantuan,beast,swamp
+Dead Man's Fingers (A5E),medium,plant,swamps
+Dead Man's Fingers (A5E),medium,plant,forests
+Dead Man's Fingers (A5E),medium,plant,caves
+Dead Man’s Fingers (A5E),medium,plant,forest
+Dead Man’s Fingers (A5E),medium,plant,swamp
+Death Butterfly Swarm,large swarm,beast,forests
+Death Butterfly Swarm,large swarm,beast,plains
+Death Dog,medium,monstrosity,desert
+Death Kiss,large,aberration,underground
+Death Knight,medium,undead,arctic
+Death Knight,medium,undead,cave
+Death Knight,medium,undead,coast
+Death Knight,medium,undead,desert
+Death Knight,medium,undead,dungeon
+Death Knight,medium,undead,forest
+Death Knight,medium,undead,grassland
+Death Knight,medium,undead,mountain
+Death Knight,medium,undead,ruins
+Death Knight,medium,undead,swamp
+Death Knight,medium,undead,underground
+Death Knight,medium,undead,urban
+Death Slaad,medium,aberration,planar
+Death Tyrant,large,undead,cave
+Death Tyrant,large,undead,dungeon
+Death Tyrant,large,undead,underground
+Death Worm,large,monstrosity,badlands
+Death Worm,large,monstrosity,desert
+Death Worm,large,monstrosity,mountains
+Decapus,medium,aberration,forest
+Decapus,medium,aberration,ruins
+Decapus,medium,aberration,underground
+Deep Drake,large,dragon,ruins
+Deep Drake,large,dragon,underground
+Deep Dwarf Soldier (A5E),medium,humanoid,caverns
+Deep Dwarf Soldier (A5E),medium,humanoid,mountains
+Deep Gnome (Svirfneblin),small,humanoid,cave
+Deep Gnome (Svirfneblin),small,humanoid,dungeon
+Deep Gnome (Svirfneblin),small,humanoid,planar
+Deep Gnome (Svirfneblin),small,humanoid,underground
+Deep Hunter Sea Serpent,gargantuan,dragon,aquatic
+Deep One Archimandrite,large,humanoid,aquatic
+Deep One Priest,medium,humanoid,aquatic
+Deep Ones,medium,humanoid,aquatic
+Deer,medium,beast,forest
+Deer,medium,beast,grassland
+Deer (A5E),medium,beast,feywild
+Deer (A5E),medium,beast,forest
+Deer (A5E),medium,beast,grassland
+Degenerate Titan,huge,giant,plains
+Degenerate Titan,huge,giant,ruins
+Degenerate Titan,huge,giant,underground
+Deinonychus,medium,beast,forest
+Deinonychus,medium,beast,grassland
+Demilich,tiny,undead,dungeon
+Demilich (A5E),tiny,undead,laboratory
+Demilich (A5E),tiny,undead,ruin
+Demilich (A5E),tiny,undead,shadowfell
+Demilich (A5E),tiny,undead,tomb
+Demilich (in lair),tiny,undead,dungeon
+Demilich Mastermind (A5E),tiny,undead,laboratory
+Demilich Mastermind (A5E),tiny,undead,ruin
+Demilich Mastermind (A5E),tiny,undead,shadowfell
+Demilich Mastermind (A5E),tiny,undead,tomb
+"Demon, balbazu",tiny,fiend,planar
+"Demon, inciter",medium,fiend,planar
+"Demon, inciter",medium,fiend,urban
+"Demon, kogukhpak",huge,fiend,underground
+"Demon, maha",medium,fiend,arctic
+"Demon, vetala",medium,fiend,planar
+"Demon, vetala",medium,fiend,urban
+Derro,small,humanoid,underground
+Derro Fetal Savant,tiny,humanoid,ruins
+Derro Fetal Savant,tiny,humanoid,underground
+"Derro, hellforged",small,humanoid,planar
+"Derro, voidwarped",small,humanoid,planar
+Desert slime,large,ooze,desert
+Despair and anger,large,celestial,planar
+Deva,medium,celestial,planar
+Deva (A5E),medium,celestial,astral plane
+Deva (A5E),medium,celestial,temple
+"Devil, arch, iorvensiav",gargantuan,fiend,arctic
+"Devil, arch, iorvensiav",gargantuan,fiend,planar
+"Devil, devilflame juggler",large,fiend,planar
+"Devil, infernal tutor, lesser",medium,fiend,hills
+"Devil, infernal tutor, lesser",medium,fiend,mountains
+"Devil, maelstrom",large,fiend,coastal
+"Devil, maelstrom",large,fiend,planar
+"Devil, maelstrom",large,fiend,underwater
+"Devil, moldering",small,fiend,farmland
+"Devil, rimepacted",medium,fiend,arctic
+Devourer,large,fiend,underground
+Devouring angel,large,aberration,planar
+Dimetrodon,medium,beast,swamp
+"Dinosaur, jeholopterus",small,beast,coastal
+"Dinosaur, jeholopterus",small,beast,forest
+"Dinosaur, jeholopterus",small,beast,swamp
+"Dinosaur, razorfeather raptor",medium,monstrosity,forest
+"Dinosaur, razorfeather raptor",medium,monstrosity,swamp
+"Dinosaur, therizinosaurus",huge,beast,forest
+"Dinosaur, thundercall hadrosaur",huge,monstrosity,farmland
+"Dinosaur, thundercall hadrosaur",huge,monstrosity,grassland
+"Dinosaur, thundercall hadrosaur",huge,monstrosity,swamp
+Diomedian horse,large,beast,grassland
+Diplodocus (A5E),gargantuan,beast,grassland
+Diplodocus (A5E),gargantuan,beast,jungle
+Diplodocus (A5E),gargantuan,beast,mountains
+Diplodocus (A5E),gargantuan,beast,swamp
+Dipsa,tiny,ooze,marshes
+Dire Centipede (A5E),large,beast,caverns
+Dire Centipede (A5E),large,beast,ruin
+Dire Corby,medium,monstrosity,underground
+Dire lionfish,large,beast,underwater
+Dire owlbear,large,monstrosity,forest
+Dire owlbear,large,monstrosity,underground
+Dire pangolin,large,beast,forest
+Dire pangolin,large,beast,grassland
+Dire Tyrannosaurus Rex (A5E),huge,beast,grassland
+Dire Tyrannosaurus Rex (A5E),huge,beast,jungle
+Dire Tyrannosaurus Rex (A5E),huge,beast,mountains
+Dire Tyrannosaurus Rex (A5E),huge,beast,swamp
+Dire wildebeest,large,beast,grassland
+Dire Wolf,large,beast,arctic
+Dire Wolf,large,beast,cave
+Dire Wolf,large,beast,forest
+Dire Wolf,large,beast,grassland
+Dire Wolf (A5E),large,beast,feywild
+Dire Wolf (A5E),large,beast,forest
+Dire Wolf (A5E),large,beast,grassland
+Dire Wolf (A5E),large,beast,hills
+Dire Wolf (A5E),large,beast,mountains
+Dire Wolf (A5E),large,beast,tundra
+Diseased Giant Rat (A5E),small,beast,caverns
+Diseased Giant Rat (A5E),small,beast,forest
+Diseased Giant Rat (A5E),small,beast,ruin
+Diseased Giant Rat (A5E),small,beast,settlement
+Diseased Giant Rat (A5E),small,beast,sewer
+Diseased Giant Rat (A5E),small,beast,swamp
+Div,small,elemental,badlands
+Div,small,elemental,desert
+Divi Noble (A5E),large,elemental,caverns
+Divi Noble (A5E),large,elemental,plane of earth
+Diviner,medium,humanoid,urban
+Diving gel,tiny,ooze,coastal
+Diving gel,tiny,ooze,underwater
+Diwata,large,fey,forests
+Diwata,large,fey,coastal
+Diwata,large,fey,mountains
+Diwata,large,fey,caves
+Djinni,large,elemental,arctic
+Djinni,large,elemental,coast
+Djinni,large,elemental,dungeon
+Djinni,large,elemental,grassland
+Djinni,large,elemental,planar
+Djinni Noble (A5E),large,elemental,desert
+Djinni Noble (A5E),large,elemental,plane of air
+Dogmole,medium,beast,forests
+Dogmole,medium,beast,hills
+Dogmole,medium,beast,mountains
+Dogmole Juggernaut,large,monstrosity,hills
+Dogmole Juggernaut,large,monstrosity,mountains
+Dogmole Juggernaut,large,monstrosity,ruins
+Dogmole Juggernaut,large,monstrosity,underground
+Dokkaebi,medium,fey,farmland
+Dolphin,medium,beast,coast
+Dolphin,medium,beast,aquatic
+Domovoi,medium,fey,desert
+Domovoi,medium,fey,forests
+Doom creeper,small,plant,forest
+Doombat,large,monstrosity,underground
+Doppelganger,medium,monstrosity,dungeon
+Doppelganger,medium,monstrosity,ruins
+Doppelganger,medium,monstrosity,urban
+Doppelganger (A5E),medium,monstrosity,caverns
+Doppelganger (A5E),medium,monstrosity,forest
+Doppelganger (A5E),medium,monstrosity,grassland
+Doppelganger (A5E),medium,monstrosity,hills
+Doppelganger (A5E),medium,monstrosity,laboratory
+Doppelganger (A5E),medium,monstrosity,ruin
+Doppelganger (A5E),medium,monstrosity,settlement
+Doppelganger (A5E),medium,monstrosity,sewer
+Doppelganger (A5E),medium,monstrosity,shadowfell
+Doppelixir,tiny,ooze,any
+Doppelixir,tiny,ooze,urban
+Doppelrat,tiny,monstrosity,ruins
+Doppelrat,tiny,monstrosity,underground
+Doppelrat,tiny,monstrosity,urban
+Dorreq,medium,aberration,badlands
+Draegloth,large,fiend,underground
+Draft Horse,large,beast,urban
+Draft Horse (A5E),large,beast,settlement
+Dragon Eel,huge,dragon,aquatic
+Dragon Eel,huge,dragon,ruins
+Dragon Eel,huge,dragon,underground
+Dragon Turtle,gargantuan,dragon,aquatic
+Dragon Turtle (A5E),gargantuan,dragon,plane of water
+Dragon Turtle (A5E),gargantuan,dragon,water
+"Dragon, prismatic adult",huge,dragon,underground
+"Dragon, prismatic ancient",gargantuan,dragon,underground
+"Dragon, prismatic young",large,dragon,underground
+"Dragon, sand ancient",gargantuan,dragon,badlands
+"Dragon, sand ancient",gargantuan,dragon,desert
+"Dragon, sand wyrmling",medium,dragon,badlands
+"Dragon, sand wyrmling",medium,dragon,desert
+"Dragon, sand young",large,dragon,badlands
+"Dragon, sand young",large,dragon,desert
+Dragonbound Warrior (A5E),medium,humanoid,desert
+Dragonbound Warrior (A5E),medium,humanoid,forest
+Dragonbound Warrior (A5E),medium,humanoid,hills
+Dragonbound Warrior (A5E),medium,humanoid,jungle
+Dragonbound Warrior (A5E),medium,humanoid,mountains
+Dragonbound Warrior (A5E),medium,humanoid,ruin
+Dragonbound Warrior (A5E),medium,humanoid,swamp
+Dragonbound Warrior (A5E),medium,humanoid,tundra
+Dragonclaw,medium,humanoid,dungeon
+Dragonclaw,medium,humanoid,urban
+"Dragonette, sedge",tiny,dragon,swamp
+"Dragonette, shovel",tiny,dragon,farmland
+"Dragonette, shovel",tiny,dragon,forest
+"Dragonette, shovel",tiny,dragon,grassland
+"Dragonette, shovel",tiny,dragon,urban
+Dragonfang,medium,humanoid,dungeon
+Dragonfang,medium,humanoid,urban
+Dragonleaf Tree,large,plant,forests
+Dragonleaf Tree,large,plant,urban
+Dragonsoul,medium,humanoid,dungeon
+Dragonsoul,medium,humanoid,urban
+Dragonwing,medium,humanoid,dungeon
+Dragonwing,medium,humanoid,urban
+Drainpipe Gargoyle (A5E),medium,elemental,hills
+Drainpipe Gargoyle (A5E),medium,elemental,laboratory
+Drainpipe Gargoyle (A5E),medium,elemental,mountains
+Drainpipe Gargoyle (A5E),medium,elemental,plane of earth
+Drainpipe Gargoyle (A5E),medium,elemental,ruin
+Drainpipe Gargoyle (A5E),medium,elemental,settlement
+Drainpipe Gargoyle (A5E),medium,elemental,temple
+Drainpipe Gargoyle (A5E),medium,elemental,tomb
+"Drake, bakery",small,dragon,urban
+"Drake, ethereal",large,dragon,planar
+"Drake, ethereal",large,dragon,urban
+"Drake, reef",huge,dragon,coastal
+"Drake, reef",huge,dragon,underwater
+"Drake, shepherd",medium,dragon,farmland
+"Drake, shepherd",medium,dragon,hills
+"Drake, vapor",large,dragon,swamp
+"Drake, venom",large,dragon,forest
+Dread Knight (A5E),medium,undead,mountains
+Dread Knight (A5E),medium,undead,ruin
+Dread Knight (A5E),medium,undead,shadowfell
+Dread Knight (A5E),medium,undead,tomb
+Dread Knight Champion (A5E),medium,undead,mountains
+Dread Knight Champion (A5E),medium,undead,ruin
+Dread Knight Champion (A5E),medium,undead,shadowfell
+Dread Knight Champion (A5E),medium,undead,tomb
+Dream Eater,medium,fiend,ruins
+Dream Eater,medium,fiend,underground
+Dream Eater,medium,fiend,urban
+Dretch,small,fiend,dungeon
+Dretch,small,fiend,planar
+Dretch (A5E),small,fiend,abyss
+Drider,large,monstrosity,dungeon
+Drider,large,monstrosity,underground
+Drider (A5E),large,monstrosity,feywild
+Drider (A5E),large,monstrosity,ruin
+Drop Bear (A5E),large,beast,tundra
+Drow,medium,humanoid,dungeon
+Drow,medium,humanoid,underground
+Drow,medium,humanoid,urban
+Drow Elite Warrior,medium,humanoid,dungeon
+Drow Elite Warrior,medium,humanoid,underground
+Drow Elite Warrior,medium,humanoid,urban
+Drow Mage,medium,humanoid,dungeon
+Drow Mage,medium,humanoid,underground
+Drow Mage,medium,humanoid,urban
+Drowned Maiden,medium,undead,aquatic
+Drudge pitcher,huge,plant,forest
+Druid (A5E),medium,humanoid,desert
+Druid (A5E),medium,humanoid,forest
+Druid (A5E),medium,humanoid,grassland
+Druid (A5E),medium,humanoid,hills
+Druid (A5E),medium,humanoid,jungle
+Druid (A5E),medium,humanoid,mountains
+Druid (A5E),medium,humanoid,swamp
+Druid (A5E),medium,humanoid,tundra
+Dryad,medium,fey,forest
+Dubius,small,fiend,farmland
+Dubius,small,fiend,planar
+Dubius,small,fiend,urban
+Duelist (A5E),medium,humanoid,settlement
+Duergar,medium,humanoid,dungeon
+Duergar,medium,humanoid,underground
+Duodrone,medium,construct,planar
+Dust Digger,large,aberration,desert
+Dust Goblin,small,humanoid,badlands
+Dust Goblin,small,humanoid,desert
+Dust Goblin,small,humanoid,ruins
+Dust Goblin,small,humanoid,underground
+Dust grazer,large,aberration,badlands
+Dust Mephit,small,elemental,dungeon
+Dust Mephit,small,elemental,planar
+Dust Mephit,small,elemental,ruins
+Dust Mephit,small,elemental,urban
+Dust Mephit (A5E),small,elemental,desert
+Dust Mephit (A5E),small,elemental,mountains
+Dust Mephit (A5E),small,elemental,plane of air
+Dust Mephit (A5E),small,elemental,plane of earth
+"Dwarf, angler",medium,humanoid,mountains
+"Dwarf, angler",medium,humanoid,underground
+"Dwarf, firecracker",medium,humanoid,any
+"Dwarf, pike guard captain",medium,humanoid,any
+Eagle,small,beast,arctic
+Eagle,small,beast,grassland
+Eagle,small,beast,mountain
+Eagle (A5E),small,beast,hills
+Eagle (A5E),small,beast,mountains
+Earth Elemental,large,elemental,arctic
+Earth Elemental,large,elemental,cave
+Earth Elemental,large,elemental,coast
+Earth Elemental,large,elemental,desert
+Earth Elemental,large,elemental,dungeon
+Earth Elemental,large,elemental,forest
+Earth Elemental,large,elemental,grassland
+Earth Elemental,large,elemental,mountain
+Earth Elemental,large,elemental,planar
+Earth Elemental,large,elemental,ruins
+Earth Elemental,large,elemental,swamp
+Earth Elemental,large,elemental,underground
+Earth Elemental (A5E),large,elemental,laboratory
+Earth Elemental (A5E),large,elemental,plane of earth
+Eblis,medium,monstrosity,swamp
+Edimmu,medium,undead,desert
+Eel Hound,medium,fey,aquatic
+Efreeti,large,elemental,desert
+Efreeti,large,elemental,dungeon
+Efreeti,large,elemental,mountain
+Efreeti,large,elemental,planar
+Efreeti (A5E),large,elemental,desert
+Efreeti (A5E),large,elemental,mountains
+Efreeti (A5E),large,elemental,plane of fire
+Efreeti Noble (A5E),large,elemental,desert
+Efreeti Noble (A5E),large,elemental,mountains
+Efreeti Noble (A5E),large,elemental,plane of fire
+Elder Black Pudding (A5E),huge,ooze,caverns
+Elder Black Pudding (A5E),huge,ooze,ruin
+Elder Black Pudding (A5E),huge,ooze,sewer
+Elder Black Pudding (A5E),huge,ooze,water
+Elder Brain,large,aberration,underground
+Elder Shadow Drake,large,dragon,forests
+Elder Vampire (A5E),medium,undead,forest
+Elder Vampire (A5E),medium,undead,hills
+Elder Vampire (A5E),medium,undead,mountains
+Elder Vampire (A5E),medium,undead,ruin
+Elder Vampire (A5E),medium,undead,settlement
+Elder Vampire (A5E),medium,undead,shadowfell
+Elder Vampire (A5E),medium,undead,tomb
+Eleinomae,medium,fey,marshes
+"Elemental, rockslide",large,elemental,mountains
+Elephant,huge,beast,grassland
+Elephant (A5E),huge,beast,desert
+Elephant (A5E),huge,beast,forest
+Elephant (A5E),huge,beast,grassland
+Elephant (A5E),huge,beast,jungle
+Elk,large,beast,forest
+Elk,large,beast,grassland
+Elk (A5E),large,beast,forest
+Elk (A5E),large,beast,tundra
+Elusa Hound,medium,monstrosity,forest
+Elusa Hound,medium,monstrosity,grassland
+Ember glider,medium,monstrosity,hills
+Ember glider,medium,monstrosity,mountains
+Emerald Dragon Wyrmling (A5E),medium,dragon,caverns
+Emerald Dragon Wyrmling (A5E),medium,dragon,ruin
+Emerald Dragon Wyrmling (A5E),medium,dragon,sewer
+Emperor of the Ghouls,medium,undead,ruins
+Emperor of the Ghouls,medium,undead,underground
+Emperor of the Ghouls,medium,undead,urban
+Empyrean,huge,celestial,planar
+Enchanter,medium,humanoid,urban
+Erina Defender,small,humanoid,forests
+Erina Defender,small,humanoid,hills
+Erina Defender,small,humanoid,plains
+Erina Scrounger,small,humanoid,forests
+Erina Scrounger,small,humanoid,hills
+Erina Scrounger,small,humanoid,plains
+Erina tussler,small,humanoid,forest
+Erina tussler,small,humanoid,grassland
+Erina tussler,small,humanoid,hills
+Erinyes,medium,fiend,dungeon
+Erinyes,medium,fiend,planar
+Erinyes (A5E),medium,fiend,hell
+Eternal Flame Guardian,medium,humanoid,cave
+Eternal Flame Guardian,medium,humanoid,desert
+Eternal Flame Guardian,medium,humanoid,dungeon
+Eternal Flame Guardian,medium,humanoid,forest
+Eternal Flame Guardian,medium,humanoid,grassland
+Eternal Flame Guardian,medium,humanoid,mountain
+Eternal Flame Guardian,medium,humanoid,ruins
+Eternal Flame Guardian,medium,humanoid,underground
+Eternal Flame Priest,medium,humanoid,cave
+Eternal Flame Priest,medium,humanoid,desert
+Eternal Flame Priest,medium,humanoid,dungeon
+Eternal Flame Priest,medium,humanoid,forest
+Eternal Flame Priest,medium,humanoid,grassland
+Eternal Flame Priest,medium,humanoid,mountain
+Eternal Flame Priest,medium,humanoid,ruins
+Eternal Flame Priest,medium,humanoid,underground
+Ettercap,medium,monstrosity,cave
+Ettercap,medium,monstrosity,dungeon
+Ettercap,medium,monstrosity,forest
+Ettercap,medium,monstrosity,ruins
+Ettercap,medium,monstrosity,swamp
+Ettercap,medium,monstrosity,underground
+Ettercap (A5E),medium,monstrosity,forest
+Ettercap (A5E),medium,monstrosity,jungle
+Ettercap (A5E),medium,monstrosity,swamp
+Ettin,large,giant,cave
+Ettin,large,giant,grassland
+Ettin,large,giant,mountain
+Ettin,large,giant,swamp
+Evoker,medium,humanoid,urban
+Eye of the Deep,medium,aberration,aquatic
+Eye of the Deep,medium,aberration,cave
+Eye of the Deep,medium,aberration,coast
+Eye of the Deep,medium,aberration,dungeon
+Eye of the Deep,medium,aberration,underground
+Faerie Dragon (A5E),tiny,dragon,feywild
+Faerie Dragon (A5E),tiny,dragon,forest
+Faerie Dragon (A5E),tiny,dragon,jungle
+Faerie Dragon (blue),tiny,dragon,forest
+Faerie Dragon (blue),tiny,dragon,grassland
+Faerie Dragon (blue),tiny,dragon,mountain
+Faerie Dragon (blue),tiny,dragon,ruins
+Faerie Dragon (blue),tiny,dragon,swamp
+Faerie Dragon (green),tiny,dragon,forest
+Faerie Dragon (green),tiny,dragon,grassland
+Faerie Dragon (green),tiny,dragon,mountain
+Faerie Dragon (green),tiny,dragon,ruins
+Faerie Dragon (green),tiny,dragon,swamp
+Faerie Dragon (indigo),tiny,dragon,forest
+Faerie Dragon (indigo),tiny,dragon,grassland
+Faerie Dragon (indigo),tiny,dragon,mountain
+Faerie Dragon (indigo),tiny,dragon,ruins
+Faerie Dragon (indigo),tiny,dragon,swamp
+Faerie Dragon (red),tiny,dragon,forest
+Faerie Dragon (red),tiny,dragon,grassland
+Faerie Dragon (red),tiny,dragon,mountain
+Faerie Dragon (red),tiny,dragon,ruins
+Faerie Dragon (red),tiny,dragon,swamp
+Faerie Dragon (violet),tiny,dragon,forest
+Faerie Dragon (violet),tiny,dragon,grassland
+Faerie Dragon (violet),tiny,dragon,mountain
+Faerie Dragon (violet),tiny,dragon,ruins
+Faerie Dragon (violet),tiny,dragon,swamp
+Faerie Dragon (yellow),tiny,dragon,forest
+Faerie Dragon (yellow),tiny,dragon,grassland
+Faerie Dragon (yellow),tiny,dragon,mountain
+Faerie Dragon (yellow),tiny,dragon,ruins
+Faerie Dragon (yellow),tiny,dragon,swamp
+Faerie Dragon Familiar (A5E),tiny,dragon,feywild
+Faerie Dragon Familiar (A5E),tiny,dragon,forest
+Faerie Dragon Familiar (A5E),tiny,dragon,jungle
+Faerie Eater Troll (A5E),large,giant,feywild
+Fallen Deva (A5E),medium,celestial,astral plane
+Fallen Deva (A5E),medium,celestial,temple
+Fallen Planetar (A5E),large,celestial,astral plane
+Fallen Planetar (A5E),large,celestial,temple
+Fanged Sea Serpent,large,dragon,aquatic
+Far Darrig,small,fey,forests
+Far Darrig,small,fey,plains
+Fathomer,medium,humanoid,aquatic
+Fathomer,medium,humanoid,cave
+Fathomer,medium,humanoid,coast
+Fathomer,medium,humanoid,grassland
+Fathomer,medium,humanoid,swamp
+Fathomer,medium,humanoid,underground
+Faux-garou,medium,construct,forest
+Faux-garou,medium,construct,swamp
+Fear Guard,medium,undead,underground
+Feathergale knight,medium,humanoid,arctic
+Feathergale knight,medium,humanoid,cave
+Feathergale knight,medium,humanoid,coast
+Feathergale knight,medium,humanoid,desert
+Feathergale knight,medium,humanoid,dungeon
+Feathergale knight,medium,humanoid,grassland
+Feathergale knight,medium,humanoid,mountain
+Feathergale knight,medium,humanoid,ruins
+Fen Witch,medium,monstrosity,swamp
+Feral Undead Cat,small,undead,ruins
+Fetch,medium,undead,grassland
+Fetch,medium,undead,mountain
+"Fey lady, coral queen",medium,fey,coastal
+"Fey lady, coral queen",medium,fey,underwater
+"Fey lady, countess of garlands",medium,fey,forest
+"Fey lord, rainforest king",medium,fey,forest
+"Fiend lord, malaabit",large,fiend,badlands
+"Fiend lord, malaabit",large,fiend,desert
+"Fiend lord, malaabit",large,fiend,mountains
+Fire Drake,small,dragon,mountain
+Fire Elemental,large,elemental,cave
+Fire Elemental,large,elemental,coast
+Fire Elemental,large,elemental,desert
+Fire Elemental,large,elemental,dungeon
+Fire Elemental,large,elemental,grassland
+Fire Elemental,large,elemental,mountain
+Fire Elemental,large,elemental,planar
+Fire Elemental,large,elemental,ruins
+Fire Elemental,large,elemental,underground
+Fire Elemental (A5E),large,elemental,laboratory
+Fire Elemental (A5E),large,elemental,plane of fire
+Fire Elemental Myrmidon,medium,elemental,cave
+Fire Elemental Myrmidon,medium,elemental,coast
+Fire Elemental Myrmidon,medium,elemental,desert
+Fire Elemental Myrmidon,medium,elemental,dungeon
+Fire Elemental Myrmidon,medium,elemental,grassland
+Fire Elemental Myrmidon,medium,elemental,mountain
+Fire Elemental Myrmidon,medium,elemental,planar
+Fire Elemental Myrmidon,medium,elemental,ruins
+Fire Elemental Myrmidon,medium,elemental,swamp
+Fire Elemental Myrmidon,medium,elemental,underground
+Fire Elemental Myrmidon,medium,elemental,urban
+Fire Giant,huge,giant,mountain
+Fire Giant,huge,giant,planar
+Fire Giant (A5E),huge,giant,desert
+Fire Giant (A5E),huge,giant,mountains
+Fire Giant (A5E),huge,giant,plane of fire
+Fire Giant (A5E),huge,giant,settlement
+Fire Giant Dreadnought,huge,giant,mountain
+Fire Giant Dreadnought,huge,giant,underground
+Fire Kyeryong,small,monstrosity,mountains
+Fire Monkey,small,monstrosity,forests
+Fire Snake,medium,elemental,forest
+Fire Snake,medium,elemental,planar
+Firenewt Warlock of Imix,medium,humanoid,grassland
+Firenewt Warlock of Imix,medium,humanoid,mountain
+Firenewt Warlock of Imix,medium,humanoid,underground
+First Servant,medium,humanoid,any
+First Servant,medium,humanoid,urban
+Fixer,medium,humanoid,urban
+Flab Giant,large,giant,hills
+Flab Giant,large,giant,mountains
+Flail Snail,large,monstrosity,ruins
+Flail Snail,large,monstrosity,underground
+Flame-Spitting Statue (A5E),large,construct,plane of fire
+Flame-Spitting Statue (A5E),large,construct,ruin
+Flame-Spitting Statue (A5E),large,construct,temple
+Flameskull,tiny,undead,dungeon
+Flameskull,tiny,undead,ruins
+Flamewrath,medium,humanoid,cave
+Flamewrath,medium,humanoid,desert
+Flamewrath,medium,humanoid,dungeon
+Flamewrath,medium,humanoid,forest
+Flamewrath,medium,humanoid,grassland
+Flamewrath,medium,humanoid,mountain
+Flamewrath,medium,humanoid,ruins
+Flamewrath,medium,humanoid,underground
+Flesh Golem,medium,construct,dungeon
+Flesh Golem,medium,construct,ruins
+Flesh Guardian (A5E),medium,construct,laboratory
+Flesh Guardian (A5E),medium,construct,ruin
+Flesh Guardian (A5E),medium,construct,temple
+Flesh Guardian (A5E),medium,construct,tomb
+Flind,medium,humanoid,arctic
+Flind,medium,humanoid,forest
+Flind,medium,humanoid,grassland
+Flowershroud,large,plant,forest
+Flowershroud,large,plant,grassland
+Flumph,small,aberration,dungeon
+Flumph,small,aberration,underground
+Flumph (A5E),small,aberration,caverns
+Flumph (A5E),small,aberration,water
+Flumph Familiar (A5E),small,aberration,caverns
+Flumph Familiar (A5E),small,aberration,water
+Flying Caltrop,tiny,construct,dungeon
+Flying Caltrop,tiny,construct,ruins
+Flying Caltrop,tiny,construct,urban
+Flying Lion (A5E),large,monstrosity,desert
+Flying Lion (A5E),large,monstrosity,grassland
+Flying Lion (A5E),large,monstrosity,hills
+Flying Lion (A5E),large,monstrosity,mountains
+Flying Lion (A5E),large,monstrosity,plane of air
+Flying Shield,small,construct,dungeon
+Flying Shield,small,construct,ruins
+Flying Shield,small,construct,urban
+Flying Snake (A5E),tiny,beast,desert
+Flying Snake (A5E),tiny,beast,feywild
+Flying Snake (A5E),tiny,beast,jungle
+Flying Snake (A5E),tiny,beast,swamp
+Flying Sword,small,construct,dungeon
+Flying Sword,small,construct,ruins
+Flying Sword,small,construct,urban
+Flying Sword (A5E),small,construct,laboratory
+Flying Sword (A5E),small,construct,ruin
+Fomorian,huge,giant,cave
+Fomorian,huge,giant,underground
+Foo Dog,medium,monstrosity,planar
+Forest Gnome Illusionist (A5E),medium,humanoid,feywild
+Forest Gnome Illusionist (A5E),medium,humanoid,forest
+Forest Gnome Illusionist (A5E),medium,humanoid,hills
+Forest Gnome Illusionist (A5E),medium,humanoid,jungle
+Forest Gnome Illusionist (A5E),medium,humanoid,laboratory
+Forest Gnome Illusionist (A5E),medium,humanoid,settlement
+Forest Gnome Illusionist (A5E),medium,humanoid,swamp
+Forest Marauder,large,giant,badlands
+Forest Marauder,large,giant,forests
+Forester's Bane,large,plant,grassland
+Forgotten God (A5E),large,celestial,temple
+Forgotten God (A5E),large,celestial,tomb
+Four-Armed Gargoyle,medium,monstrosity,aquatic
+Four-Armed Gargoyle,medium,monstrosity,underground
+Foxwere,small,monstrosity,forest
+Foxwere,small,monstrosity,underground
+Frog,tiny,beast,aquatic
+Frog,tiny,beast,coast
+Frog,tiny,beast,forest
+Frog,tiny,beast,swamp
+Froghemoth,huge,aberration,swamp
+Frost Giant (A5E),huge,giant,mountains
+Frost Giant (A5E),huge,giant,shadowfell
+Frost Giant (A5E),huge,giant,tundra
+Frost Giant Everlasting One,huge,giant,arctic
+Frost Giant Everlasting One,huge,giant,coast
+Frost Giant Jarl,huge,giant,mountains
+Frost Giant Jarl,huge,giant,shadowfell
+Frost Giant Jarl,huge,giant,tundra
+Frost Giant Jarl (A5E),huge,giant,snow
+Frost-Afflicted,medium,humanoid,arctic
+Frostjack,medium,fey,arctic
+Frostveil,medium,plant,hills
+Frostveil,medium,plant,plains
+"Fungi, duskwilt",small,plant,underground
+"Fungi, mulcher",gargantuan,plant,farmland
+"Fungi, mulcher",gargantuan,plant,forest
+"Fungi, mulcher",gargantuan,plant,hills
+"Fungi, void fungus",medium,plant,forest
+"Fungi, void fungus",medium,plant,planar
+"Fungi, void fungus",medium,plant,underground
+Fungoid,medium,plant,swamp
+Fungus Bat,medium,plant,underground
+Fyr,small,fey,forest
+Fyr,small,fey,mountain
+"Gaki, Shikki-Gaki",medium,undead,caves
+"Gaki, Shikki-Gaki",medium,undead,forests
+"Gaki, Shikki-Gaki",medium,undead,urban
+Galeb Duhr,medium,elemental,cave
+Galeb Duhr,medium,elemental,dungeon
+Galeb Duhr,medium,elemental,mountain
+Galeb Duhr,medium,elemental,planar
+Galeb Duhr,medium,elemental,underground
+Gallows Tree,huge,plant,forest
+Gallows Tree,huge,plant,grassland
+Gallows Tree,huge,plant,swamp
+Gallows Tree Zombie,medium,plant,forest
+Gallows Tree Zombie,medium,plant,grassland
+Gallows Tree Zombie,medium,plant,swamp
+Gargoyle,medium,elemental,dungeon
+Gargoyle,medium,elemental,urban
+Gargoyle (A5E),medium,elemental,hills
+Gargoyle (A5E),medium,elemental,laboratory
+Gargoyle (A5E),medium,elemental,mountains
+Gargoyle (A5E),medium,elemental,plane of earth
+Gargoyle (A5E),medium,elemental,ruin
+Gargoyle (A5E),medium,elemental,settlement
+Gargoyle (A5E),medium,elemental,temple
+Gargoyle (A5E),medium,elemental,tomb
+Garmvvolf,huge,monstrosity,mountains
+Garmvvolf,huge,monstrosity,underground
+Garroter Crab,tiny,beast,aquatic
+Garuda,medium,celestial,hills
+Gas Spore,large,plant,cave
+Gas Spore,large,plant,dungeon
+Gas Spore,large,plant,underground
+Gashadokuro,huge,undead,plains
+Gauth,medium,aberration,underground
+Gawigawen,gargantuan,giant,mountains
+Gawigawen,gargantuan,giant,urban
+Gawigawen,gargantuan,giant,coastal
+Gazer,tiny,aberration,underground
+Gbahali,huge,beast,plains
+Gear Spider (A5E),tiny,construct,laboratory
+Gear Spider (A5E),tiny,construct,ruin
+Gear Spider (A5E),tiny,construct,sewer
+Gearmass,large,ooze,underground
+Gearmass,large,ooze,urban
+Gelatinous Cube,large,ooze,dungeon
+Gelatinous Cube (A5E),large,ooze,caverns
+Gelatinous Cube (A5E),large,ooze,plane of water
+Gelatinous Cube (A5E),large,ooze,ruin
+Gelatinous Cube (A5E),large,ooze,sewer
+Gelatinous Cube (A5E),large,ooze,water
+Gelatinous Wall (A5E),huge,ooze,caverns
+Gelatinous Wall (A5E),huge,ooze,plane of water
+Gelatinous Wall (A5E),huge,ooze,ruin
+Gelatinous Wall (A5E),huge,ooze,sewer
+Gelatinous Wall (A5E),huge,ooze,water
+Gerridae,large,fey,aquatic
+Ghast,medium,undead,arctic
+Ghast,medium,undead,cave
+Ghast,medium,undead,coast
+Ghast,medium,undead,desert
+Ghast,medium,undead,dungeon
+Ghast,medium,undead,forest
+Ghast,medium,undead,grassland
+Ghast,medium,undead,mountain
+Ghast,medium,undead,ruins
+Ghast,medium,undead,swamp
+Ghast,medium,undead,underground
+Ghast,medium,undead,urban
+Ghast (A5E),medium,undead,abyss
+Ghast (A5E),medium,undead,caverns
+Ghast (A5E),medium,undead,desert
+Ghast (A5E),medium,undead,forest
+Ghast (A5E),medium,undead,grassland
+Ghast (A5E),medium,undead,hills
+Ghast (A5E),medium,undead,mountains
+Ghast (A5E),medium,undead,ruin
+Ghast (A5E),medium,undead,sewer
+Ghast (A5E),medium,undead,shadowfell
+Ghast (A5E),medium,undead,swamp
+Ghast (A5E),medium,undead,temple
+Ghast (A5E),medium,undead,tomb
+Ghast (A5E),medium,undead,tundra
+Ghost,medium,undead,cave
+Ghost,medium,undead,dungeon
+Ghost,medium,undead,ruins
+Ghost,medium,undead,swamp
+Ghost,medium,undead,underground
+Ghost,medium,undead,urban
+Ghostwalk Spider,large,monstrosity,badlands
+Ghostwalk Spider,large,monstrosity,forests
+Ghoul,medium,undead,arctic
+Ghoul,medium,undead,cave
+Ghoul,medium,undead,coast
+Ghoul,medium,undead,desert
+Ghoul,medium,undead,dungeon
+Ghoul,medium,undead,forest
+Ghoul,medium,undead,grassland
+Ghoul,medium,undead,mountain
+Ghoul,medium,undead,ruins
+Ghoul,medium,undead,swamp
+Ghoul,medium,undead,underground
+Ghoul,medium,undead,urban
+"Ghoul, Beggar",medium,undead,ruins
+"Ghoul, Beggar",medium,undead,underground
+"Ghoul, Beggar",medium,undead,urban
+"Ghoul, Imperial",medium,undead,ruins
+"Ghoul, Imperial",medium,undead,underground
+Giant Air Elemental (A5E),huge,elemental,laboratory
+Giant Air Elemental (A5E),huge,elemental,plane of air
+Giant Ant Exoskeleton,large,construct,desert
+Giant Ant Exoskeleton,large,construct,grassland
+Giant Ape,huge,beast,forest
+Giant Badger,medium,beast,forest
+Giant Badger,medium,beast,grassland
+Giant Badger (A5E),medium,beast,forest
+Giant Badger (A5E),medium,beast,grassland
+Giant Bat,large,beast,cave
+Giant Bat,large,beast,dungeon
+Giant Bat,large,beast,forest
+Giant Bat,large,beast,ruins
+Giant Bat,large,beast,swamp
+Giant Bat,large,beast,underground
+Giant Bat (A5E),large,beast,caverns
+Giant Boar,large,beast,forest
+Giant Boar,large,beast,grassland
+Giant Centipede,small,beast,cave
+Giant Centipede,small,beast,desert
+Giant Centipede,small,beast,dungeon
+Giant Centipede,small,beast,forest
+Giant Centipede,small,beast,grassland
+Giant Centipede,small,beast,mountain
+Giant Centipede,small,beast,ruins
+Giant Centipede,small,beast,swamp
+Giant Centipede,small,beast,underground
+Giant Clam,large,beast,aquatic
+Giant Constrictor Snake,huge,beast,forest
+Giant Constrictor Snake,huge,beast,grassland
+Giant Constrictor Snake,huge,beast,swamp
+Giant Constrictor Snake (A5E),huge,beast,jungle
+Giant Constrictor Snake (A5E),huge,beast,swamp
+Giant Crab (A5E),medium,beast,water
+Giant Crocodile,huge,beast,aquatic
+Giant Crocodile,huge,beast,coast
+Giant Crocodile,huge,beast,swamp
+Giant Crocodile (A5E),huge,beast,swamp
+Giant Crocodile (A5E),huge,beast,water
+Giant Eagle,large,beast,grassland
+Giant Eagle,large,beast,mountain
+Giant Eagle (A5E),large,beast,feywild
+Giant Eagle (A5E),large,beast,hills
+Giant Eagle (A5E),large,beast,mountains
+Giant Earth Elemental (A5E),large,elemental,laboratory
+Giant Earth Elemental (A5E),large,elemental,plane of earth
+Giant Electric Catfish,large,beast,aquatic
+Giant Elk,huge,beast,forest
+Giant Elk,huge,beast,grassland
+Giant Fire Beetle,small,beast,cave
+Giant Fire Beetle,small,beast,desert
+Giant Fire Beetle,small,beast,dungeon
+Giant Fire Beetle,small,beast,forest
+Giant Fire Beetle,small,beast,grassland
+Giant Fire Beetle,small,beast,mountain
+Giant Fire Beetle,small,beast,ruins
+Giant Fire Beetle,small,beast,swamp
+Giant Fire Beetle,small,beast,underground
+Giant Fire Beetle (A5E),small,beast,caverns
+Giant flea,small,beast,any
+Giant flea swarm,medium,swarm,any
+Giant Frog,medium,beast,aquatic
+Giant Frog,medium,beast,coast
+Giant Frog,medium,beast,forest
+Giant Frog,medium,beast,swamp
+Giant Frog (A5E),medium,beast,jungle
+Giant Frog (A5E),medium,beast,swamp
+Giant Frog (A5E),medium,beast,water
+Giant Goat,large,beast,forest
+Giant Goat,large,beast,grassland
+Giant Goat,large,beast,mountain
+Giant Grick (A5E),medium,monstrosity,caverns
+Giant Grick (A5E),medium,monstrosity,mountains
+Giant Grick (A5E),medium,monstrosity,plane of earth
+Giant Grick (A5E),medium,monstrosity,ruin
+Giant Grick (A5E),medium,monstrosity,sewer
+Giant Grick (A5E),medium,monstrosity,tomb
+Giant Hyena,large,beast,coast
+Giant Hyena,large,beast,desert
+Giant Hyena,large,beast,forest
+Giant Hyena,large,beast,grassland
+Giant Lanternfish (A5E),large,monstrosity,plane of water
+Giant Lanternfish (A5E),large,monstrosity,water
+Giant Lizard,large,beast,cave
+Giant Lizard,large,beast,desert
+Giant Lizard,large,beast,dungeon
+Giant Lizard,large,beast,forest
+Giant Lizard,large,beast,grassland
+Giant Lizard,large,beast,mountain
+Giant Lizard,large,beast,ruins
+Giant Lizard,large,beast,swamp
+Giant Lizard,large,beast,underground
+Giant mantis shrimp,large,beast,coastal
+Giant mantis shrimp,large,beast,underwater
+Giant mole lizard,large,beast,underground
+Giant Moray Eel,medium,beast,aquatic
+Giant Octopus,large,beast,aquatic
+Giant Octopus (A5E),large,beast,water
+Giant Owl,large,beast,forest
+Giant Owl,large,beast,grassland
+Giant Owl,large,beast,urban
+Giant Owl (A5E),large,beast,feywild
+Giant Owl (A5E),large,beast,forest
+Giant Poisonous Snake (A5E),medium,beast,caverns
+Giant Poisonous Snake (A5E),medium,beast,desert
+Giant Poisonous Snake (A5E),medium,beast,forest
+Giant Poisonous Snake (A5E),medium,beast,grassland
+Giant Poisonous Snake (A5E),medium,beast,hills
+Giant Poisonous Snake (A5E),medium,beast,jungle
+Giant Poisonous Snake (A5E),medium,beast,mountains
+Giant Poisonous Snake (A5E),medium,beast,ruin
+Giant Poisonous Snake (A5E),medium,beast,sewer
+Giant Poisonous Snake (A5E),medium,beast,swamp
+Giant Poisonous Snake (A5E),medium,beast,tomb
+Giant Poisonous Snake (A5E),medium,beast,water
+Giant pufferfish,small,beast,underwater
+Giant Rat,small,beast,cave
+Giant Rat,small,beast,dungeon
+Giant Rat,small,beast,forest
+Giant Rat,small,beast,grassland
+Giant Rat,small,beast,mountain
+Giant Rat,small,beast,ruins
+Giant Rat,small,beast,swamp
+Giant Rat,small,beast,underground
+Giant Rat,small,beast,urban
+Giant Rat (A5E),small,beast,caverns
+Giant Rat (A5E),small,beast,forest
+Giant Rat (A5E),small,beast,ruin
+Giant Rat (A5E),small,beast,settlement
+Giant Rat (A5E),small,beast,sewer
+Giant Rat (A5E),small,beast,swamp
+Giant Rhinoceros Beetle,large,beast,forest
+Giant Scorpion,large,beast,cave
+Giant Scorpion,large,beast,coast
+Giant Scorpion,large,beast,desert
+Giant Scorpion,large,beast,dungeon
+Giant Scorpion,large,beast,grassland
+Giant Scorpion,large,beast,ruins
+Giant Scorpion,large,beast,swamp
+Giant Scorpion,large,beast,underground
+Giant Scorpion (A5E),large,beast,desert
+Giant Scorpion (A5E),large,beast,shadowfell
+Giant Sea Horse,large,beast,aquatic
+Giant Seahorse,large,beast,aquatic
+Giant Shark,huge,beast,aquatic
+Giant Slicer Beetle,large,beast,forest
+Giant Slug of P'nakh,large,fiend,ruins
+Giant Slug of P'nakh,large,fiend,underground
+Giant Spider,large,beast,cave
+Giant Spider,large,beast,coast
+Giant Spider,large,beast,desert
+Giant Spider,large,beast,dungeon
+Giant Spider,large,beast,forest
+Giant Spider,large,beast,grassland
+Giant Spider,large,beast,mountain
+Giant Spider,large,beast,ruins
+Giant Spider,large,beast,swamp
+Giant Spider,large,beast,underground
+Giant Spider,large,beast,urban
+Giant Spider (A5E),large,beast,caverns
+Giant Spider (A5E),large,beast,feywild
+Giant Spider (A5E),large,beast,forest
+Giant Spider (A5E),large,beast,jungle
+Giant Spider (A5E),large,beast,ruin
+Giant Spider (A5E),large,beast,shadowfell
+Giant Spider (A5E),large,beast,swamp
+Giant Strider,large,monstrosity,grassland
+Giant Strider,large,monstrosity,mountain
+Giant Strider,large,monstrosity,underground
+Giant Toad,large,beast,aquatic
+Giant Toad,large,beast,coast
+Giant Toad,large,beast,forest
+Giant Toad,large,beast,swamp
+Giant Toad (A5E),large,beast,jungle
+Giant Toad (A5E),large,beast,swamp
+Giant Toad (A5E),large,beast,water
+Giant Vulture,large,beast,desert
+Giant Vulture,large,beast,grassland
+Giant Vulture,large,beast,ruins
+Giant Vulture (A5E),large,beast,desert
+Giant walking stick,large,beast,forest
+Giant Wasp,medium,beast,forest
+Giant Wasp (A5E),medium,beast,forest
+Giant Wasp (A5E),medium,beast,grassland
+Giant Wasp (A5E),medium,beast,hills
+Giant Water Beetle,medium,beast,aquatic
+Giant Water Elemental (A5E),huge,elemental,laboratory
+Giant Water Elemental (A5E),huge,elemental,plane of water
+Giant Water Elemental (A5E),huge,elemental,water
+Giant Weasel,medium,beast,forest
+Giant Weasel,medium,beast,grassland
+Giant Weasel (A5E),medium,beast,feywild
+Giant Weasel (A5E),medium,beast,forest
+Giant Wolf Spider,medium,beast,cave
+Giant Wolf Spider,medium,beast,coast
+Giant Wolf Spider,medium,beast,desert
+Giant Wolf Spider,medium,beast,dungeon
+Giant Wolf Spider,medium,beast,forest
+Giant Wolf Spider,medium,beast,grassland
+Giant Wolf Spider,medium,beast,mountain
+Giant Wolf Spider,medium,beast,ruins
+Giant Wolf Spider,medium,beast,swamp
+Giant Wolf Spider,medium,beast,underground
+Giant Wolf Spider,medium,beast,urban
+Giant Wolf Spider (A5E),medium,beast,desert
+Giant Wolf Spider (A5E),medium,beast,feywild
+Giant Wolf Spider (A5E),medium,beast,grassland
+Giant Wolf Spider (A5E),medium,beast,ruin
+"Giant, firestorm",huge,giant,arctic
+"Giant, firestorm",huge,giant,mountains
+"Giant, Jotun",gargantuan,giant,hills
+"Giant, Jotun",gargantuan,giant,mountains
+"Giant, Jotun",gargantuan,giant,plains
+"Giant, lantern",huge,giant,underwater
+"Giant, shire",huge,giant,farmland
+"Giant, shire",huge,giant,hills
+Gibbering Mouther,medium,aberration,cave
+Gibbering Mouther,medium,aberration,dungeon
+Gibbering Mouther,medium,aberration,planar
+Gibbering Mouther,medium,aberration,underground
+Gibbering Mouther (A5E),medium,aberration,astral plane
+Gibbering Mouther (A5E),medium,aberration,caverns
+Gibbering Mouther (A5E),medium,aberration,laboratory
+Gibbering Mouther (A5E),medium,aberration,sewer
+Gibberling (A5E),small,aberration,caverns
+Gibberling (A5E),small,aberration,ruin
+Gibberling (A5E),small,aberration,sewer
+Gibberling Brood Mother (A5E),medium,aberration,caverns
+Gibberling Brood Mother (A5E),medium,aberration,ruin
+Gibberling Brood Mother (A5E),medium,aberration,sewer
+Gigantura,gargantuan,monstrosity,underwater
+Gillmonkey,small,beast,aquatic
+Girallon,large,monstrosity,forest
+Githyanki Knight,medium,humanoid,planar
+Githyanki Knight,medium,humanoid,swamp
+Githyanki Warrior,medium,humanoid,planar
+Githzerai Monk,medium,humanoid,planar
+Githzerai Zerth,medium,humanoid,planar
+Glabrezu,large,fiend,dungeon
+Glabrezu,large,fiend,planar
+Glabrezu (A5E),large,fiend,abyss
+Glacial crawler,huge,aberration,arctic
+Glacial crawler,huge,aberration,coastal
+Glacial crawler,huge,aberration,underwater
+Glacial Ooze,large,ooze,arctic
+Gladiator,medium,humanoid,urban
+Gladiator (A5E),medium,humanoid,settlement
+Glass Gator,large,beast,aquatic
+Glass Gator,large,beast,marshes
+Gnarlwood,huge,plant,forest
+Gnoll Demonfang (A5E),medium,humanoid,abyss
+Gnoll Demonfang (A5E),medium,humanoid,desert
+Gnoll Demonfang (A5E),medium,humanoid,grassland
+Gnoll Demonfang (A5E),medium,humanoid,hills
+Gnoll Demonfang (A5E),medium,humanoid,jungle
+Gnoll Demonfang (A5E),medium,humanoid,mountains
+Gnoll Demonfang (A5E),medium,humanoid,settlement
+Gnoll Flesh Gnawer,medium,humanoid,arctic
+Gnoll Flesh Gnawer,medium,humanoid,forest
+Gnoll Flesh Gnawer,medium,humanoid,grassland
+Gnoll Pack Leader (A5E),medium,humanoid,abyss
+Gnoll Pack Leader (A5E),medium,humanoid,desert
+Gnoll Pack Leader (A5E),medium,humanoid,grassland
+Gnoll Pack Leader (A5E),medium,humanoid,hills
+Gnoll Pack Leader (A5E),medium,humanoid,jungle
+Gnoll Pack Leader (A5E),medium,humanoid,mountains
+Gnoll Pack Leader (A5E),medium,humanoid,settlement
+Gnoll Pack Lord,medium,humanoid,arctic
+Gnoll Pack Lord,medium,humanoid,cave
+Gnoll Pack Lord,medium,humanoid,coast
+Gnoll Pack Lord,medium,humanoid,desert
+Gnoll Pack Lord,medium,humanoid,dungeon
+Gnoll Pack Lord,medium,humanoid,forest
+Gnoll Pack Lord,medium,humanoid,grassland
+Gnoll Pack Lord,medium,humanoid,mountain
+Gnoll Pack Lord,medium,humanoid,ruins
+Gnoll Pack Lord,medium,humanoid,swamp
+Gnoll Pack Lord,medium,humanoid,urban
+Gnyan,large,elemental,arctic
+Goat,medium,beast,grassland
+Goat,medium,beast,urban
+Goat (A5E),medium,beast,hills
+Goat (A5E),medium,beast,mountains
+Goat (A5E),medium,beast,settlement
+Goat-Man,medium,monstrosity,badlands
+Goat-Man,medium,monstrosity,forests
+Goat-Man,medium,monstrosity,hills
+Goblin,small,humanoid,cave
+Goblin,small,humanoid,dungeon
+Goblin,small,humanoid,forest
+Goblin,small,humanoid,grassland
+Goblin,small,humanoid,mountain
+Goblin,small,humanoid,ruins
+Goblin,small,humanoid,urban
+Goblin (A5E),small,humanoid,caverns
+Goblin (A5E),small,humanoid,desert
+Goblin (A5E),small,humanoid,feywild
+Goblin (A5E),small,humanoid,forest
+Goblin (A5E),small,humanoid,grassland
+Goblin (A5E),small,humanoid,hills
+Goblin (A5E),small,humanoid,jungle
+Goblin (A5E),small,humanoid,mountains
+Goblin (A5E),small,humanoid,ruin
+Goblin (A5E),small,humanoid,settlement
+Goblin (A5E),small,humanoid,sewer
+Goblin (A5E),small,humanoid,swamp
+Goblin (A5E),small,humanoid,tundra
+Goblin Alchemist,small,humanoid,caverns
+Goblin Alchemist,small,humanoid,desert
+Goblin Alchemist,small,humanoid,feywild
+Goblin Alchemist,small,humanoid,forest
+Goblin Alchemist,small,humanoid,grassland
+Goblin Alchemist,small,humanoid,hills
+Goblin Alchemist,small,humanoid,jungle
+Goblin Alchemist,small,humanoid,mountains
+Goblin Alchemist,small,humanoid,ruin
+Goblin Alchemist,small,humanoid,settlement
+Goblin Alchemist,small,humanoid,sewer
+Goblin Alchemist,small,humanoid,swamp
+Goblin Alchemist,small,humanoid,tundra
+Goblin Boss,small,humanoid,cave
+Goblin Boss,small,humanoid,dungeon
+Goblin Boss,small,humanoid,forest
+Goblin Boss,small,humanoid,grassland
+Goblin Boss,small,humanoid,mountain
+Goblin Boss,small,humanoid,ruins
+Goblin Boss,small,humanoid,urban
+Goblin Boss (A5E),small,humanoid,caverns
+Goblin Boss (A5E),small,humanoid,desert
+Goblin Boss (A5E),small,humanoid,feywild
+Goblin Boss (A5E),small,humanoid,forest
+Goblin Boss (A5E),small,humanoid,grassland
+Goblin Boss (A5E),small,humanoid,hills
+Goblin Boss (A5E),small,humanoid,jungle
+Goblin Boss (A5E),small,humanoid,mountains
+Goblin Boss (A5E),small,humanoid,ruin
+Goblin Boss (A5E),small,humanoid,settlement
+Goblin Boss (A5E),small,humanoid,sewer
+Goblin Boss (A5E),small,humanoid,swamp
+Goblin Boss (A5E),small,humanoid,tundra
+Goblin Dreadnought (A5E),small,humanoid,caverns
+Goblin Dreadnought (A5E),small,humanoid,desert
+Goblin Dreadnought (A5E),small,humanoid,feywild
+Goblin Dreadnought (A5E),small,humanoid,forest
+Goblin Dreadnought (A5E),small,humanoid,grassland
+Goblin Dreadnought (A5E),small,humanoid,hills
+Goblin Dreadnought (A5E),small,humanoid,jungle
+Goblin Dreadnought (A5E),small,humanoid,mountains
+Goblin Dreadnought (A5E),small,humanoid,ruin
+Goblin Dreadnought (A5E),small,humanoid,settlement
+Goblin Dreadnought (A5E),small,humanoid,sewer
+Goblin Dreadnought (A5E),small,humanoid,swamp
+Goblin Dreadnought (A5E),small,humanoid,tundra
+Goblin Musketeer (A5E),small,humanoid,caverns
+Goblin Musketeer (A5E),small,humanoid,desert
+Goblin Musketeer (A5E),small,humanoid,feywild
+Goblin Musketeer (A5E),small,humanoid,forest
+Goblin Musketeer (A5E),small,humanoid,grassland
+Goblin Musketeer (A5E),small,humanoid,hills
+Goblin Musketeer (A5E),small,humanoid,jungle
+Goblin Musketeer (A5E),small,humanoid,mountains
+Goblin Musketeer (A5E),small,humanoid,ruin
+Goblin Musketeer (A5E),small,humanoid,settlement
+Goblin Musketeer (A5E),small,humanoid,sewer
+Goblin Musketeer (A5E),small,humanoid,swamp
+Goblin Musketeer (A5E),small,humanoid,tundra
+Goblin Shieldbearer (A5E),small,humanoid,caverns
+Goblin Shieldbearer (A5E),small,humanoid,desert
+Goblin Shieldbearer (A5E),small,humanoid,feywild
+Goblin Shieldbearer (A5E),small,humanoid,forest
+Goblin Shieldbearer (A5E),small,humanoid,grassland
+Goblin Shieldbearer (A5E),small,humanoid,hills
+Goblin Shieldbearer (A5E),small,humanoid,jungle
+Goblin Shieldbearer (A5E),small,humanoid,mountains
+Goblin Shieldbearer (A5E),small,humanoid,ruin
+Goblin Shieldbearer (A5E),small,humanoid,settlement
+Goblin Shieldbearer (A5E),small,humanoid,sewer
+Goblin Shieldbearer (A5E),small,humanoid,swamp
+Goblin Shieldbearer (A5E),small,humanoid,tundra
+Goblin Skulker (A5E),small,humanoid,caverns
+Goblin Skulker (A5E),small,humanoid,desert
+Goblin Skulker (A5E),small,humanoid,feywild
+Goblin Skulker (A5E),small,humanoid,forest
+Goblin Skulker (A5E),small,humanoid,grassland
+Goblin Skulker (A5E),small,humanoid,hills
+Goblin Skulker (A5E),small,humanoid,jungle
+Goblin Skulker (A5E),small,humanoid,mountains
+Goblin Skulker (A5E),small,humanoid,ruin
+Goblin Skulker (A5E),small,humanoid,settlement
+Goblin Skulker (A5E),small,humanoid,sewer
+Goblin Skulker (A5E),small,humanoid,swamp
+Goblin Skulker (A5E),small,humanoid,tundra
+"Gods of Other Domains, Forgotten God Variant (A5E)",large,celestial,ruins
+"Gods of Other Domains, Forgotten God Variant (A5E)",large,celestial,underground
+Godslayer,huge,construct,any
+Gold Dragon Wyrmling,medium,dragon,mountain
+Gold Dragon Wyrmling,medium,dragon,ruins
+Gold Dragon Wyrmling (A5E),medium,dragon,astral plane
+Gold Dragon Wyrmling (A5E),medium,dragon,grassland
+Gold Dragon Wyrmling (A5E),medium,dragon,ruin
+Gold Dragon Wyrmling (A5E),medium,dragon,water
+Gold Great Wyrm (A5E),gargantuan,dragon (shapechanger),ruins
+"Golem, barnyard",medium,construct,farmland
+"Golem, barnyard",medium,construct,urban
+"Golem, ice",large,construct,arctic
+"Golem, ice",large,construct,urban
+"Golem, origami",large,construct,any
+"Golem, origami",large,construct,urban
+Gorbel,small,aberration,forest
+Gorgimera,large,monstrosity,mountain
+Gorgon,large,monstrosity,mountain
+Gorgon,large,monstrosity,ruins
+Gorilla Bear,medium,monstrosity,forest
+Goristro,huge,fiend,dungeon
+Goristro,huge,fiend,planar
+Gray Nisp,large,fey,aquatic
+Gray Ooze,medium,ooze,dungeon
+Gray Ooze (A5E),medium,ooze,caverns
+Gray Ooze (A5E),medium,ooze,mountains
+Gray Ooze (A5E),medium,ooze,plane of earth
+Gray Ooze (A5E),medium,ooze,ruin
+Gray Ooze (A5E),medium,ooze,sewer
+Gray Ooze (A5E),medium,ooze,water
+Gray Slaad,medium,aberration,planar
+Gray Thirster,medium,undead,desert
+Great Wyrm Black Dragon (A5E),gargantuan,dragon,swamp
+Great Wyrm Blue Dragon (A5E),gargantuan,dragon,desert
+Great Wyrm Gold Dragon (A5E),gargantuan,dragon,astral plane
+Great Wyrm Gold Dragon (A5E),gargantuan,dragon,grassland
+Great Wyrm Gold Dragon (A5E),gargantuan,dragon,ruin
+Great Wyrm Gold Dragon (A5E),gargantuan,dragon,water
+Great Wyrm Green Dragon (A5E),gargantuan,dragon,forest
+Great Wyrm Green Dragon (A5E),gargantuan,dragon,jungle
+Great Wyrm Red Dragon (A5E),gargantuan,dragon,mountains
+Great Wyrm White Dragon (A5E),gargantuan,dragon,tundra
+Greater Basilisk,large,monstrosity,desert
+Greater Boneneedle,medium,beast,underground
+Greater Fire Crab,large,monstrosity,planar
+Greater Sphinx (A5E),huge,monstrosity,astral plane
+Greater Sphinx (A5E),huge,monstrosity,desert
+Greater Sphinx (A5E),huge,monstrosity,ethereal plane
+Greater Sphinx (A5E),huge,monstrosity,ruin
+Greater Sphinx (A5E),huge,monstrosity,temple
+Green Brain,small,plant,underground
+Green Dragon Wyrmling,medium,dragon,forest
+Green Great Wyrm (A5E),gargantuan,dragon,forests
+Green Great Wyrm Spellcaster (A5E),gargantuan,dragon,forests
+Green Guardian Gargoyle,medium,monstrosity,aquatic
+Green Guardian Gargoyle,medium,monstrosity,underground
+Green Hag,medium,fey,forest
+Green Hag,medium,fey,swamp
+Green Hag (A5E),medium,fey,caverns
+Green Hag (A5E),medium,fey,feywild
+Green Hag (A5E),medium,fey,forest
+Green Hag (A5E),medium,fey,jungle
+Green Hag (A5E),medium,fey,ruin
+Green Hag (A5E),medium,fey,settlement
+Green Hag (A5E),medium,fey,shadowfell
+Green Hag (A5E),medium,fey,swamp
+Green Slaad,large,aberration,planar
+Grell,medium,aberration,dungeon
+Grell,medium,aberration,underground
+"Gremlin, bilge",tiny,fey,coastal
+"Gremlin, bilge",tiny,fey,underwater
+"Gremlin, bilge",tiny,fey,urban
+"Gremlin, bilge bosun",small,fey,coastal
+"Gremlin, bilge bosun",small,fey,underwater
+"Gremlin, bilge bosun",small,fey,urban
+"Gremlin, rum story keeper",tiny,fey,farmland
+"Gremlin, rum story keeper",tiny,fey,urban
+Grick,medium,monstrosity,cave
+Grick,medium,monstrosity,dungeon
+Grick,medium,monstrosity,underground
+Grick (A5E),medium,monstrosity,caverns
+Grick (A5E),medium,monstrosity,mountains
+Grick (A5E),medium,monstrosity,plane of earth
+Grick (A5E),medium,monstrosity,ruin
+Grick (A5E),medium,monstrosity,sewer
+Grick (A5E),medium,monstrosity,tomb
+Griffon,large,monstrosity,arctic
+Griffon,large,monstrosity,coast
+Griffon,large,monstrosity,grassland
+Griffon,large,monstrosity,mountain
+Griffon (A5E),large,monstrosity,desert
+Griffon (A5E),large,monstrosity,grassland
+Griffon (A5E),large,monstrosity,hills
+Griffon (A5E),large,monstrosity,mountains
+Griffon (A5E),large,monstrosity,plane of air
+Grimalkin (A5E),medium,monstrosity,forest
+Grimalkin (A5E),medium,monstrosity,settlement
+Grimlock (A5E),medium,humanoid,caverns
+Grimlock (A5E),medium,humanoid,plane of earth
+Grimlock (A5E),medium,humanoid,ruin
+Grimlock (A5E),medium,humanoid,sewer
+Grimlock (A5E),medium,humanoid,shadowfell
+Grimlock (A5E),medium,humanoid,tomb
+Grimlock Technical (A5E),medium,humanoid,caverns
+Grimlock Technical (A5E),medium,humanoid,plane of earth
+Grimlock Technical (A5E),medium,humanoid,ruin
+Grimlock Technical (A5E),medium,humanoid,sewer
+Grimlock Technical (A5E),medium,humanoid,shadowfell
+Grimlock Technical (A5E),medium,humanoid,tomb
+Grimm,large,fey,mountain
+Grippli,small,humanoid,forest
+Grippli,small,humanoid,swamp
+Grippli Shaman,small,humanoid,forest
+Grippli Shaman,small,humanoid,swamp
+Grivid,large,aberration,badlands
+Grivid,large,aberration,grassland
+Grolar bear,large,beast,arctic
+Grue (Type 1),large,ooze,underground
+Grung,small,humanoid,forest
+Grung Elite Warrior,small,humanoid,forest
+Grung Wildling,small,humanoid,forest
+Guard,medium,humanoid,urban
+Guard Drake,medium,dragon,dungeon
+Guard Drake,medium,dragon,urban
+Guard Squad (A5E),large,humanoid,desert
+Guard Squad (A5E),large,humanoid,forest
+Guard Squad (A5E),large,humanoid,grassland
+Guard Squad (A5E),large,humanoid,hills
+Guard Squad (A5E),large,humanoid,mountains
+Guard Squad (A5E),large,humanoid,settlement
+Guardian Naga,large,monstrosity,cave
+Guardian Naga,large,monstrosity,coast
+Guardian Naga,large,monstrosity,forest
+Guardian Naga,large,monstrosity,ruins
+Guardian Naga (A5E),large,monstrosity,astral plane
+Guardian Naga (A5E),large,monstrosity,caverns
+Guardian Naga (A5E),large,monstrosity,desert
+Guardian Naga (A5E),large,monstrosity,forest
+Guardian Naga (A5E),large,monstrosity,jungle
+Guardian Naga (A5E),large,monstrosity,mountains
+Guardian Naga (A5E),large,monstrosity,ruin
+Guardian Naga (A5E),large,monstrosity,temple
+Gug,huge,giant,ruins
+Gug,huge,giant,underground
+Gullkin,medium,humanoid,coastal
+Gullkin,medium,humanoid,planar
+Gullkin hunter,medium,humanoid,coastal
+Gullkin hunter,medium,humanoid,planar
+Gulper Eel,large,beast,aquatic
+Gwishin,medium,undead,forests
+Gwishin,medium,undead,urban
+Gynosphinx,large,monstrosity,dungeon
+Gynosphinx,large,monstrosity,ruins
+Haakjir,medium,monstrosity,mountains
+Haakjir,medium,monstrosity,underground
+Hadrosaurus,large,beast,grassland
+Hadrosaurus,large,beast,swamp
+"Hag, brine",medium,fey,coastal
+"Hag, brine",medium,fey,underwater
+"Hag, pesta",medium,fey,coastal
+"Hag, pesta",medium,fey,farmland
+"Hag, pesta",medium,fey,urban
+"Hag, wood",medium,fey,forest
+"Hag, wood",medium,fey,hills
+"Hag, wood",medium,fey,mountains
+"Hag, wood",medium,fey,swamp
+Half-Ogre,large,giant,arctic
+Half-Ogre,large,giant,coast
+Half-Ogre,large,giant,desert
+Half-Ogre,large,giant,dungeon
+Half-Ogre,large,giant,forest
+Half-Ogre,large,giant,grassland
+Half-Ogre,large,giant,mountain
+Half-Ogre,large,giant,ruins
+Half-Ogre,large,giant,swamp
+Half-Ogre,large,giant,urban
+Half-Red Dragon Veteran,medium,humanoid,arctic
+Half-Red Dragon Veteran,medium,humanoid,coast
+Half-Red Dragon Veteran,medium,humanoid,desert
+Half-Red Dragon Veteran,medium,humanoid,grassland
+Half-Red Dragon Veteran,medium,humanoid,mountain
+Half-Red Dragon Veteran,medium,humanoid,urban
+Half-Red Dragon Veteran (A5E),medium,humanoid,desert
+Half-Red Dragon Veteran (A5E),medium,humanoid,hills
+Half-Red Dragon Veteran (A5E),medium,humanoid,mountains
+Half-Red Dragon Veteran (A5E),medium,humanoid,plane of fire
+Half-Red Dragon Veteran (A5E),medium,humanoid,ruin
+Half-Red Dragon Veteran (A5E),medium,humanoid,settlement
+Hangman Tree,huge,plant,forest
+Hanu-naga,large,monstrosity,forest
+Hanu-naga,large,monstrosity,mountain
+Harionna,medium,fey,forests
+Harionna,medium,fey,hills
+Harpy (A5E),medium,monstrosity,desert
+Harpy (A5E),medium,monstrosity,forest
+Harpy (A5E),medium,monstrosity,grassland
+Harpy (A5E),medium,monstrosity,hills
+Harpy (A5E),medium,monstrosity,jungle
+Harpy (A5E),medium,monstrosity,mountains
+Harpy (A5E),medium,monstrosity,swamp
+Harpy (A5E),medium,monstrosity,tundra
+"Harpy, plague",medium,monstrosity,farmland
+"Harpy, plague",medium,monstrosity,forest
+Harvest horse,large,construct,farmland
+Hawanar Genie,large,fiend,planar
+Hawk,tiny,beast,grassland
+Hawk,tiny,beast,mountain
+Hawk (A5E),tiny,beast,forest
+Hawk (A5E),tiny,beast,grassland
+Hawk (A5E),tiny,beast,mountains
+Hawk (A5E),tiny,beast,settlement
+Hawktoad,small,monstrosity,forest
+Hawktoad,small,monstrosity,swamp
+Helix Moth Adult,huge,beast,forest
+Helix Moth Larva,large,beast,underground
+Hell Hound,medium,fiend,dungeon
+Hell Hound,medium,fiend,planar
+Hell Hound,medium,fiend,urban
+Hell Hound (A5E),medium,fiend,astral plane
+Hell Hound (A5E),medium,fiend,desert
+Hell Hound (A5E),medium,fiend,hell
+Hell Hound (A5E),medium,fiend,laboratory
+Hell Hound (A5E),medium,fiend,mountains
+Hell Hound (A5E),medium,fiend,plane of fire
+Hell Hound (A5E),medium,fiend,shadowfell
+Helmed Horror,medium,construct,dungeon
+Helmed Horror,medium,construct,ruins
+Helmed Horror,medium,construct,urban
+Herd skulker,medium,monstrosity,farmland
+Hezrou,large,fiend,dungeon
+Hezrou,large,fiend,planar
+Hezrou (A5E),large,fiend,abyss
+Hieroglyphicroc,large,undead,ruins
+High Elf Noble (A5E),medium,humanoid,feywild
+High Elf Noble (A5E),medium,humanoid,forest
+High Elf Noble (A5E),medium,humanoid,hills
+High Elf Noble (A5E),medium,humanoid,settlement
+High Priest (A5E),medium,humanoid,desert
+High Priest (A5E),medium,humanoid,hills
+High Priest (A5E),medium,humanoid,settlement
+High Priest (A5E),medium,humanoid,temple
+Hill Giant,huge,giant,arctic
+Hill Giant,huge,giant,coast
+Hill Giant,huge,giant,grassland
+Hill Giant (A5E),huge,giant,feywild
+Hill Giant (A5E),huge,giant,forest
+Hill Giant (A5E),huge,giant,mountains
+Hill Giant (A5E),huge,giant,plane of earth
+Hill Giant (A5E),huge,giant,ruin
+Hill Giant Chief (A5E),huge,giant,feywild
+Hill Giant Chief (A5E),huge,giant,forest
+Hill Giant Chief (A5E),huge,giant,mountains
+Hill Giant Chief (A5E),huge,giant,plane of earth
+Hill Giant Chief (A5E),huge,giant,ruin
+Hinderling,small,fey,farmland
+Hinderling,small,fey,urban
+Hippocampus,large,monstrosity,aquatic
+Hippogriff,large,monstrosity,mountain
+Hippogriff (A5E),large,monstrosity,forest
+Hippogriff (A5E),large,monstrosity,grassland
+Hippogriff (A5E),large,monstrosity,hills
+Hippogriff (A5E),large,monstrosity,mountains
+Hippogriff (A5E),large,monstrosity,plane of air
+Hippopotamus,large,beast,coastal
+Hippopotamus,large,beast,grassland
+Hippopotamus,large,beast,swamp
+"Hippopotamus, sacred",huge,celestial,coastal
+"Hippopotamus, sacred",huge,celestial,grassland
+"Hippopotamus, sacred",huge,celestial,swamp
+"Hippopotamus, sacred",huge,celestial,urban
+Hoar Fox,small,monstrosity,arctic
+Hoar Fox,small,monstrosity,forest
+Hobgoblin (A5E),medium,humanoid,caverns
+Hobgoblin (A5E),medium,humanoid,desert
+Hobgoblin (A5E),medium,humanoid,forest
+Hobgoblin (A5E),medium,humanoid,grassland
+Hobgoblin (A5E),medium,humanoid,hills
+Hobgoblin (A5E),medium,humanoid,mountains
+Hobgoblin Captain (A5E),medium,humanoid,caverns
+Hobgoblin Captain (A5E),medium,humanoid,desert
+Hobgoblin Captain (A5E),medium,humanoid,forest
+Hobgoblin Captain (A5E),medium,humanoid,grassland
+Hobgoblin Captain (A5E),medium,humanoid,hills
+Hobgoblin Captain (A5E),medium,humanoid,mountains
+Hobgoblin Devastator,medium,humanoid,forest
+Hobgoblin Devastator,medium,humanoid,grassland
+Hobgoblin Iron Shadow,medium,humanoid,forest
+Hobgoblin Iron Shadow,medium,humanoid,grassland
+Hobgoblin Warlord,medium,humanoid,arctic
+Hobgoblin Warlord,medium,humanoid,coast
+Hobgoblin Warlord,medium,humanoid,grassland
+Hobgoblin Warlord,medium,humanoid,mountain
+Hobgoblin Warlord,medium,humanoid,urban
+Hobgoblin Warlord (A5E),medium,humanoid,caverns
+Hobgoblin Warlord (A5E),medium,humanoid,desert
+Hobgoblin Warlord (A5E),medium,humanoid,forest
+Hobgoblin Warlord (A5E),medium,humanoid,grassland
+Hobgoblin Warlord (A5E),medium,humanoid,hills
+Hobgoblin Warlord (A5E),medium,humanoid,mountains
+Holy Knight (A5E),medium,humanoid,grassland
+Holy Knight (A5E),medium,humanoid,hills
+Holy Knight (A5E),medium,humanoid,mountains
+Holy Knight (A5E),medium,humanoid,settlement
+Holy Knight (A5E),medium,humanoid,temple
+Homunculus,tiny,construct,dungeon
+Homunculus,tiny,construct,urban
+Homunculus (A5E),tiny,construct,laboratory
+Hook Horror,large,monstrosity,dungeon
+Hook Horror,large,monstrosity,underground
+Horakh,medium,monstrosity,desert
+Horakh,medium,monstrosity,plains
+Horakh,medium,monstrosity,ruins
+Horakh,medium,monstrosity,underground
+Horde Demon (A5E),medium,fiend,abyss
+Horde Demon Band (A5E),large,fiend,abyss
+Horde of Shadows (A5E),large,undead,caverns
+Horde of Shadows (A5E),large,undead,ruin
+Horde of Shadows (A5E),large,undead,shadowfell
+Horde of Shadows (A5E),large,undead,tomb
+Horned Devil,large,fiend,dungeon
+Horned Devil,large,fiend,planar
+Horned Devil (A5E),large,fiend,hell
+Horned Tauric (A5E),large,fey,feywild
+Horned Tauric (A5E),large,fey,forest
+Horned Tauric (A5E),large,fey,grassland
+Hound Guardian (A5E),medium,construct,laboratory
+Hound Guardian (A5E),medium,construct,ruin
+Hound Guardian (A5E),medium,construct,temple
+Hound Guardian (A5E),medium,construct,tomb
+Hound of the Night,large,monstrosity,hills
+Hound of the Night,large,monstrosity,plains
+Hound of the Night,large,monstrosity,ruins
+Hound of the Night,large,monstrosity,underground
+Howler of the hill,large,aberration,farmland
+Howler of the hill,large,aberration,planar
+Howling Hatred Initiate,medium,humanoid,arctic
+Howling Hatred Initiate,medium,humanoid,cave
+Howling Hatred Initiate,medium,humanoid,coast
+Howling Hatred Initiate,medium,humanoid,desert
+Howling Hatred Initiate,medium,humanoid,dungeon
+Howling Hatred Initiate,medium,humanoid,grassland
+Howling Hatred Initiate,medium,humanoid,mountain
+Howling Hatred Initiate,medium,humanoid,ruins
+Howling Hatred Priest,medium,humanoid,arctic
+Howling Hatred Priest,medium,humanoid,cave
+Howling Hatred Priest,medium,humanoid,coast
+Howling Hatred Priest,medium,humanoid,desert
+Howling Hatred Priest,medium,humanoid,dungeon
+Howling Hatred Priest,medium,humanoid,grassland
+Howling Hatred Priest,medium,humanoid,mountain
+Howling Hatred Priest,medium,humanoid,ruins
+Huggermugger,small,humanoid,underground
+Hukluban,medium,fey,forests
+Hunter Shark,large,beast,aquatic
+Hunter Shark (A5E),large,beast,water
+Hurricane,medium,humanoid,arctic
+Hurricane,medium,humanoid,cave
+Hurricane,medium,humanoid,coast
+Hurricane,medium,humanoid,desert
+Hurricane,medium,humanoid,dungeon
+Hurricane,medium,humanoid,grassland
+Hurricane,medium,humanoid,mountain
+Hurricane,medium,humanoid,ruins
+Hyaenodon,large,beast,grassland
+Hydra,huge,monstrosity,aquatic
+Hydra,huge,monstrosity,cave
+Hydra,huge,monstrosity,coast
+Hydra,huge,monstrosity,dungeon
+Hydra,huge,monstrosity,forest
+Hydra,huge,monstrosity,mountain
+Hydra,huge,monstrosity,ruins
+Hydra,huge,monstrosity,swamp
+Hydra,huge,monstrosity,underground
+Hydra (A5E),huge,monstrosity,caverns
+Hydra (A5E),huge,monstrosity,plane of water
+Hydra (A5E),huge,monstrosity,swamp
+Hydra (A5E),huge,monstrosity,water
+Hydra Cloud Gohl,large,aberration,ruins
+Hydra Cloud Gohl,large,aberration,underground
+Hyena,medium,beast,forest
+Hyena,medium,beast,grassland
+Hyena (A5E),medium,beast,desert
+Hyena (A5E),medium,beast,grassland
+Hyena (A5E),medium,beast,ruin
+Hyena (A5E),medium,beast,shadowfell
+Ibexian,large,fiend,planar
+Ice Devil,large,fiend,dungeon
+Ice Devil,large,fiend,planar
+Ice Devil (A5E),large,fiend,hell
+Ice Drake,small,dragon,arctic
+Ice Mephit,small,elemental,arctic
+Ice Mephit,small,elemental,dungeon
+Ice Mephit,small,elemental,planar
+Ice Mephit,small,elemental,urban
+Ice Toad,medium,monstrosity,arctic
+Ice urchin,large,monstrosity,arctic
+Ice willow,large,plant,arctic
+Ice Worm (A5E),gargantuan,monstrosity,tundra
+Iceworm,small,monstrosity,underwater
+Idolic Deity,small,construct,ruins
+Idolic Deity,small,construct,underground
+Igniguana,medium,elemental,planar
+Igniguana,medium,elemental,underground
+Illusionist,medium,humanoid,urban
+Imp,tiny,fiend,dungeon
+Imp,tiny,fiend,planar
+Imp (A5E),tiny,fiend,hell
+Imp Familiar (A5E),tiny,fiend,hell
+Imperator,huge,monstrosity,arctic
+Imperator,huge,monstrosity,underwater
+"Imperator, penguin swarm",huge,swarm,arctic
+"Imperator, penguin swarm",huge,swarm,underwater
+Incandescent one,medium,celestial,coastal
+Incandescent one,medium,celestial,underwater
+Infested Duelist,medium,humanoid,any
+Infiltrator,medium,humanoid,urban
+Ink Devil,small,fiend,ruins
+Ink Devil,small,fiend,underground
+Ink Devil,small,fiend,urban
+Intellect Devourer,tiny,aberration,dungeon
+Intellect Devourer,tiny,aberration,underground
+Intellect Devourer (A5E),tiny,aberration,astral plane
+Intellect Devourer (A5E),tiny,aberration,caverns
+Intellect Devourer (A5E),tiny,aberration,laboratory
+Intellect Devourer (A5E),tiny,aberration,ruin
+Intellect Devourer (A5E),tiny,aberration,sewer
+Invisible Stalker,medium,elemental,arctic
+Invisible Stalker,medium,elemental,cave
+Invisible Stalker,medium,elemental,coast
+Invisible Stalker,medium,elemental,desert
+Invisible Stalker,medium,elemental,dungeon
+Invisible Stalker,medium,elemental,forest
+Invisible Stalker,medium,elemental,grassland
+Invisible Stalker,medium,elemental,mountain
+Invisible Stalker,medium,elemental,planar
+Invisible Stalker,medium,elemental,ruins
+Invisible Stalker,medium,elemental,swamp
+Invisible Stalker,medium,elemental,underground
+Invisible Stalker,medium,elemental,urban
+Ion slime,small,ooze,coastal
+Iron Ghoul,medium,undead,ruins
+Iron Ghoul,medium,undead,underground
+Iron Golem,large,construct,dungeon
+Iron Golem,large,construct,ruins
+Iron Golem,large,construct,urban
+Iron Guardian (A5E),large,construct,laboratory
+Iron Guardian (A5E),large,construct,ruin
+Iron Guardian (A5E),large,construct,temple
+Iron Guardian (A5E),large,construct,tomb
+Isonade,gargantuan,monstrosity,aquatic
+J'Ba Fofi Spider,large,beast,forests
+Jackal,small,beast,desert
+Jackal,small,beast,grassland
+Jackal of Darkness,small,undead,ruins
+Jackalwere,medium,humanoid,desert
+Jackalwere,medium,humanoid,grassland
+Jackalwere,medium,humanoid,urban
+Jackalwere (A5E),medium,fiend,desert
+Jackalwere (A5E),medium,fiend,grassland
+Jackalwere (A5E),medium,fiend,hills
+Jackalwere Pack Leader (A5E),medium,fiend,desert
+Jackalwere Pack Leader (A5E),medium,fiend,grassland
+Jackalwere Pack Leader (A5E),medium,fiend,hills
+Jaculus,small,dragon,forests
+Jinnborn air pirate,medium,humanoid,desert
+Jinnborn air pirate,medium,humanoid,planar
+Jorogumo,medium,monstrosity,mountains
+Jorogumo,medium,monstrosity,coastal
+Jubjub bird,large,beast,forest
+Jubjub bird,large,beast,grassland
+Jungle Ankheg,large,monstrosity,coast
+Jungle Ankheg,large,monstrosity,forest
+Jungle Ankheg,large,monstrosity,grassland
+Jungle Ankheg,large,monstrosity,underground
+Jupiter Bloodsucker,medium,plant,forest
+"Kaiju, Mogaru",gargantuan,monstrosity (titan),forests
+"Kaiju, Mogaru",gargantuan,monstrosity (titan),coastal
+"Kami, Neak Ta",small,fey,urban
+"Kami, Toshigami",medium,fey,forests
+"Kami, Toshigami",medium,fey,urban
+Kampfult,medium,plant,underground
+Kappa,small,fey,coastal
+Kapre,huge,plant,forests
+Karkadann,huge,monstrosity,desert
+Karkadann,huge,monstrosity,grassland
+Kawa Akago,small,plant,coastal
+Kech,medium,monstrosity,forest
+Kelpie,medium,plant,aquatic
+Kenku,medium,humanoid,arctic
+Kenku,medium,humanoid,coast
+Kenku,medium,humanoid,desert
+Kenku,medium,humanoid,forest
+Kenku,medium,humanoid,grassland
+Kenku,medium,humanoid,mountain
+Kenku,medium,humanoid,ruins
+Kenku,medium,humanoid,urban
+Khalkos (A5E),medium,aberration,abyss
+Khalkos (A5E),medium,aberration,hell
+Khalkos (A5E),medium,aberration,settlement
+Khalkos (A5E),medium,aberration,temple
+Khamaseen,tiny,elemental,badlands
+Khamaseen,tiny,elemental,desert
+Khargi,huge,fiend,badlands
+Khargra,small,fiend,planar
+Ki-rin,huge,celestial,coast
+Ki-rin,huge,celestial,desert
+Ki-rin,huge,celestial,grassland
+Ki-rin,huge,celestial,mountain
+Kikimora,medium,fey,urban
+Killer Whale,huge,beast,aquatic
+Killer Whale (A5E),huge,beast,water
+King Fomor (A5E),gargantuan,celestial,feywild
+Kmoch Pray,huge,plant,forests
+Knight,medium,humanoid,urban
+Knight (A5E),medium,humanoid,grassland
+Knight (A5E),medium,humanoid,hills
+Knight (A5E),medium,humanoid,mountains
+Knight (A5E),medium,humanoid,settlement
+Knight (A5E),medium,humanoid,temple
+Kobold (A5E),small,humanoid,caverns
+Kobold (A5E),small,humanoid,forest
+Kobold (A5E),small,humanoid,grassland
+Kobold (A5E),small,humanoid,hills
+Kobold (A5E),small,humanoid,jungle
+Kobold (A5E),small,humanoid,mountains
+Kobold (A5E),small,humanoid,plane of earth
+Kobold (A5E),small,humanoid,ruin
+Kobold (A5E),small,humanoid,settlement
+Kobold (A5E),small,humanoid,swamp
+Kobold (A5E),small,humanoid,tundra
+Kobold Alchemist,small,humanoid,ruins
+Kobold Alchemist,small,humanoid,underground
+Kobold Alchemist,small,humanoid,urban
+Kobold Broodguard (A5E),small,humanoid,caverns
+Kobold Broodguard (A5E),small,humanoid,forest
+Kobold Broodguard (A5E),small,humanoid,grassland
+Kobold Broodguard (A5E),small,humanoid,hills
+Kobold Broodguard (A5E),small,humanoid,jungle
+Kobold Broodguard (A5E),small,humanoid,mountains
+Kobold Broodguard (A5E),small,humanoid,plane of earth
+Kobold Broodguard (A5E),small,humanoid,ruin
+Kobold Broodguard (A5E),small,humanoid,settlement
+Kobold Broodguard (A5E),small,humanoid,swamp
+Kobold Broodguard (A5E),small,humanoid,tundra
+Kobold Dragon Servitor (A5E),small,humanoid,caverns
+Kobold Dragon Servitor (A5E),small,humanoid,forest
+Kobold Dragon Servitor (A5E),small,humanoid,grassland
+Kobold Dragon Servitor (A5E),small,humanoid,hills
+Kobold Dragon Servitor (A5E),small,humanoid,jungle
+Kobold Dragon Servitor (A5E),small,humanoid,mountains
+Kobold Dragon Servitor (A5E),small,humanoid,plane of earth
+Kobold Dragon Servitor (A5E),small,humanoid,ruin
+Kobold Dragon Servitor (A5E),small,humanoid,settlement
+Kobold Dragon Servitor (A5E),small,humanoid,swamp
+Kobold Dragon Servitor (A5E),small,humanoid,tundra
+Kobold Dragonshield,small,humanoid,forest
+Kobold Dragonshield,small,humanoid,grassland
+Kobold Dragonshield,small,humanoid,mountain
+Kobold Dragonshield,small,humanoid,underground
+Kobold Dragonshield,small,humanoid,urban
+Kobold Scale Sorcerer,small,humanoid,forest
+Kobold Scale Sorcerer,small,humanoid,grassland
+Kobold Scale Sorcerer,small,humanoid,mountain
+Kobold Scale Sorcerer,small,humanoid,underground
+Kobold Scale Sorcerer,small,humanoid,urban
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,caverns
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,forest
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,grassland
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,hills
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,jungle
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,mountains
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,plane of earth
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,ruin
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,settlement
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,swamp
+Kobold Sorcerer Dragon Servitor (A5E),small,humanoid,tundra
+Kobold Trapsmith,small,humanoid,ruins
+Kobold Trapsmith,small,humanoid,underground
+Kobold Trapsmith,small,humanoid,urban
+"Kobold, drake rider",small,humanoid,any
+"Kobold, leviathan hunter",medium,humanoid,coastal
+"Kobold, leviathan hunter",medium,humanoid,underwater
+"Kobold, sapper",small,humanoid,urban
+kongamato,large,beast,marshes
+kongamato,large,beast,plains
+Korred,small,fey,forest
+Kot Bayun,medium,monstrosity,hills
+Kot Bayun,medium,monstrosity,mountains
+Kot Bayun,medium,monstrosity,ruins
+Kot Bayun,medium,monstrosity,underground
+Krake spawn,huge,monstrosity,aquatic
+Kraken,gargantuan,monstrosity,aquatic
+Kraken,gargantuan,monstrosity,coast
+Kraken (A5E),gargantuan,monstrosity,plane of water
+Kraken (A5E),gargantuan,monstrosity,water
+Kraken Priest,medium,humanoid,coast
+Kraken Priest,medium,humanoid,aquatic
+Kting Voar,large,beast,forests
+Kting Voar,large,beast,plains
+Kuo-toa,medium,humanoid,aquatic
+Kuo-toa,medium,humanoid,coast
+Kuo-toa Archpriest,medium,humanoid,aquatic
+Kuo-toa Archpriest,medium,humanoid,coast
+Kuo-toa Whip,medium,humanoid,aquatic
+Kuo-toa Whip,medium,humanoid,coast
+Lacedon Ghast (A5E),medium,undead,abyss
+Lacedon Ghast (A5E),medium,undead,caverns
+Lacedon Ghast (A5E),medium,undead,desert
+Lacedon Ghast (A5E),medium,undead,forest
+Lacedon Ghast (A5E),medium,undead,grassland
+Lacedon Ghast (A5E),medium,undead,hills
+Lacedon Ghast (A5E),medium,undead,mountains
+Lacedon Ghast (A5E),medium,undead,ruin
+Lacedon Ghast (A5E),medium,undead,sewer
+Lacedon Ghast (A5E),medium,undead,shadowfell
+Lacedon Ghast (A5E),medium,undead,swamp
+Lacedon Ghast (A5E),medium,undead,temple
+Lacedon Ghast (A5E),medium,undead,tomb
+Lacedon Ghast (A5E),medium,undead,tundra
+Lacedon Ghoul (A5E),medium,undead,abyss
+Lacedon Ghoul (A5E),medium,undead,caverns
+Lacedon Ghoul (A5E),medium,undead,desert
+Lacedon Ghoul (A5E),medium,undead,forest
+Lacedon Ghoul (A5E),medium,undead,grassland
+Lacedon Ghoul (A5E),medium,undead,hills
+Lacedon Ghoul (A5E),medium,undead,mountains
+Lacedon Ghoul (A5E),medium,undead,ruin
+Lacedon Ghoul (A5E),medium,undead,sewer
+Lacedon Ghoul (A5E),medium,undead,shadowfell
+Lacedon Ghoul (A5E),medium,undead,swamp
+Lacedon Ghoul (A5E),medium,undead,temple
+Lacedon Ghoul (A5E),medium,undead,tomb
+Lacedon Ghoul (A5E),medium,undead,tundra
+Lamia,large,monstrosity,desert
+Lamia,large,monstrosity,ruins
+Lampong,medium,fey,forests
+Land Lamprey,small,beast,underground
+Lantern Dragonette,tiny,dragon,forests
+Lava Child,medium,elemental,underground
+Lava Child Shaman,medium,elemental,underground
+Lava Weird,large,elemental,planar
+Lemure,medium,fiend,dungeon
+Lemure,medium,fiend,planar
+Lemure (A5E),medium,fiend,hell
+Lemure Band (A5E),large,fiend,hell
+Lemurfolk (Kaguani),small,humanoid,forests
+Leshy,medium,monstrosity,forests
+Lesser Boneneedle,small,beast,underground
+Lesser Fire Crab,small,monstrosity,planar
+Leucrotta,large,monstrosity,desert
+Leucrotta,large,monstrosity,grassland
+Ley wanderer,huge,aberration,any
+Library Automaton,small,construct,urban
+Lich,medium,undead,dungeon
+Lich,medium,undead,ruins
+Lich,medium,undead,urban
+Lich (A5E),medium,undead,laboratory
+Lich (A5E),medium,undead,ruin
+Lich (A5E),medium,undead,shadowfell
+Lich (A5E),medium,undead,tomb
+Lich (in lair),medium,undead,dungeon
+Lich (in lair),medium,undead,ruins
+Lich (in lair),medium,undead,urban
+Life broker,medium,fey,farmland
+Life broker,medium,fey,urban
+Light Devourer,medium,aberration,cave
+Light Devourer,medium,aberration,underground
+Light eater,small,aberration,underground
+Lightning Treant,huge,plant,forest
+Likho,medium,monstrosity,forests
+Lion,large,beast,grassland
+Lionwere,large,monstrosity,grassland
+Lionwere,large,monstrosity,underground
+Litao,medium,fey,coastal
+Litao,medium,fey,forests
+Lithonnite,large,monstrosity,aquatic
+Lithonnite,large,monstrosity,underground
+Living soot,large,elemental,planar
+Living soot,large,elemental,urban
+Living Temple,gargantuan,construct,dungeon
+Living Wick,small,construct,ruins
+Living Wick,small,construct,underground
+Living Wick,small,construct,urban
+Lizard,tiny,beast,cave
+Lizard,tiny,beast,desert
+Lizard,tiny,beast,dungeon
+Lizard,tiny,beast,forest
+Lizard,tiny,beast,grassland
+Lizard,tiny,beast,mountain
+Lizard,tiny,beast,ruins
+Lizard,tiny,beast,swamp
+Lizard,tiny,beast,underground
+Lizard (A5E),tiny,beast,desert
+Lizard (A5E),tiny,beast,grassland
+Lizard (A5E),tiny,beast,jungle
+Lizard (A5E),tiny,beast,ruin
+Lizard (A5E),tiny,beast,swamp
+Lizard King/Queen,medium,humanoid,coast
+Lizard King/Queen,medium,humanoid,dungeon
+Lizard King/Queen,medium,humanoid,forest
+Lizard King/Queen,medium,humanoid,grassland
+Lizard King/Queen,medium,humanoid,swamp
+Lizardfolk,medium,humanoid,coast
+Lizardfolk,medium,humanoid,dungeon
+Lizardfolk,medium,humanoid,forest
+Lizardfolk,medium,humanoid,grassland
+Lizardfolk,medium,humanoid,swamp
+Lizardfolk (A5E),medium,humanoid,jungle
+Lizardfolk (A5E),medium,humanoid,swamp
+Lizardfolk Chosen One (A5E),medium,humanoid,jungle
+Lizardfolk Chosen One (A5E),medium,humanoid,swamp
+Lizardfolk Druid (A5E),medium,humanoid,jungle
+Lizardfolk Druid (A5E),medium,humanoid,swamp
+Lizardfolk Shaman,medium,humanoid,coast
+Lizardfolk Shaman,medium,humanoid,dungeon
+Lizardfolk Shaman,medium,humanoid,forest
+Lizardfolk Shaman,medium,humanoid,grassland
+Lizardfolk Shaman,medium,humanoid,swamp
+Lobe lemur,small,monstrosity,swamp
+Lord of the Azer,medium,elemental,planar
+Lord of the Azer,medium,elemental,underground
+Lorelei,medium,fey,aquatic
+Loxoda,huge,monstrosity,forests
+Loxoda,huge,monstrosity,plains
+Lumawig,large,celestial,mountains
+Lumawig,large,celestial,forests
+Lumawig,large,celestial,sea
+Lumawig,large,celestial,coastal
+"Lycanthrope, werecrocodile",medium,humanoid,coastal
+"Lycanthrope, werecrocodile",medium,humanoid,desert
+"Lycanthrope, werecrocodile",medium,humanoid,underwater
+"Lycanthrope, wereotter",medium,humanoid,forest
+"Lycanthrope, wereotter",medium,humanoid,swamp
+Mage,medium,humanoid,urban
+Mage (A5E),medium,humanoid,desert
+Mage (A5E),medium,humanoid,feywild
+Mage (A5E),medium,humanoid,forest
+Mage (A5E),medium,humanoid,hills
+Mage (A5E),medium,humanoid,jungle
+Mage (A5E),medium,humanoid,laboratory
+Mage (A5E),medium,humanoid,mountains
+Mage (A5E),medium,humanoid,ruin
+Mage (A5E),medium,humanoid,settlement
+Mage (A5E),medium,humanoid,shadowfell
+Mage (A5E),medium,humanoid,swamp
+Magma Mephit,small,elemental,cave
+Magma Mephit,small,elemental,dungeon
+Magma Mephit,small,elemental,mountain
+Magma Mephit,small,elemental,planar
+Magma Mephit,small,elemental,urban
+Magma Mephit (A5E),small,elemental,caverns
+Magma Mephit (A5E),small,elemental,mountains
+Magma Mephit (A5E),small,elemental,plane of earth
+Magma Mephit (A5E),small,elemental,plane of fire
+Magma Mephit King,small,elemental,cave
+Magma Mephit King,small,elemental,dungeon
+Magma Mephit King,small,elemental,mountain
+Magma Mephit King,small,elemental,planar
+Magma Mephit King,small,elemental,urban
+Magma Ooze,large,ooze,mountain
+Magma Ooze,large,ooze,underground
+Magmin,small,elemental,dungeon
+Magmin,small,elemental,planar
+Magmin,small,elemental,ruins
+Magmin,small,elemental,urban
+Magmin (A5E),small,elemental,caverns
+Magmin (A5E),small,elemental,desert
+Magmin (A5E),small,elemental,laboratory
+Magmin (A5E),small,elemental,mountains
+Magmin (A5E),small,elemental,plane of fire
+Magmoid,large,elemental,planar
+Mahoru,large,monstrosity,aquatic
+Maiden of Ice,huge,giant,arctic
+Maiden of Ice,huge,giant,mountain
+Maiden of Ice,huge,giant,planar
+Malcubus (A5E),medium,fiend,abyss
+Malcubus (A5E),medium,fiend,ethereal plane
+Malcubus (A5E),medium,fiend,hell
+Malcubus (A5E),medium,fiend,settlement
+Mameleu,huge,dragon,coastal
+Mameleu,huge,dragon,sea
+Mameleu Hatchling,large,dragon,coastal
+Mameleu Hatchling,large,dragon,sea
+Mammoth,huge,beast,arctic
+Mammoth (A5E),huge,beast,tundra
+Mammoth Beetle,huge,beast,cave
+Mammoth Beetle,huge,beast,underground
+Mamura,small,aberration,badlands
+Mamura,small,aberration,ruins
+Mamura,small,aberration,underground
+Manabane Scarab Swarm,medium,beast,desert
+Mandarangkal,medium,monstrosity,urban
+Mandragora,small,plant,forest
+Mandrill,small,beast,forest
+Manes,small,fiend,dungeon
+Manes,small,fiend,planar
+Mantari,medium,monstrosity,underground
+Manticore (A5E),large,monstrosity,desert
+Manticore (A5E),large,monstrosity,forest
+Manticore (A5E),large,monstrosity,grassland
+Manticore (A5E),large,monstrosity,hills
+Manticore (A5E),large,monstrosity,jungle
+Manticore (A5E),large,monstrosity,mountains
+Manticore (A5E),large,monstrosity,tundra
+Map Mimic,tiny,aberration,ruins
+Map Mimic,tiny,aberration,underground
+Margoyle,medium,monstrosity,aquatic
+Margoyle,medium,monstrosity,underground
+Marid,large,elemental,aquatic
+Marid,large,elemental,coast
+Marid,large,elemental,dungeon
+Marid,large,elemental,planar
+Marid,large,elemental,swamp
+Marid (A5E),large,elemental,plane of water
+Marid (A5E),large,elemental,water
+Marilith,large,fiend,dungeon
+Marilith,large,fiend,planar
+Marilith (A5E),large,fiend,abyss
+Marine Basilisk,large,monstrosity,aquatic
+Marine Basilisk,large,monstrosity,cave
+Marine Basilisk,large,monstrosity,coast
+Marine Basilisk,large,monstrosity,dungeon
+Marine Basilisk,large,monstrosity,ruins
+Marine Basilisk,large,monstrosity,swamp
+Marine Basilisk,large,monstrosity,underground
+Markupo,huge,dragon,mountains
+Markupo,huge,dragon,forests
+Martial Arts Adept,medium,humanoid,urban
+Master Assassin (A5E),medium,humanoid,desert
+Master Assassin (A5E),medium,humanoid,forest
+Master Assassin (A5E),medium,humanoid,settlement
+Master Assassin (A5E),medium,humanoid,sewer
+Master Thief,medium,humanoid,urban
+Master Thief (A5E),medium,humanoid,settlement
+Master Thief (A5E),medium,humanoid,sewer
+Mastiff,medium,beast,urban
+Mastiff (A5E),medium,beast,settlement
+Mastodon,huge,beast,forest
+Mastodon,huge,beast,grassland
+Maw Demon,medium,fiend,underground
+Mbielu,huge,beast,aquatic
+Mbielu,huge,beast,marshes
+Mbielu,huge,beast,plains
+Medusa,medium,monstrosity,cave
+Medusa,medium,monstrosity,dungeon
+Medusa,medium,monstrosity,mountain
+Medusa,medium,monstrosity,ruins
+Medusa,medium,monstrosity,urban
+Medusa Queen (A5E),medium,monstrosity,caverns
+Medusa Queen (A5E),medium,monstrosity,desert
+Medusa Queen (A5E),medium,monstrosity,forest
+Medusa Queen (A5E),medium,monstrosity,jungle
+Medusa Queen (A5E),medium,monstrosity,mountains
+Medusa Queen (A5E),medium,monstrosity,plane of earth
+Medusa Queen (A5E),medium,monstrosity,settlement
+Medusa Queen (A5E),medium,monstrosity,tundra
+Meenlock,small,fey,forest
+Meenlock,small,fey,swamp
+Meenlock,small,fey,urban
+Meerkat,tiny,beast,grassland
+"Meerkats, swarm",medium,swarm,grassland
+"Megafauna, Megalania",huge,beast,mountains
+"Megafauna, Megalania",huge,beast,plains
+"Megafauna, Megalania",huge,beast,forests
+"Megafauna, Moa",large,beast,mountains
+"Megafauna, Moa",large,beast,plains
+"Megafauna, Moa",large,beast,forests
+Megantereon,medium,beast,grassland
+Merchant Captain,medium,humanoid,urban
+Merclops Cyclops Variant (A5E),huge,giant,aquatic
+Merclops Cyclops Variant (A5E),huge,giant,coastal
+Merfolk,medium,humanoid,aquatic
+Merfolk (A5E),medium,humanoid,water
+Merfolk Hydromancer,medium,humanoid,aquatic
+Merfolk Hydromancer,medium,humanoid,coast
+Merfolk Knight (A5E),medium,humanoid,water
+"Merfolk, Amanbuti",medium,humanoid,coastal
+"Merfolk, Amanbuti",medium,humanoid,sea
+"Merfolk, Kataw",medium,fey,coastal
+"Merfolk, Kataw",medium,fey,sea
+"Merfolk, Magindara",medium,aswang,sea
+"Merfolk, Magindara",medium,aswang,coastal
+Merrow,large,monstrosity,aquatic
+Merrow (A5E),large,monstrosity,swamp
+Merrow (A5E),large,monstrosity,water
+Merrow Mage (A5E),large,monstrosity,swamp
+Merrow Mage (A5E),large,monstrosity,water
+Midnight sun,large,aberration,arctic
+Millitaur,large,monstrosity,forests
+Mimic,medium,monstrosity,dungeon
+Mimic (A5E),medium,monstrosity,caverns
+Mimic (A5E),medium,monstrosity,desert
+Mimic (A5E),medium,monstrosity,laboratory
+Mimic (A5E),medium,monstrosity,ruin
+Mind Flayer,medium,aberration,dungeon
+Mind Flayer,medium,aberration,underground
+Mind Flayer,medium,aberration,urban
+Mind Flayer Arcanist,medium,aberration,dungeon
+Mind Flayer Arcanist,medium,aberration,underground
+Mind Flayer Arcanist,medium,aberration,urban
+Mind Flayer Lich (Illithilich),medium,undead,underground
+Mindshard,small,aberration,grassland
+Mindwitness,large,aberration,underground
+Minotaur,large,monstrosity,cave
+Minotaur,large,monstrosity,dungeon
+Minotaur,large,monstrosity,ruins
+Minotaur,large,monstrosity,underground
+Minotaur (A5E),large,monstrosity,abyss
+Minotaur (A5E),large,monstrosity,caverns
+Minotaur (A5E),large,monstrosity,plane of earth
+Minotaur Champion (A5E),huge,monstrosity,abyss
+Minotaur Champion (A5E),huge,monstrosity,caverns
+Minotaur Champion (A5E),huge,monstrosity,plane of earth
+"Minotaur, ravening",large,monstrosity,desert
+"Minotaur, ravening",large,monstrosity,grassland
+"Minotaur, ravening",large,monstrosity,urban
+Minstrel (A5E),medium,humanoid,feywild
+Minstrel (A5E),medium,humanoid,forest
+Minstrel (A5E),medium,humanoid,settlement
+Mirage Monster (A5E),huge,monstrosity,caverns
+Mirage Monster (A5E),huge,monstrosity,desert
+Mirage Monster (A5E),huge,monstrosity,laboratory
+Mirage Monster (A5E),huge,monstrosity,ruin
+Mirager,medium,fey,badlands
+Mirager,medium,fey,desert
+Miremal,small,fey,marshes
+Mite,small,fey,underground
+Mngwa,medium,aberration,badlands
+Mngwa,medium,aberration,forests
+Mngwa,medium,aberration,plains
+Molten Spider,medium,beast,mountain
+Molten Spider,medium,beast,dungeon
+Molten Spider,medium,beast,planar
+Monk of the Scattered Sands,medium,humanoid,desert
+Monk of the Scattered Sands,medium,humanoid,urban
+Monkey’s bane vine,large,plant,forest
+Monodrone,medium,construct,planar
+Monstrous Crayfish,large,beast,aquatic
+Moon weaver,small,beast,forest
+Moonweb,medium,aberration,planar
+Mordant Snare,gargantuan,aberration,ruins
+Mordant Snare,gargantuan,aberration,underground
+Morkoth,medium,aberration,coast
+Morkoth,medium,aberration,aquatic
+Morphoi,medium,plant,aquatic
+Mortifera,large,aberration,swamp
+Moss Lurker,small,humanoid,forests
+Moss Lurker,small,humanoid,marshes
+Moss Lurker,small,humanoid,ruins
+Moss Lurker,small,humanoid,underground
+Mountain Dwarf Defender (A5E),medium,humanoid,hills
+Mountain Dwarf Defender (A5E),medium,humanoid,mountains
+Mountain Dwarf Lord (A5E),medium,humanoid,hills
+Mountain Dwarf Lord (A5E),medium,humanoid,mountains
+Mountain Dwarf Soldier (A5E),medium,humanoid,caverns
+Mountain Dwarf Soldier (A5E),medium,humanoid,mountains
+Mountain Kyeryong,small,monstrosity,mountains
+Mouth of Grolantor,huge,giant,grassland
+Mud Mephit,small,elemental,coast
+Mud Mephit,small,elemental,dungeon
+Mud Mephit,small,elemental,forest
+Mud Mephit,small,elemental,planar
+Mud Mephit,small,elemental,swamp
+Mud Mephit,small,elemental,urban
+Mudmutt,large,monstrosity,swamp
+Mule,medium,beast,urban
+Mule (A5E),medium,beast,grassland
+Mule (A5E),medium,beast,settlement
+Mulyong,medium,beast (mul),aquatic
+Mummy,medium,undead,desert
+Mummy,medium,undead,dungeon
+Mummy (A5E),medium,undead,desert
+Mummy (A5E),medium,undead,ruin
+Mummy (A5E),medium,undead,shadowfell
+Mummy (A5E),medium,undead,temple
+Mummy (A5E),medium,undead,tomb
+Mummy Lord,medium,undead,desert
+Mummy Lord,medium,undead,dungeon
+Mummy Lord (A5E),medium,undead,desert
+Mummy Lord (A5E),medium,undead,ruin
+Mummy Lord (A5E),medium,undead,shadowfell
+Mummy Lord (A5E),medium,undead,temple
+Mummy Lord (A5E),medium,undead,tomb
+Mummy of the Deep,medium,undead,aquatic
+"Mummy, Venomous",medium,undead,desert
+"Mummy, Venomous",medium,undead,ruins
+"Mummy, Venomous",medium,undead,underground
+Muraenid,large,monstrosity,underwater
+Murmuring Worm (A5E),huge,aberration,astral plane
+Murmuring Worm (A5E),huge,aberration,caverns
+Murmuring Worm (A5E),huge,aberration,laboratory
+Murmuring Worm (A5E),huge,aberration,sewer
+Musk deer,tiny,beast,arctic
+Musk deer,tiny,beast,forest
+"Musk deer, swarm",medium,swarm,arctic
+"Musk deer, swarm",medium,swarm,forest
+Mustard Jelly,large,ooze,swamp
+Mustbairn Halfling Druid (A5E),small,humanoid,desert
+Mustbairn Halfling Druid (A5E),small,humanoid,forest
+Mustbairn Halfling Druid (A5E),small,humanoid,grassland
+Mustbairn Halfling Druid (A5E),small,humanoid,hills
+Mustbairn Halfling Druid (A5E),small,humanoid,jungle
+Mustbairn Halfling Druid (A5E),small,humanoid,mountains
+Mustbairn Halfling Druid (A5E),small,humanoid,swamp
+Mustbairn Halfling Druid (A5E),small,humanoid,tundra
+Myconid Adult,medium,plant,underground
+Myconid Sovereign,large,plant,underground
+Myconid Sprout,small,plant,underground
+Myrmex,medium,elemental,planar
+Myrmex,medium,elemental,underground
+Mysterious Starcaller,medium,celestial,planar
+Mystic Spellblade,medium,humanoid,coast
+Mystic Spellblade,medium,humanoid,forest
+Mystic Spellblade,medium,humanoid,grassland
+Mystic Spellblade,medium,humanoid,urban
+Naergoth Bladelord,medium,undead,dungeon
+Nagaji Warrior,medium,humanoid,coastal
+Naiad (A5E),medium,fey,forest
+Naiad (A5E),medium,fey,jungle
+Nalfeshnee (A5E),large,fiend,abyss
+Nariphon,huge,plant,badlands
+Nariphon,huge,plant,grassland
+Nautiloid,gargantuan,elemental,planar
+Nautiloid,gargantuan,elemental,underwater
+Necrotech bonecage constrictor,huge,(undead),any
+Necrotech reaver,huge,undead,any
+Necrotech thunderer,huge,undead,any
+Neogi Hatchling,tiny,aberration,grassland
+Neogi Hatchling,tiny,aberration,underground
+Neogi Master,medium,aberration,grassland
+Neogi Master,medium,aberration,underground
+Neothelid,gargantuan,aberration,underground
+Ngobou,large,beast,plains
+Night Hag,medium,fiend,planar
+Night Hag,medium,fiend,underground
+Night Hag (A5E),medium,fey,caverns
+Night Hag (A5E),medium,fey,feywild
+Night Hag (A5E),medium,fey,forest
+Night Hag (A5E),medium,fey,hell
+Night Hag (A5E),medium,fey,jungle
+Night Hag (A5E),medium,fey,ruin
+Night Hag (A5E),medium,fey,settlement
+Night Hag (A5E),medium,fey,shadowfell
+Night Hag (A5E),medium,fey,swamp
+Night Hag (coven),medium,fiend,planar
+Night Hag (coven),medium,fiend,underground
+Nightmare (A5E),large,fiend,abyss
+Nightmare (A5E),large,fiend,hell
+Nightmare (A5E),large,fiend,shadowfell
+Nilbog,small,humanoid,grassland
+Nilbog,small,humanoid,underground
+Ninja,medium,humanoid,arctic
+Ninja,medium,humanoid,cave
+Ninja,medium,humanoid,coast
+Ninja,medium,humanoid,desert
+Ninja,medium,humanoid,dungeon
+Ninja,medium,humanoid,forest
+Ninja,medium,humanoid,grassland
+Ninja,medium,humanoid,mountain
+Ninja,medium,humanoid,ruins
+Ninja,medium,humanoid,swamp
+Ninja,medium,humanoid,underground
+Ninja,medium,humanoid,urban
+Niya-atha raja,medium,fey,forest
+Niya-atha sorcerer,medium,fey,forest
+Niya-atha warrior,medium,fey,forest
+Nkosi,medium,humanoid,plains
+Nkosi Pridelord,medium,humanoid,plains
+Noble,medium,humanoid,urban
+Noble (A5E),medium,humanoid,grassland
+Noble (A5E),medium,humanoid,hills
+Noble (A5E),medium,humanoid,settlement
+Nothic,medium,aberration,dungeon
+Nothic,medium,aberration,ruins
+Nothic,medium,aberration,urban
+Noxious Savageclaw,medium,aberration,cave
+Noxious Savageclaw,medium,aberration,dungeon
+Noxious Savageclaw,medium,aberration,underground
+Nullicorn,large,aberration,badlands
+Nycaloth,large,fiend,dungeon
+Nycaloth,large,fiend,planar
+Oaken sentinel,huge,plant,forest
+Obeleric,medium,aberration,hills
+Obeleric,medium,aberration,mountains
+Obsidian Drake,huge,dragon,mountain
+Obsidian Drake,huge,dragon,planar
+Obsidian Golem,large,construct,dungeon
+Obsidian Golem,large,construct,ruins
+Obsidian Golem,large,construct,urban
+Obsidian ophidian,huge,elemental,mountains
+Ochre Jelly,large,ooze,dungeon
+Octopus,small,beast,aquatic
+Octopus (A5E),tiny,beast,water
+Oculo Swarm,large swarm,aberration,ruins
+Oculo Swarm,large swarm,aberration,underground
+Offal walker,medium,undead,any
+Ogre (A5E),large,giant,caverns
+Ogre (A5E),large,giant,desert
+Ogre (A5E),large,giant,feywild
+Ogre (A5E),large,giant,forest
+Ogre (A5E),large,giant,grassland
+Ogre (A5E),large,giant,hills
+Ogre (A5E),large,giant,jungle
+Ogre (A5E),large,giant,mountains
+Ogre (A5E),large,giant,plane of earth
+Ogre (A5E),large,giant,ruin
+Ogre (A5E),large,giant,swamp
+Ogre (A5E),large,giant,tundra
+"Ogre Chieftain, Corrupted",large,giant,badlands
+"Ogre Chieftain, Corrupted",large,giant,hills
+"Ogre Chieftain, Corrupted",large,giant,ruins
+"Ogre Chieftain, Corrupted",large,giant,underground
+Ogre Flesh Heap (A5E),large,undead,ruin
+Ogre Flesh Heap (A5E),large,undead,shadowfell
+Ogre Flesh Heap (A5E),large,undead,temple
+Ogre Flesh Heap (A5E),large,undead,tomb
+Ogre Mage (A5E),large,giant,caverns
+Ogre Mage (A5E),large,giant,desert
+Ogre Mage (A5E),large,giant,feywild
+Ogre Mage (A5E),large,giant,forest
+Ogre Mage (A5E),large,giant,grassland
+Ogre Mage (A5E),large,giant,hills
+Ogre Mage (A5E),large,giant,jungle
+Ogre Mage (A5E),large,giant,mountains
+Ogre Mage (A5E),large,giant,plane of earth
+Ogre Mage (A5E),large,giant,ruin
+Ogre Mage (A5E),large,giant,swamp
+Ogre Mage (A5E),large,giant,tundra
+Ogre Shaman,large,giant,dungeon
+Ogre Shaman,large,giant,forest
+Ogre Shaman,large,giant,mountain
+Ogre Shaman,large,giant,swamp
+Ogre Warchief,large,giant,dungeon
+Ogre Warchief,large,giant,forest
+Ogre Warchief,large,giant,mountain
+Ogre Warchief,large,giant,swamp
+Ogre Zombie,large,undead,dungeon
+Ogre Zombie,large,undead,forest
+Ogre Zombie,large,undead,mountain
+Ogre Zombie,large,undead,swamp
+Ogre Zombie (A5E),large,undead,ruin
+Ogre Zombie (A5E),large,undead,shadowfell
+Ogre Zombie (A5E),large,undead,temple
+Ogre Zombie (A5E),large,undead,tomb
+"Ogre, alleybasher",large,giant,urban
+"Ogre, cunning artisan",large,giant,mountains
+"Ogre, kadag",large,giant,badlands
+"Ogre, kadag",large,giant,mountains
+"Ogre, rainforest",large,giant,forest
+"Ogre, rockchewer",huge,giant,badlands
+"Ogre, rockchewer",huge,giant,hills
+"Ogre, rockchewer",huge,giant,mountains
+"Ogre, void blessed",large,giant,badlands
+"Ogre, void blessed",large,giant,farmland
+"Ogre, void blessed",large,giant,urban
+Ogrekin (A5E),medium,humanoid,caverns
+Ogrekin (A5E),medium,humanoid,desert
+Ogrekin (A5E),medium,humanoid,feywild
+Ogrekin (A5E),medium,humanoid,forest
+Ogrekin (A5E),medium,humanoid,grassland
+Ogrekin (A5E),medium,humanoid,hills
+Ogrekin (A5E),medium,humanoid,jungle
+Ogrekin (A5E),medium,humanoid,mountains
+Ogrekin (A5E),medium,humanoid,plane of earth
+Ogrekin (A5E),medium,humanoid,ruin
+Ogrekin (A5E),medium,humanoid,swamp
+Ogrekin (A5E),medium,humanoid,tundra
+Old salt,medium,undead,coastal
+Old salt,medium,undead,urban
+Olive Slime,large,plant,underground
+Olive Slime Zombie,medium,plant,underground
+One-Eyed Shiver,medium,humanoid,aquatic
+One-Eyed Shiver,medium,humanoid,cave
+One-Eyed Shiver,medium,humanoid,coast
+One-Eyed Shiver,medium,humanoid,grassland
+One-Eyed Shiver,medium,humanoid,swamp
+One-Eyed Shiver,medium,humanoid,underground
+Oni,large,giant,dungeon
+Oni,large,giant,grassland
+Oni,large,giant,ruins
+Oni,large,giant,urban
+"Oni, Yeren",large,giant (shapechanger),forests
+"Oni, Yeren",large,giant (shapechanger),mountains
+Oozasis,gargantuan,ooze,desert
+Oozasis,gargantuan,ooze,marshes
+"Ooze, leavesrot",large,ooze,forest
+"Ooze, manure",medium,ooze,farmland
+"Ooze, scintillating",large,ooze,farmland
+"Ooze, scintillating",large,ooze,underground
+"Ooze, scintillating",large,ooze,urban
+"Ooze, shoal",gargantuan,ooze,underwater
+"Ooze, sinkhole",gargantuan,ooze,grassland
+"Ooze, sinkhole",gargantuan,ooze,hills
+"Ooze, sinkhole",gargantuan,ooze,underground
+"Ooze, sinoper",medium,ooze,urban
+"Ooze, snow",huge,ooze,arctic
+Orc,medium,humanoid,arctic
+Orc,medium,humanoid,coast
+Orc,medium,humanoid,desert
+Orc,medium,humanoid,dungeon
+Orc,medium,humanoid,forest
+Orc,medium,humanoid,grassland
+Orc,medium,humanoid,mountain
+Orc,medium,humanoid,ruins
+Orc,medium,humanoid,swamp
+Orc,medium,humanoid,urban
+Orc Blade of Ilneval,medium,humanoid,forest
+Orc Blade of Ilneval,medium,humanoid,grassland
+Orc Blade of Ilneval,medium,humanoid,mountain
+Orc Blade of Ilneval,medium,humanoid,underground
+Orc Claw of Luthic,medium,humanoid,mountain
+Orc Claw of Luthic,medium,humanoid,underground
+Orc Eye of Gruumsh,medium,humanoid,arctic
+Orc Eye of Gruumsh,medium,humanoid,coast
+Orc Eye of Gruumsh,medium,humanoid,desert
+Orc Eye of Gruumsh,medium,humanoid,dungeon
+Orc Eye of Gruumsh,medium,humanoid,forest
+Orc Eye of Gruumsh,medium,humanoid,grassland
+Orc Eye of Gruumsh,medium,humanoid,mountain
+Orc Eye of Gruumsh,medium,humanoid,ruins
+Orc Eye of Gruumsh,medium,humanoid,swamp
+Orc Eye of Gruumsh,medium,humanoid,urban
+Orc Hand of Yurtrus,medium,humanoid,forest
+Orc Hand of Yurtrus,medium,humanoid,grassland
+Orc Hand of Yurtrus,medium,humanoid,mountain
+Orc Hand of Yurtrus,medium,humanoid,underground
+Orc Red Fang of Shargaas,medium,humanoid,forest
+Orc Red Fang of Shargaas,medium,humanoid,grassland
+Orc Red Fang of Shargaas,medium,humanoid,mountain
+Orc Red Fang of Shargaas,medium,humanoid,underground
+Orc Red Fang of Shargaas,medium,humanoid,urban
+Orc War Chief,medium,humanoid,arctic
+Orc War Chief,medium,humanoid,coast
+Orc War Chief,medium,humanoid,desert
+Orc War Chief,medium,humanoid,dungeon
+Orc War Chief,medium,humanoid,forest
+Orc War Chief,medium,humanoid,grassland
+Orc War Chief,medium,humanoid,mountain
+Orc War Chief,medium,humanoid,ruins
+Orc War Chief,medium,humanoid,swamp
+Orc War Chief,medium,humanoid,urban
+Orcish Wildling Minstrel (A5E),medium,humanoid,feywild
+Orcish Wildling Minstrel (A5E),medium,humanoid,forest
+Orcish Wildling Minstrel (A5E),medium,humanoid,settlement
+Ork Urk (A5E),medium,humanoid,caverns
+Ork Urk (A5E),medium,humanoid,desert
+Ork Urk (A5E),medium,humanoid,forest
+Ork Urk (A5E),medium,humanoid,grassland
+Ork Urk (A5E),medium,humanoid,hills
+Ork Urk (A5E),medium,humanoid,jungle
+Ork Urk (A5E),medium,humanoid,mountains
+Ork Urk (A5E),medium,humanoid,ruin
+Ork Urk (A5E),medium,humanoid,swamp
+Ork Urk (A5E),medium,humanoid,tundra
+Orog,medium,humanoid,arctic
+Orog,medium,humanoid,coast
+Orog,medium,humanoid,desert
+Orog,medium,humanoid,dungeon
+Orog,medium,humanoid,forest
+Orog,medium,humanoid,grassland
+Orog,medium,humanoid,mountain
+Orog,medium,humanoid,ruins
+Orog,medium,humanoid,swamp
+Orog,medium,humanoid,urban
+Ostinato,medium,aberration,ruins
+Ostinato,medium,aberration,underground
+Otyugh (A5E),large,aberration,caverns
+Otyugh (A5E),large,aberration,laboratory
+Otyugh (A5E),large,aberration,ruin
+Otyugh (A5E),large,aberration,sewer
+Otyugh (A5E),large,aberration,swamp
+Overgrowth Ghoul,medium,undead,forest
+Overgrowth Ghoul,medium,undead,swamp
+Owl,tiny,beast,forest
+Owl,tiny,beast,urban
+Owl (A5E),tiny,beast,forest
+Owlbear,large,monstrosity,forest
+Owlbear,large,monstrosity,mountain
+Owlbear (A5E),large,monstrosity,feywild
+Owlbear (A5E),large,monstrosity,forest
+Owlbear (A5E),large,monstrosity,hills
+Owlbear (A5E),large,monstrosity,jungle
+Owlbear (A5E),large,monstrosity,mountains
+Owlbear Recluse (A5E),large,monstrosity,feywild
+Owlbear Recluse (A5E),large,monstrosity,forest
+Owlbear Recluse (A5E),large,monstrosity,hills
+Owlbear Recluse (A5E),large,monstrosity,jungle
+Owlbear Recluse (A5E),large,monstrosity,mountains
+Painted phantasm,medium,construct,urban
+Panther,medium,beast,forest
+Panther (A5E),medium,beast,forest
+Panther (A5E),medium,beast,jungle
+Paper Drake,small,dragon,urban
+Pegasus,large,celestial,mountain
+Pegasus (A5E),large,celestial,astral plane
+Pegasus (A5E),large,celestial,feywild
+Pegasus (A5E),large,celestial,forest
+Pegasus (A5E),large,celestial,hills
+Pegasus (A5E),large,celestial,mountains
+Pelagic blush worm,gargantuan,monstrosity,underwater
+Pentadrone,large,construct,planar
+Peri,small,elemental,mountains
+Peryton,large,monstrosity,mountain
+Peryton (A5E),large,monstrosity,forest
+Peryton (A5E),large,monstrosity,hills
+Peryton (A5E),large,monstrosity,mountains
+Peryton (A5E),large,monstrosity,settlement
+Pescavitus,small,celestial,underwater
+Pestie,small,fey,underground
+Phase Monster (A5E),large,monstrosity,grassland
+Phase Monster (A5E),large,monstrosity,hills
+Phase Spider,large,monstrosity,cave
+Phase Spider,large,monstrosity,coast
+Phase Spider,large,monstrosity,dungeon
+Phase Spider,large,monstrosity,forest
+Phase Spider,large,monstrosity,grassland
+Phase Spider,large,monstrosity,mountain
+Phase Spider,large,monstrosity,planar
+Phase Spider,large,monstrosity,ruins
+Phase Spider,large,monstrosity,swamp
+Phase Spider,large,monstrosity,underground
+Phase Spider (A5E),large,monstrosity,astral plane
+Phase Spider (A5E),large,monstrosity,caverns
+Phase Spider (A5E),large,monstrosity,ethereal plane
+Phase Spider (A5E),large,monstrosity,feywild
+Phase Spider (A5E),large,monstrosity,grassland
+Phase Spider (A5E),large,monstrosity,mountains
+Phase Spider (A5E),large,monstrosity,ruin
+Phase Spider (A5E),large,monstrosity,shadowfell
+Phoenixborn,medium,humanoid,planar
+Phoenixborn sorcerer,medium,humanoid,planar
+Phycomid,small,plant,underground
+Piercer,medium,monstrosity,cave
+Piercer,medium,monstrosity,underground
+Piercer (A5E),small,monstrosity,caverns
+Pirate (A5E),medium,humanoid,water
+Pirate Captain (A5E),medium,humanoid,water
+Pit Fiend,large,fiend,dungeon
+Pit Fiend,large,fiend,planar
+Pit Fiend (A5E),large,fiend,hell
+Pit Fiend General (A5E),huge,fiend,hell
+Pixie,tiny,fey,coast
+Pixie,tiny,fey,forest
+Pixie,tiny,fey,grassland
+Pixie,tiny,fey,swamp
+Pixie (A5E),tiny,fey,feywild
+Pixie (A5E),tiny,fey,forest
+Pixie (A5E),tiny,fey,swamp
+Planetar,large,celestial,planar
+Pleiosaurus (A5E),large,beast,forests
+Pleiosaurus (A5E),large,beast,plains
+Pleiosaurus (A5E),large,beast,desert
+Plesiosaurus,large,beast,aquatic
+Plesiosaurus (A5E),large,beast,plane of water
+Plesiosaurus (A5E),large,beast,water
+Poisonous Fire Snake,small,fiend,planar
+Poisonous Snake,tiny,beast,desert
+Poisonous Snake,tiny,beast,forest
+Poisonous Snake,tiny,beast,grassland
+Poisonous Snake,tiny,beast,swamp
+Poisonous Snake (A5E),tiny,beast,caverns
+Poisonous Snake (A5E),tiny,beast,desert
+Poisonous Snake (A5E),tiny,beast,forest
+Poisonous Snake (A5E),tiny,beast,grassland
+Poisonous Snake (A5E),tiny,beast,hills
+Poisonous Snake (A5E),tiny,beast,jungle
+Poisonous Snake (A5E),tiny,beast,mountains
+Poisonous Snake (A5E),tiny,beast,ruin
+Poisonous Snake (A5E),tiny,beast,sewer
+Poisonous Snake (A5E),tiny,beast,swamp
+Poisonous Snake (A5E),tiny,beast,tomb
+Poisonous Snake (A5E),tiny,beast,water
+Polar Bear,large,beast,arctic
+Polar Bear,large,beast,cave
+Polar Bear (A5E),large,beast,tundra
+Poltergeist,medium,undead,dungeon
+Poltergeist,medium,undead,ruins
+Poltergeist,medium,undead,urban
+Pombero,medium,fey,forests
+Pony,medium,beast,grassland
+Porcellina,tiny,beast,badlands
+Possessed Pillar,large,construct,desert
+Possessed Pillar,large,construct,urban
+Priest,medium,humanoid,urban
+Priest (A5E),medium,humanoid,desert
+Priest (A5E),medium,humanoid,hills
+Priest (A5E),medium,humanoid,settlement
+Priest (A5E),medium,humanoid,temple
+Primordial matriarch,gargantuan,elemental,mountains
+Primordial matriarch,gargantuan,elemental,planar
+Primordial surge,gargantuan,elemental,any
+Prismatic Beetle Swarm,medium,beast,forests
+Pseudodragon,tiny,dragon,urban
+Pseudodragon (A5E),tiny,dragon,desert
+Pseudodragon (A5E),tiny,dragon,forest
+Pseudodragon (A5E),tiny,dragon,jungle
+Pseudodragon (A5E),tiny,dragon,mountains
+Pseudodragon (A5E),tiny,dragon,swamp
+Pteranodon,medium,beast,mountain
+Pteranodon (A5E),large,beast,grassland
+Pteranodon (A5E),large,beast,jungle
+Pteranodon (A5E),large,beast,mountains
+Pteranodon (A5E),large,beast,swamp
+Púca,large,fey,farmland
+Púca,large,fey,forest
+Puffinfolk,small,humanoid,coastal
+Pugilist (A5E),medium,humanoid,mountains
+Pugilist (A5E),medium,humanoid,settlement
+Purple Worm,gargantuan,monstrosity,underground
+Purple Worm (A5E),gargantuan,monstrosity,caverns
+Purple Worm (A5E),gargantuan,monstrosity,mountains
+Putrid Haunt,medium,undead,marshes
+Pyrefly,tiny,elemental,forest
+Pyrefly,tiny,elemental,grassland
+Pyrohydra (A5E),huge,monstrosity,caverns
+Pyrohydra (A5E),huge,monstrosity,plane of water
+Pyrohydra (A5E),huge,monstrosity,swamp
+Pyrohydra (A5E),huge,monstrosity,water
+Pyrolisk,small,monstrosity,underground
+Pyrrhic podthrower,small,plant,forest
+Quadricorn,large,monstrosity,grassland
+Quadrone,medium,construct,planar
+Quagga,medium,monstrosity,badlands
+Quagga,medium,monstrosity,grassland
+Quaggoth,medium,humanoid,dungeon
+Quaggoth,medium,humanoid,urban
+Quaggoth Spore Servant,medium,plant,underground
+Quasit,tiny,fiend,dungeon
+Quasit,tiny,fiend,planar
+Quasit (A5E),tiny,fiend,abyss
+Quasit Familiar (A5E),tiny,fiend,abyss
+Quickling,tiny,fey,forest
+Quickwood,huge,plant,forest
+Quickwood,huge,plant,mountain
+Quipper,tiny,beast,aquatic
+Quipper (A5E),tiny,beast,sewer
+Quipper (A5E),tiny,beast,water
+Qumdaq,small,elemental,badlands
+Qumdaq,small,elemental,desert
+Quyrua,large,monstrosity,rivers
+Quyrua,large,monstrosity,coastal
+Rafflesian,small,plant,farmland
+Rafflesian,small,plant,forest
+Rakshasa,medium,fiend,planar
+Rakshasa,medium,fiend,urban
+Rakshasa (A5E),medium,fiend,abyss
+Rakshasa (A5E),medium,fiend,desert
+Rakshasa (A5E),medium,fiend,forest
+Rakshasa (A5E),medium,fiend,grassland
+Rakshasa (A5E),medium,fiend,hell
+Rakshasa (A5E),medium,fiend,hills
+Rakshasa (A5E),medium,fiend,jungle
+Rakshasa (A5E),medium,fiend,settlement
+Rakshasa (A5E),medium,fiend,swamp
+Rakshasa Ambari,huge,undead,forests
+"Rakshasa, myrmidon",medium,fiend,any
+"Rakshasa, myrmidon",medium,fiend,planar
+"Rakshasa, pustakam",small,fiend,any
+"Rakshasa, pustakam",small,fiend,planar
+"Rakshasa, servitor",medium,fiend,any
+"Rakshasa, servitor",medium,fiend,planar
+"Rakshasa, slayer",medium,fiend,urban
+Ramag,medium,humanoid,plains
+Ramag,medium,humanoid,urban
+Rat,tiny,beast,arctic
+Rat,tiny,beast,cave
+Rat,tiny,beast,coast
+Rat,tiny,beast,dungeon
+Rat,tiny,beast,forest
+Rat,tiny,beast,grassland
+Rat,tiny,beast,mountain
+Rat,tiny,beast,ruins
+Rat,tiny,beast,swamp
+Rat,tiny,beast,underground
+Rat,tiny,beast,urban
+Rat (A5E),tiny,beast,caverns
+Rat (A5E),tiny,beast,forest
+Rat (A5E),tiny,beast,ruin
+Rat (A5E),tiny,beast,settlement
+Rat (A5E),tiny,beast,sewer
+Rat (A5E),tiny,beast,swamp
+Rat King,medium,monstrosity,ruins
+Rat King,medium,monstrosity,underground
+Rat King,medium,monstrosity,urban
+Ratatosk,tiny,celestial,forests
+Ratfolk,small,humanoid,ruins
+Ratfolk,small,humanoid,underground
+Ratfolk,small,humanoid,urban
+Ratfolk rogue,small,humanoid,ruins
+Ratfolk rogue,small,humanoid,underground
+Ratfolk rogue,small,humanoid,urban
+Raven,tiny,beast,forest
+Raven,tiny,beast,grassland
+Raven (A5E),tiny,beast,forest
+Raven (A5E),tiny,beast,swamp
+Ravenala,large,plant,forests
+Ravenfolk Scout,medium,humanoid,forests
+Ravenfolk Scout,medium,humanoid,hills
+Ravenfolk Scout,medium,humanoid,urban
+Ravenfolk Warrior,medium,humanoid,forests
+Ravenfolk Warrior,medium,humanoid,hills
+Ravenfolk Warrior,medium,humanoid,urban
+Ravenfolk Warrior - Lack of Runes,medium,humanoid,forests
+Ravenfolk Warrior - Lack of Runes,medium,humanoid,hills
+Ravenfolk Warrior - Lack of Runes,medium,humanoid,urban
+"Ravenfolk, Doom Croaker",medium,humanoid,forests
+"Ravenfolk, Doom Croaker",medium,humanoid,hills
+"Ravenfolk, Doom Croaker",medium,humanoid,urban
+Red Dragon Wyrmling,medium,dragon,mountain
+Red Dragon Wyrmling (A5E),medium,dragon,mountains
+Red Great Wyrm (A5E),gargantuan,dragon,volcano
+Red Great Wyrm (A5E),gargantuan,dragon,mountains
+Red Great Wyrm Spellcaster (A5E),gargantuan,dragon,volcano
+Red Great Wyrm Spellcaster (A5E),gargantuan,dragon,mountains
+Red Slaad,large,aberration,planar
+Redcap,medium,fey,forest
+Redcap,medium,fey,grassland
+Redcap,medium,fey,swamp
+Redcap,medium,fey,hills
+Reef Shark,medium,beast,aquatic
+Reef Shark (A5E),medium,beast,water
+Relentless hound,medium,undead,farmland
+Relentless hound,medium,undead,underground
+Relentless hound,medium,undead,urban
+Remorhaz,huge,monstrosity,arctic
+Remorhaz (A5E),huge,monstrosity,mountains
+Remorhaz (A5E),huge,monstrosity,tundra
+Remorhaz Spawn (A5E),large,monstrosity,mountains
+Remorhaz Spawn (A5E),large,monstrosity,tundra
+Revenant (A5E),medium,undead,caverns
+Revenant (A5E),medium,undead,desert
+Revenant (A5E),medium,undead,forest
+Revenant (A5E),medium,undead,grassland
+Revenant (A5E),medium,undead,hills
+Revenant (A5E),medium,undead,jungle
+Revenant (A5E),medium,undead,laboratory
+Revenant (A5E),medium,undead,mountains
+Revenant (A5E),medium,undead,ruin
+Revenant (A5E),medium,undead,settlement
+Revenant (A5E),medium,undead,sewer
+Revenant (A5E),medium,undead,swamp
+Revenant (A5E),medium,undead,temple
+Revenant (A5E),medium,undead,tomb
+Revenant (A5E),medium,undead,tundra
+Revenant (A5E),medium,undead,water
+Rhinoceros,large,beast,grassland
+Rhinoceros (A5E),large,beast,desert
+Rhinoceros (A5E),large,beast,grassland
+Riding Horse,large,beast,urban
+Riding Horse (A5E),large,beast,settlement
+River Dragon Wyrmling (A5E),medium,dragon,grassland
+River Dragon Wyrmling (A5E),medium,dragon,water
+River King,medium,fey,aquatic
+River Naga,large,monstrosity,rivers
+River Naga,large,monstrosity,coastal
+Roachling Lord,small,humanoid,ruins
+Roachling Lord,small,humanoid,underground
+Roachling Lord,small,humanoid,urban
+Roc (A5E),gargantuan,beast,grassland
+Roc (A5E),gargantuan,beast,hills
+Roc (A5E),gargantuan,beast,mountains
+Roc (A5E),gargantuan,beast,water
+Rochade,small,fey,underground
+Rock salamander,tiny,elemental,badlands
+Rock salamander,tiny,elemental,hills
+Rock salamander,tiny,elemental,mountains
+Ronus,medium,monstrosity,forest
+Roper (A5E),large,monstrosity,caverns
+Rothe,medium,beast,grassland
+Rothe,medium,beast,underground
+Rug of Smothering,large,construct,dungeon
+Rug of Smothering,large,construct,ruins
+Rug of Smothering,large,construct,urban
+Rug of Smothering (A5E),large,construct,laboratory
+Rug of Smothering (A5E),large,construct,ruin
+Rusalka,medium,fey,aquatic
+Russet Mold,medium,plant,underground
+Rust Drake,medium,dragon,ruins
+Rust Drake,medium,dragon,underground
+Rust Drake,medium,dragon,urban
+Rust Monster,medium,monstrosity,dungeon
+Rust Monster,medium,monstrosity,underground
+Rust Monster (A5E),medium,monstrosity,caverns
+Ryven,medium,humanoid,forest
+Ryven Shaman,medium,humanoid,forest
+Saber-Toothed Tiger,large,beast,forest
+Saber-Toothed Tiger,large,beast,grassland
+Saber-Toothed Tiger (A5E),large,beast,forest
+Saber-Toothed Tiger (A5E),large,beast,jungle
+Saber-Toothed Tiger (A5E),large,beast,mountains
+Saber-Toothed Tiger (A5E),large,beast,tundra
+Sack of Smothering,small,construct,dungeon
+Sack of Smothering,small,construct,ruins
+Sack of Smothering,small,construct,urban
+Sahuagin,medium,humanoid,aquatic
+Sahuagin,medium,humanoid,coast
+Sahuagin (A5E),medium,humanoid,water
+Sahuagin Baron,large,humanoid,aquatic
+Sahuagin Baron,large,humanoid,coast
+Sahuagin Champion (A5E),medium,humanoid,water
+Sahuagin Priestess,medium,humanoid,aquatic
+Sahuagin Priestess,medium,humanoid,coast
+Salamander (A5E),large,elemental,caverns
+Salamander (A5E),large,elemental,plane of fire
+Salamander Nymph (A5E),medium,elemental,caverns
+Salamander Nymph (A5E),medium,elemental,plane of fire
+Sand Ray (A5E),large,aberration,desert
+Sand Ray Cloaker Variant (A5E),large,aberration,deserts
+Sand Ray Cloaker Variant (A5E),large,aberration,aquatic
+Sand Silhouette,medium,undead,desert
+Sand Spider,large,beast,desert
+Sand Spider,large,beast,plains
+Sand Worm (A5E),gargantuan,monstrosity,desert
+Sandling,large,elemental,planar
+Sandwyrm,large,dragon,desert
+Sap Demon,small,ooze,forests
+Sapphire Dragon Wyrmling (A5E),medium,dragon,caverns
+Sarcophagus Slime,medium,undead,ruins
+Sarcophagus Slime,medium,undead,underground
+Sathaq Worm,huge,elemental,desert
+Sathaq Worm,huge,elemental,marshes
+Sathaq Worm,huge,elemental,ruins
+Sathaq Worm,huge,elemental,underground
+Satyr,medium,fey,forest
+Satyr,medium,fey,grassland
+Satyr,medium,fey,urban
+Satyr (A5E),medium,fey,feywild
+Satyr (A5E),medium,fey,forest
+Satyr (A5E),medium,fey,hills
+Satyr (A5E),medium,fey,jungle
+Sazakan,medium,elemental,arctic
+"Scarab, ruin",large,undead,planar
+Scarecrow,medium,construct,grassland
+Scarecrow,medium,construct,urban
+Scarecrow (A5E),medium,construct,grassland
+Scarecrow (A5E),medium,construct,hills
+Scarecrow (A5E),medium,construct,settlement
+Scarecrow (A5E),medium,construct,shadowfell
+Scarecrow (A5E),medium,construct,swamp
+Scarsupial,small,beast,forest
+Scheznyki,small,fey,hills
+Scheznyki,small,fey,ruins
+Scheznyki,small,fey,underground
+Scorchrunner jackal,medium,monstrosity,badlands
+Scorpion,tiny,beast,cave
+Scorpion,tiny,beast,desert
+Scorpion,tiny,beast,grassland
+Scorpion,tiny,beast,mountain
+Scorpion,tiny,beast,swamp
+Scorpion (A5E),tiny,beast,desert
+Scorpion (A5E),tiny,beast,grassland
+Scorpion Cultist,medium,humanoid,desert
+"Scorpion, Night",large,beast,desert
+"Scorpion, Night",large,beast,forests
+"Scorpion, Night",large,beast,plains
+"Scorpion, Night",large,beast,ruins
+"Scorpion, Night",large,beast,underground
+Scorpionfolk (A5E),large,monstrosity,desert
+Scorpionfolk Imperator (A5E),large,monstrosity,desert
+Scout,medium,humanoid,arctic
+Scout,medium,humanoid,coast
+Scout,medium,humanoid,desert
+Scout,medium,humanoid,forest
+Scout,medium,humanoid,grassland
+Scout,medium,humanoid,mountain
+Scout,medium,humanoid,swamp
+Scout (A5E),medium,humanoid,caverns
+Scout (A5E),medium,humanoid,desert
+Scout (A5E),medium,humanoid,feywild
+Scout (A5E),medium,humanoid,forest
+Scout (A5E),medium,humanoid,grassland
+Scout (A5E),medium,humanoid,hills
+Scout (A5E),medium,humanoid,jungle
+Scout (A5E),medium,humanoid,mountains
+Scout (A5E),medium,humanoid,swamp
+Scout (A5E),medium,humanoid,tundra
+Scrag (A5E),large,giant,caverns
+Scrag (A5E),large,giant,feywild
+Scrag (A5E),large,giant,forest
+Scrag (A5E),large,giant,grassland
+Scrag (A5E),large,giant,hills
+Scrag (A5E),large,giant,jungle
+Scrag (A5E),large,giant,mountains
+Scrag (A5E),large,giant,ruin
+Scrag (A5E),large,giant,swamp
+Scythe Tree,huge,plant,forest
+Sea Hag (A5E),medium,fey,feywild
+Sea Hag (A5E),medium,fey,plane of water
+Sea Hag (A5E),medium,fey,water
+Sea Hag (coven),medium,fey,aquatic
+Sea Hag (coven),medium,fey,coast
+Sea Hag (coven),medium,fey,underground
+Sea Horse,tiny,beast,aquatic
+Sea Serpent (A5E),gargantuan,monstrosity,water
+Sea Spawn,medium,humanoid,coast
+Sea Spawn,medium,humanoid,aquatic
+Sea Wyrmling Dragon,medium,dragon,aquatic
+Seahorse (A5E),tiny,beast,water
+Selang (dark satyr),medium,fey,badlands
+Serpopard,large,beast,marshes
+Sewer weird,large,elemental,urban
+Shadow,medium,undead,dungeon
+Shadow,medium,undead,ruins
+Shadow,medium,undead,swamp
+Shadow,medium,undead,urban
+Shadow (A5E),medium,undead,caverns
+Shadow (A5E),medium,undead,ruin
+Shadow (A5E),medium,undead,shadowfell
+Shadow (A5E),medium,undead,tomb
+Shadow Beast,medium,fey,badlands
+Shadow Beast,medium,fey,forests
+Shadow Beast,medium,fey,ruins
+Shadow Beast,medium,fey,underground
+Shadow Demon (A5E),medium,fiend,abyss
+Shadow Dragon Wyrmling (A5E),medium,dragon,caverns
+Shadow Dragon Wyrmling (A5E),medium,dragon,shadowfell
+Shadow Elf Champion Warrior (A5E),medium,humanoid,caverns
+Shadow Elf Champion Warrior (A5E),medium,humanoid,feywild
+Shadow Elf Champion Warrior (A5E),medium,humanoid,shadowfell
+Shadow Elf High Priest (A5E),medium,humanoid,desert
+Shadow Elf High Priest (A5E),medium,humanoid,hills
+Shadow Elf High Priest (A5E),medium,humanoid,settlement
+Shadow Elf High Priest (A5E),medium,humanoid,temple
+Shadow Elf Mage (A5E),medium,humanoid,caverns
+Shadow Elf Mage (A5E),medium,humanoid,feywild
+Shadow Elf Mage (A5E),medium,humanoid,shadowfell
+Shadow Elf Spellcaster Drider (A5E),large,monstrosity,feywild
+Shadow Elf Spellcaster Drider (A5E),large,monstrosity,ruin
+Shadow Elf Warrior (A5E),medium,humanoid,caverns
+Shadow Elf Warrior (A5E),medium,humanoid,feywild
+Shadow Elf Warrior (A5E),medium,humanoid,shadowfell
+Shadow Mastiff Alpha,medium,monstrosity,forest
+Shadow Mastiff Alpha,medium,monstrosity,grassland
+Shadow Mastiff Alpha,medium,monstrosity,swamp
+Shambling Mound,large,plant,forest
+Shambling Mound,large,plant,swamp
+Shambling Mound (A5E),large,plant,feywild
+Shambling Mound (A5E),large,plant,forest
+Shambling Mound (A5E),large,plant,jungle
+Shambling Mound (A5E),large,plant,swamp
+Shellycoat,medium,fey,ruins
+Shellycoat,medium,fey,underground
+Shetani,medium,fiend,desert
+Shetani,medium,fiend,grassland
+Shield Guardian,large,construct,dungeon
+Shield Guardian,large,construct,ruins
+Shield Guardian,large,construct,urban
+Shield Guardian (A5E),large,construct,laboratory
+Shield Guardian (A5E),large,construct,ruin
+Shield Guardian (A5E),large,construct,temple
+Shield Guardian (A5E),large,construct,tomb
+Shipbreaker Sea Serpent,gargantuan,dragon,aquatic
+Shoosuva,large,fiend,arctic
+Shoosuva,large,fiend,forest
+Shoosuva,large,fiend,grassland
+Shrieker,medium,plant,cave
+Shrieker,medium,plant,dungeon
+Shrieker,medium,plant,swamp
+Shrieker (A5E),medium,plant,caverns
+Shrieker (A5E),medium,plant,forest
+Shrieker (A5E),medium,plant,swamp
+Shroom,small,plant,forest
+Shroom,small,plant,underground
+Shroud Ray (A5E),large,aberration,plane of water
+Shroud Ray (A5E),large,aberration,water
+Silent crier,medium,fiend,farmland
+Silent crier,medium,fiend,urban
+Silver Dragon Wyrmling,medium,dragon,arctic
+Silver Dragon Wyrmling,medium,dragon,mountain
+Silver Dragon Wyrmling (A5E),medium,dragon,feywild
+Silver Dragon Wyrmling (A5E),medium,dragon,mountains
+Sinstar,tiny,plant,hills
+Sinstar,tiny,plant,mountains
+Sinstar,tiny,plant,planar
+Sinstar thrall,medium,plant,hills
+Sinstar thrall,medium,plant,mountains
+Sinstar thrall,medium,plant,planar
+Siren,medium,fey,desert
+Siren,medium,fey,forest
+Siren,medium,fey,grassland
+Siren,medium,fey,hills
+Siren,medium,fey,jungle
+Siren,medium,fey,mountains
+Siren,medium,fey,swamp
+Siren,medium,fey,tundra
+Skeletal Champion (A5E),medium,undead,ruin
+Skeletal Champion (A5E),medium,undead,shadowfell
+Skeletal Champion (A5E),medium,undead,temple
+Skeletal Champion (A5E),medium,undead,tomb
+Skeletal Tyrannosaurus Rex (A5E),huge,undead,ruin
+Skeletal Tyrannosaurus Rex (A5E),huge,undead,shadowfell
+Skeletal Tyrannosaurus Rex (A5E),huge,undead,temple
+Skeletal Tyrannosaurus Rex (A5E),huge,undead,tomb
+Skeletal Warhorse (A5E),large,undead,ruin
+Skeletal Warhorse (A5E),large,undead,shadowfell
+Skeletal Warhorse (A5E),large,undead,temple
+Skeletal Warhorse (A5E),large,undead,tomb
+Skeleton,medium,undead,dungeon
+Skeleton,medium,undead,ruins
+Skeleton,medium,undead,urban
+Skeleton (A5E),medium,undead,ruin
+Skeleton (A5E),medium,undead,shadowfell
+Skeleton (A5E),medium,undead,temple
+Skeleton (A5E),medium,undead,tomb
+Skeleton Horde (A5E),large,undead,ruin
+Skeleton Horde (A5E),large,undead,shadowfell
+Skeleton Horde (A5E),large,undead,temple
+Skeleton Horde (A5E),large,undead,tomb
+Skeleton Warrior,medium,undead,underground
+Skitterhaunt,large,ooze,badlands
+Skitterhaunt,large,ooze,desert
+Skitterhaunt,large,ooze,ruins
+Skitterhaunt,large,ooze,underground
+Skulk,medium,humanoid,underground
+Skyweaver,medium,humanoid,arctic
+Skyweaver,medium,humanoid,cave
+Skyweaver,medium,humanoid,coast
+Skyweaver,medium,humanoid,desert
+Skyweaver,medium,humanoid,dungeon
+Skyweaver,medium,humanoid,grassland
+Skyweaver,medium,humanoid,mountain
+Skyweaver,medium,humanoid,ruins
+Slaad Tadpole,tiny,aberration,planar
+Slithering Tracker,small,ooze,underground
+Slithy tove,small,monstrosity,forest
+Slithy tove,small,monstrosity,grassland
+Small Air Elemental,small,elemental,arctic
+Small Air Elemental,small,elemental,cave
+Small Air Elemental,small,elemental,coast
+Small Air Elemental,small,elemental,desert
+Small Air Elemental,small,elemental,dungeon
+Small Air Elemental,small,elemental,forest
+Small Air Elemental,small,elemental,grassland
+Small Air Elemental,small,elemental,mountain
+Small Air Elemental,small,elemental,planar
+Small Air Elemental,small,elemental,ruins
+Small Air Elemental,small,elemental,swamp
+Small Air Elemental,small,elemental,underground
+Small Fire Elemental,small,elemental,cave
+Small Fire Elemental,small,elemental,coast
+Small Fire Elemental,small,elemental,desert
+Small Fire Elemental,small,elemental,dungeon
+Small Fire Elemental,small,elemental,grassland
+Small Fire Elemental,small,elemental,mountain
+Small Fire Elemental,small,elemental,planar
+Small Fire Elemental,small,elemental,ruins
+Small Fire Elemental,small,elemental,underground
+Small Ice Elemental,small,elemental,arctic
+Small Ice Elemental,small,elemental,dungeon
+Small Ice Elemental,small,elemental,planar
+Small Ice Elemental,small,elemental,urban
+Small Water Elemental,small,elemental,cave
+Small Water Elemental,small,elemental,coast
+Small Water Elemental,small,elemental,forest
+Small Water Elemental,small,elemental,mountain
+Small Water Elemental,small,elemental,planar
+Small Water Elemental,small,elemental,swamp
+Small Water Elemental,small,elemental,underground
+Smoke Mephit,small,elemental,dungeon
+Smoke Mephit,small,elemental,planar
+Smoke Mephit,small,elemental,urban
+Snake Lamia (A5E),large,monstrosity,abyss
+Snake Lamia (A5E),large,monstrosity,desert
+Snake Lamia (A5E),large,monstrosity,grassland
+Snake Lamia (A5E),large,monstrosity,hills
+"Snake, Zanskaran Viper",large,beast,marshes
+Snallygaster,huge,aberration,hills
+Snallygaster,huge,aberration,mountains
+Snatch bat,medium,aberration,any
+Snatch bat,medium,aberration,planar
+Sodwose,medium,plant,grassland
+Soil snake,huge,construct,grassland
+Solar,large,celestial,planar
+Solar (A5E),large,celestial,astral plane
+Solar (A5E),large,celestial,temple
+Soldier,medium,humanoid,desert
+Soldier,medium,humanoid,forest
+Soldier,medium,humanoid,grassland
+Soldier,medium,humanoid,hills
+Soldier,medium,humanoid,mountains
+Soldier,medium,humanoid,settlement
+Soldier Squad (A5E),large,humanoid,desert
+Soldier Squad (A5E),large,humanoid,forest
+Soldier Squad (A5E),large,humanoid,grassland
+Soldier Squad (A5E),large,humanoid,hills
+Soldier Squad (A5E),large,humanoid,mountains
+Soldier Squad (A5E),large,humanoid,settlement
+Soul Harvester,huge,fiend,dungeon
+Soul Harvester,huge,fiend,planar
+Spark Mephit (A5E),small,elemental,plane of air
+Spark Mephit (A5E),small,elemental,plane of water
+Spark Mephit (A5E),small,elemental,water
+Spawn of Kyuss,medium,undead,desert
+Spawn of Kyuss,medium,undead,underground
+Spectator,medium,aberration,cave
+Spectator,medium,aberration,dungeon
+Spectator,medium,aberration,ruins
+Spectator,medium,aberration,underground
+Spectator,medium,aberration,urban
+Specter,medium,undead,dungeon
+Specter,medium,undead,ruins
+Specter,medium,undead,urban
+Specter (A5E),medium,undead,ruin
+Specter (A5E),medium,undead,shadowfell
+Specter (A5E),medium,undead,tomb
+Spell-warped Chuul (A5E),large,aberration,caverns
+Spell-warped Chuul (A5E),large,aberration,plane of water
+Spell-warped Chuul (A5E),large,aberration,water
+Sphinx (A5E),large,monstrosity,astral plane
+Sphinx (A5E),large,monstrosity,desert
+Sphinx (A5E),large,monstrosity,ethereal plane
+Sphinx (A5E),large,monstrosity,ruin
+Sphinx (A5E),large,monstrosity,temple
+"Sphinx, Gypsosphinx",large,monstrosity,desert
+"Sphinx, Gypsosphinx",large,monstrosity,ruins
+"Sphinx, Gypsosphinx",large,monstrosity,underground
+"Sphinx, Gypsosphinx",large,monstrosity,plains
+Spider,tiny,beast,cave
+Spider,tiny,beast,coast
+Spider,tiny,beast,dungeon
+Spider,tiny,beast,forest
+Spider,tiny,beast,grassland
+Spider,tiny,beast,mountain
+Spider,tiny,beast,planar
+Spider,tiny,beast,ruins
+Spider,tiny,beast,swamp
+Spider,tiny,beast,underground
+Spider (A5E),tiny,beast,caverns
+Spider (A5E),tiny,beast,ruin
+Spider of Leng,large,aberration,hills
+Spider of Leng,large,aberration,mountains
+Spined Devil,small,fiend,dungeon
+Spined Devil,small,fiend,planar
+Spinosaurus,gargantuan,beast,forests
+Spinosaurus,gargantuan,beast,marshes
+Spinosaurus Young,huge,beast,forests
+Spinosaurus Young,huge,beast,marshes
+Spirit Naga,large,monstrosity,cave
+Spirit Naga,large,monstrosity,dungeon
+Spirit Naga,large,monstrosity,ruins
+Spirit Naga,large,monstrosity,underground
+Spirit Naga (A5E),large,monstrosity,astral plane
+Spirit Naga (A5E),large,monstrosity,caverns
+Spirit Naga (A5E),large,monstrosity,desert
+Spirit Naga (A5E),large,monstrosity,forest
+Spirit Naga (A5E),large,monstrosity,jungle
+Spirit Naga (A5E),large,monstrosity,mountains
+Spirit Naga (A5E),large,monstrosity,ruin
+Spirit Naga (A5E),large,monstrosity,temple
+Spitting Sea Serpent,large,dragon,aquatic
+Splinter matron,medium,fey,badlands
+Sprite,tiny,fey,forest
+Sprite,tiny,fey,grassland
+Sprite,tiny,fey,swamp
+Sprite (A5E),tiny,fey,feywild
+Sprite (A5E),tiny,fey,forest
+Sprite (A5E),tiny,fey,swamp
+Stained-glass moth,small,construct,urban
+Star Drake,large,dragon,hills
+Star-nosed diopsid,large,aberration,forest
+Star-nosed diopsid,large,aberration,grassland
+Stargazer,huge,monstrosity,badlands
+Stargazer,huge,monstrosity,coastal
+Stargazer,huge,monstrosity,desert
+Steam Mephit,small,elemental,dungeon
+Steam Mephit,small,elemental,planar
+Steam Mephit,small,elemental,urban
+Steam Mephit (A5E),small,elemental,caverns
+Steam Mephit (A5E),small,elemental,jungle
+Steam Mephit (A5E),small,elemental,plane of fire
+Steam Mephit (A5E),small,elemental,plane of water
+Steam Mephit (A5E),small,elemental,settlement
+Steam Mephit (A5E),small,elemental,water
+Stegocentipede,huge,beast,forest
+Stegocentipede,huge,beast,underground
+Stegosaurus,huge,beast,forest
+Stegosaurus,huge,beast,grassland
+Stegosaurus (A5E),huge,beast,grassland
+Stegosaurus (A5E),huge,beast,jungle
+Stegosaurus (A5E),huge,beast,mountains
+Stegosaurus (A5E),huge,beast,swamp
+Stench Kow,large,beast,grassland
+Stirge,tiny,beast,forest
+Stirge,tiny,beast,swamp
+Stirge (A5E),tiny,beast,caverns
+Stirge (A5E),tiny,beast,desert
+Stirge (A5E),tiny,beast,hills
+Stirge (A5E),tiny,beast,swamp
+Stone Colossus (A5E),gargantuan,construct,laboratory
+Stone Colossus (A5E),gargantuan,construct,ruin
+Stone Colossus (A5E),gargantuan,construct,temple
+Stone Colossus (A5E),gargantuan,construct,tomb
+Stone Giant,huge,giant,cave
+Stone Giant,huge,giant,mountain
+Stone Giant,huge,giant,underground
+Stone Giant (A5E),huge,giant,hills
+Stone Giant (A5E),huge,giant,mountains
+Stone Giant (A5E),huge,giant,plane of earth
+Stone Giant Dreamwalker,huge,giant,coast
+Stone Giant Dreamwalker,huge,giant,grassland
+Stone Giant Dreamwalker,huge,giant,mountain
+Stone Giant Stonetalker (A5E),huge,giant,hills
+Stone Giant Stonetalker (A5E),huge,giant,mountains
+Stone Giant Stonetalker (A5E),huge,giant,plane of earth
+Stone Golem,large,construct,dungeon
+Stone Golem,large,construct,ruins
+Stone Golem,large,construct,urban
+Stone Guardian (A5E),large,construct,laboratory
+Stone Guardian (A5E),large,construct,ruin
+Stone Guardian (A5E),large,construct,temple
+Stone Guardian (A5E),large,construct,tomb
+Stonemelder,medium,humanoid,arctic
+Stonemelder,medium,humanoid,cave
+Stonemelder,medium,humanoid,coast
+Stonemelder,medium,humanoid,desert
+Stonemelder,medium,humanoid,dungeon
+Stonemelder,medium,humanoid,forest
+Stonemelder,medium,humanoid,grassland
+Stonemelder,medium,humanoid,mountain
+Stonemelder,medium,humanoid,ruins
+Stonemelder,medium,humanoid,underground
+Storm Giant,huge,giant,arctic
+Storm Giant,huge,giant,coast
+Storm Giant,huge,giant,desert
+Storm Giant,huge,giant,mountain
+Storm Giant,huge,giant,planar
+Storm Giant (A5E),huge,giant,mountains
+Storm Giant (A5E),huge,giant,plane of air
+Storm Giant (A5E),huge,giant,plane of water
+Storm Giant (A5E),huge,giant,water
+Storm Giant Monarch (A5E),huge,giant,mountains
+Storm Giant Monarch (A5E),huge,giant,plane of air
+Storm Giant Monarch (A5E),huge,giant,plane of water
+Storm Giant Monarch (A5E),huge,giant,water
+Storm Raven,tiny,beast,grassland
+Storm Raven,tiny,beast,mountain
+Strangle Weed,large,plant,aquatic
+Stuhac,medium,fiend,hills
+Stuhac,medium,fiend,mountains
+Stygian Fat-Tailed Scorpion,tiny,beast,desert
+Stygian Fat-Tailed Scorpion,tiny,beast,forests
+Stygian Fat-Tailed Scorpion,tiny,beast,plains
+Stygian Fat-Tailed Scorpion,tiny,beast,ruins
+Stygian Fat-Tailed Scorpion,tiny,beast,underground
+Stygian Skeleton,medium,undead,underground
+Subek,large,humanoid,aquatic
+Suturefly,tiny,beast,forests
+Suturefly,tiny,beast,marshes
+Swampgas shade,medium,undead,swamp
+Swarm of Ball Bearings,medium,construct,dungeon
+Swarm of Ball Bearings,medium,construct,ruins
+Swarm of Ball Bearings,medium,construct,urban
+Swarm of Bats,medium,beast,cave
+Swarm of Bats,medium,beast,dungeon
+Swarm of Bats,medium,beast,forest
+Swarm of Bats,medium,beast,ruins
+Swarm of Bats,medium,beast,swamp
+Swarm of Bats,medium,beast,underground
+Swarm of Bats,medium,beast,urban
+Swarm of Bats (A5E),medium,beast,caverns
+Swarm of Bats (A5E),medium,beast,mountains
+Swarm of Bats (A5E),medium,beast,shadowfell
+Swarm of Bats (A5E),medium,beast,tomb
+Swarm of Cranium Rats,medium,beast,underground
+Swarm of Cranium Rats,medium,beast,urban
+Swarm of Insects (A5E),medium,beast,jungle
+Swarm of Insects (A5E),medium,beast,swamp
+Swarm of Khalkos Spawn (A5E),medium,aberration,abyss
+Swarm of Khalkos Spawn (A5E),medium,aberration,hell
+Swarm of Khalkos Spawn (A5E),medium,aberration,settlement
+Swarm of Khalkos Spawn (A5E),medium,aberration,temple
+Swarm of Poisonous Snakes,medium,beast,desert
+Swarm of Poisonous Snakes,medium,beast,dungeon
+Swarm of Poisonous Snakes,medium,beast,forest
+Swarm of Poisonous Snakes,medium,beast,grassland
+Swarm of Poisonous Snakes,medium,beast,swamp
+Swarm of Poisonous Snakes (A5E),medium,beast,caverns
+Swarm of Poisonous Snakes (A5E),medium,beast,desert
+Swarm of Poisonous Snakes (A5E),medium,beast,forest
+Swarm of Poisonous Snakes (A5E),medium,beast,grassland
+Swarm of Poisonous Snakes (A5E),medium,beast,hills
+Swarm of Poisonous Snakes (A5E),medium,beast,jungle
+Swarm of Poisonous Snakes (A5E),medium,beast,mountains
+Swarm of Poisonous Snakes (A5E),medium,beast,ruin
+Swarm of Poisonous Snakes (A5E),medium,beast,sewer
+Swarm of Poisonous Snakes (A5E),medium,beast,swamp
+Swarm of Poisonous Snakes (A5E),medium,beast,tomb
+Swarm of Poisonous Snakes (A5E),medium,beast,water
+Swarm of Quippers,medium,beast,aquatic
+Swarm of Quippers (A5E),medium,beast,sewer
+Swarm of Quippers (A5E),medium,beast,water
+Swarm of Rats (A5E),medium,beast,caverns
+Swarm of Rats (A5E),medium,beast,forest
+Swarm of Rats (A5E),medium,beast,ruin
+Swarm of Rats (A5E),medium,beast,settlement
+Swarm of Rats (A5E),medium,beast,sewer
+Swarm of Rats (A5E),medium,beast,swamp
+Swarm of Ravens,medium,beast,forest
+Swarm of Ravens,medium,beast,grassland
+Swarm of Ravens,medium,beast,mountain
+Swarm of Ravens,medium,beast,ruins
+Swarm of Ravens,medium,beast,urban
+Swarm of Ravens (A5E),medium,beast,forest
+Swarm of Rot Grubs,medium,beast,swamp
+Swarm of Rot Grubs,medium,beast,underground
+Swarm of Wolf Spirits,large swarm,undead,forests
+Swarm of Wolf Spirits,large swarm,undead,plains
+Swarm of Woodland Creatures (A5E),medium,beast,forest
+Swarm of Woodland Creatures (A5E),medium,beast,grassland
+"Swarm, gryllus",large,swarm,urban
+"Swarm, ice borers",medium,swarm,arctic
+"Swarm, swamp slirghs",large,swarm,swamp
+"Swarm, vampire blossom",large,swarm,farmland
+"Swarm, vampire blossom",large,swarm,forest
+"Swarm, vampire blossom",large,swarm,urban
+Swashbuckler,medium,humanoid,coast
+Swashbuckler,medium,humanoid,urban
+Tabaxi,medium,humanoid,forest
+Taer,medium,humanoid,mountain
+Talus flow,large,elemental,coastal
+Talus flow,large,elemental,mountains
+Tanarukk,medium,fiend,grassland
+Tanarukk,medium,fiend,mountain
+Tanarukk,medium,fiend,underground
+Tangtal,medium,monstrosity,forest
+Tangtal,medium,monstrosity,grassland
+Tarrasque,gargantuan,monstrosity,aquatic
+Tarrasque,gargantuan,monstrosity,arctic
+Tarrasque,gargantuan,monstrosity,cave
+Tarrasque,gargantuan,monstrosity,coast
+Tarrasque,gargantuan,monstrosity,desert
+Tarrasque,gargantuan,monstrosity,dungeon
+Tarrasque,gargantuan,monstrosity,forest
+Tarrasque,gargantuan,monstrosity,grassland
+Tarrasque,gargantuan,monstrosity,mountain
+Tarrasque,gargantuan,monstrosity,planar
+Tarrasque,gargantuan,monstrosity,ruins
+Tarrasque,gargantuan,monstrosity,swamp
+Tarrasque,gargantuan,monstrosity,underground
+Tarrasque,gargantuan,monstrosity,urban
+Tarrasque (A5E),titanic,monstrosity,hills
+Tarrasque (A5E),titanic,monstrosity,settlement
+Tazelwurm,large,monstrosity,mountain
+Temple Dog,medium,celestial,urban
+Temple Scarab,tiny,beast,dungeon
+Temple Scarab,tiny,beast,ruins
+Temporal Crawler,medium,aberration,planar
+Tendril Puppet,medium,plant,forests
+Tentacle Tree (A5E),large,monstrosity,caverns
+Tentacled Horror,huge,aberration,underground
+Teratashia,large,fiend,planar
+Terror Beast,small,aberration,arctic
+Terror Beast,small,aberration,cave
+Terror Beast,small,aberration,coast
+Terror Beast,small,aberration,desert
+Terror Beast,small,aberration,dungeon
+Terror Beast,small,aberration,forest
+Terror Beast,small,aberration,grassland
+Terror Beast,small,aberration,mountain
+Terror Beast,small,aberration,ruins
+Terror Beast,small,aberration,swamp
+Terror Beast,small,aberration,underground
+Terror Beast,small,aberration,urban
+Thalasskoptis,large,fiend,aquatic
+The Emerald Queen,medium,fey,forest
+The flesh,medium,aberration,farmland
+The flesh,medium,aberration,forest
+The flesh,medium,aberration,urban
+"Therianthrope, Wolfwere",small,monstrosity,grassland
+"Therianthrope, Wolfwere",small,monstrosity,underground
+Thorny,medium,plant,forest
+Thorny,medium,plant,swamp
+Thri-kreen,medium,humanoid,desert
+Thri-kreen,medium,humanoid,grassland
+Thripper,medium,humanoid,forest
+Thripper,medium,humanoid,planar
+Thug,medium,humanoid,arctic
+Thug,medium,humanoid,cave
+Thug,medium,humanoid,coast
+Thug,medium,humanoid,forest
+Thug,medium,humanoid,grassland
+Thug,medium,humanoid,urban
+Thug (A5E),medium,humanoid,settlement
+Tiberolith,huge,construct,coastal
+Tiberolith,huge,construct,mountains
+Tiburones,huge,monstrosity,sea
+Tiburones,huge,monstrosity,coastal
+Tiburones Pup,large,monstrosity,sea
+Tiburones Pup,large,monstrosity,coastal
+Tiddalik,medium,mosntrosity,coastal
+Tiddalik,medium,mosntrosity,aquatic
+Tigebra,large,monstrosity,forest
+Tigebra,large,monstrosity,grassland
+Tiger,large,beast,forest
+Tiger,large,beast,grassland
+Tiger (A5E),large,beast,forest
+Tiger (A5E),large,beast,grassland
+Tiger (A5E),large,beast,jungle
+Titanic Dragon Turtle (A5E),titanic,dragon,plane of water
+Titanic Dragon Turtle (A5E),titanic,dragon,water
+Titanic Kraken (A5E),titanic,monstrosity,plane of water
+Titanic Kraken (A5E),titanic,monstrosity,water
+Titanoboa,gargantuan,beast,forests
+Tlingcalli,large,monstrosity,desert
+Tophet,huge,construct,urban
+Torch mimic,tiny,monstrosity,urban
+Torch mimic,tiny,monstrosity,underground
+Tortoise,medium,beast,aquatic
+"Tosculi, Drone",small,monstrosity,desert
+"Tosculi, Drone",small,monstrosity,hills
+"Tosculi, Drone",small,monstrosity,plains
+"Tosculi, Elite bow raider",medium,monstrosity,desert
+"Tosculi, Elite bow raider",medium,monstrosity,hills
+"Tosculi, Elite bow raider",medium,monstrosity,plains
+"Tosculi, Hive-Queen",large,monstrosity,desert
+"Tosculi, Hive-Queen",large,monstrosity,hills
+"Tosculi, Hive-Queen",large,monstrosity,plains
+"Tosculi, Warrior",small,monstrosity,desert
+"Tosculi, Warrior",small,monstrosity,hills
+"Tosculi, Warrior",small,monstrosity,plains
+Transmuter,medium,humanoid,urban
+Trapper,large,monstrosity,underground
+Treacle,tiny,ooze,forests
+Treacle,tiny,ooze,plains
+Treacle,tiny,ooze,urban
+Treant,huge,plant,forest
+Treant,huge,plant,swamp
+Tri-flower Frond,medium,plant,forest
+Tribal Warrior,medium,humanoid,arctic
+Tribal Warrior,medium,humanoid,cave
+Tribal Warrior,medium,humanoid,desert
+Tribal Warrior,medium,humanoid,forest
+Tribal Warrior,medium,humanoid,grassland
+Tribal Warrior,medium,humanoid,mountain
+Tribal Warrior,medium,humanoid,swamp
+Triceratops,huge,beast,grassland
+Triceratops,huge,beast,mountain
+Triceratops (A5E),huge,beast,grassland
+Triceratops (A5E),huge,beast,jungle
+Triceratops (A5E),huge,beast,mountains
+Triceratops (A5E),huge,beast,swamp
+Trickster Priest (A5E),medium,humanoid,desert
+Trickster Priest (A5E),medium,humanoid,hills
+Trickster Priest (A5E),medium,humanoid,settlement
+Trickster Priest (A5E),medium,humanoid,temple
+Tridrone,medium,construct,planar
+Troglodyte,medium,humanoid,cave
+Troglodyte,medium,humanoid,dungeon
+Troglodyte,medium,humanoid,underground
+Troglodyte (A5E),medium,humanoid,caverns
+Troll,large,giant,cave
+Troll,large,giant,dungeon
+Troll,large,giant,forest
+Troll,large,giant,mountain
+Troll,large,giant,swamp
+"Troll, gutter",medium,giant,swamp
+"Troll, gutter",medium,giant,urban
+"Troll, Lake",large,giant,aquatic
+"Troll, rattleback",large,giant,badlands
+"Troll, tumor",large,giant,urban
+Trollkin fire shaman,medium,humanoid,badlands
+Trollkin fire shaman,medium,humanoid,desert
+Trollkin ironmonger,medium,humanoid,badlands
+Trollkin ironmonger,medium,humanoid,desert
+Trollkin ragecaster,medium,humanoid,any
+Trollkin ragecaster,medium,humanoid,arctic
+Truant devourer,medium,undead,planar
+Tuberkith,small,plant,farmland
+Tunnel Prawn,small,beast,underground
+Tunnel Worm,huge,monstrosity,underground
+Tusked Skyfish,large,aberration,hills
+Tusked Skyfish,large,aberration,plains
+Twig Blight,small,plant,forest
+Twig Blight,small,plant,grassland
+Twig Blight,small,plant,swamp
+Two-headed Troll,large,giant,mountain
+Two-headed Troll,large,giant,underground
+Tyrannosaurus Rex,huge,beast,grassland
+Tyrannosaurus Rex (A5E),huge,beast,grassland
+Tyrannosaurus Rex (A5E),huge,beast,jungle
+Tyrannosaurus Rex (A5E),huge,beast,mountains
+Tyrannosaurus Rex (A5E),huge,beast,swamp
+Ulitharid,large,aberration,underground
+Ultraloth,medium,fiend,dungeon
+Ultraloth,medium,fiend,planar
+Umber Hulk,large,monstrosity,cave
+Umber Hulk,large,monstrosity,underground
+Umbral shambler,medium,aberration,planar
+Umibozu,gargantuan,undead,aquatic
+Underworld sentinel,huge,undead,underground
+Underworld sentinel,huge,undead,urban
+Unicorn,large,celestial,forest
+Unicorn,large,celestial,ruins
+Unicorn (A5E),large,celestial,feywild
+Unicorn (A5E),large,celestial,forest
+Unicorn (A5E),large,celestial,jungle
+Ur-Otyugh (A5E),large,aberration,caverns
+Ur-Otyugh (A5E),large,aberration,laboratory
+Ur-Otyugh (A5E),large,aberration,ruin
+Ur-Otyugh (A5E),large,aberration,sewer
+Ur-Otyugh (A5E),large,aberration,swamp
+Uraeus,tiny,celestial,ruins
+Uraeus,tiny,celestial,underground
+Urochar (Strangling watcher),huge,aberration,ruins
+Urochar (Strangling watcher),huge,aberration,underground
+Urushi constrictor,large,monstrosity,forest
+Ushabti,large,construct,ruins
+Ushabti,large,construct,underground
+Valkyrie,medium,celestial,planar
+Vampire (A5E),medium,undead,forest
+Vampire (A5E),medium,undead,hills
+Vampire (A5E),medium,undead,mountains
+Vampire (A5E),medium,undead,ruin
+Vampire (A5E),medium,undead,settlement
+Vampire (A5E),medium,undead,shadowfell
+Vampire (A5E),medium,undead,tomb
+Vampire Assassin (A5E),medium,undead,forest
+Vampire Assassin (A5E),medium,undead,hills
+Vampire Assassin (A5E),medium,undead,mountains
+Vampire Assassin (A5E),medium,undead,ruin
+Vampire Assassin (A5E),medium,undead,settlement
+Vampire Assassin (A5E),medium,undead,shadowfell
+Vampire Assassin (A5E),medium,undead,tomb
+Vampire Mage (A5E),medium,undead,forest
+Vampire Mage (A5E),medium,undead,hills
+Vampire Mage (A5E),medium,undead,mountains
+Vampire Mage (A5E),medium,undead,ruin
+Vampire Mage (A5E),medium,undead,settlement
+Vampire Mage (A5E),medium,undead,shadowfell
+Vampire Mage (A5E),medium,undead,tomb
+Vampire Spawn,medium,undead,dungeon
+Vampire Spawn,medium,undead,ruins
+Vampire Spawn,medium,undead,urban
+Vampire Spawn (A5E),medium,undead,forest
+Vampire Spawn (A5E),medium,undead,hills
+Vampire Spawn (A5E),medium,undead,mountains
+Vampire Spawn (A5E),medium,undead,ruin
+Vampire Spawn (A5E),medium,undead,settlement
+Vampire Spawn (A5E),medium,undead,shadowfell
+Vampire Spawn (A5E),medium,undead,tomb
+Vampire Spellcaster,medium,undead,dungeon
+Vampire Spellcaster,medium,undead,ruins
+Vampire Spellcaster,medium,undead,urban
+Vampire Warrior,medium,undead,dungeon
+Vampire Warrior,medium,undead,ruins
+Vampire Warrior,medium,undead,urban
+Vampire Warrior (A5E),medium,undead,forest
+Vampire Warrior (A5E),medium,undead,hills
+Vampire Warrior (A5E),medium,undead,mountains
+Vampire Warrior (A5E),medium,undead,ruin
+Vampire Warrior (A5E),medium,undead,settlement
+Vampire Warrior (A5E),medium,undead,shadowfell
+Vampire Warrior (A5E),medium,undead,tomb
+Vampiric vanguard,medium,undead,any
+Vapor Lynx,large,monstrosity,marshes
+Vapor Lynx,large,monstrosity,plains
+Vargouille,tiny,fiend,desert
+Vargouille,tiny,fiend,swamp
+Vargouille,tiny,fiend,underground
+Vegepygmy,small,plant,forest
+Vegepygmy,small,plant,swamp
+Vegepygmy Chief,medium,plant,underground
+Vegepygmy Commoner and Worker,small,plant,underground
+Vegepygmy Guard,small,plant,underground
+Veritigibbet,small,fey,farmland
+Veritigibbet,small,fey,forest
+Veritigibbet,small,fey,urban
+Vesiculosa,gargantuan,plant,badlands
+Vesiculosa,gargantuan,plant,desert
+Veteran,medium,humanoid,urban
+Veteran (A5E),medium,humanoid,desert
+Veteran (A5E),medium,humanoid,forest
+Veteran (A5E),medium,humanoid,grassland
+Veteran (A5E),medium,humanoid,hills
+Veteran (A5E),medium,humanoid,mountains
+Veteran (A5E),medium,humanoid,settlement
+Vine Lord,medium,plant,forests
+Violent Fungus (A5E),medium,plant,swamps
+Violent Fungus (A5E),medium,plant,forests
+Violent Fungus (A5E),medium,plant,caves
+Violet Fungus,medium,plant,cave
+Violet Fungus,medium,plant,dungeon
+Violet Fungus,medium,plant,underground
+Violet Fungus (A5E),medium,plant,caverns
+Violet Fungus (A5E),medium,plant,forest
+Violet Fungus (A5E),medium,plant,swamp
+Void constructor,medium,construct,farmland
+Void constructor,medium,construct,forest
+Void constructor,medium,construct,planar
+Void knight,medium,construct,any
+Void knight,medium,construct,planar
+Void Wyrmling Dragon,medium,dragon,mountains
+Volt (Bolt Wurm),small,aberration,underground
+Vorin,huge,monstrosity,swamp
+Vorthropod,medium,monstrosity,mountains
+Vrock,large,fiend,dungeon
+Vrock,large,fiend,planar
+Vrock (A5E),large,fiend,abyss
+Vulchling,medium,monstrosity,underground
+Vulture,medium,beast,desert
+Vulture,medium,beast,grassland
+Vulture,medium,beast,ruins
+Vulture (A5E),medium,beast,desert
+Wakwak,large,beast,coastal
+Wakwak,large,beast,forest
+Walking Statue (A5E),large,construct,laboratory
+Walking Statue (A5E),large,construct,ruin
+Wallflower (A5E),medium,plant,feywild
+Wallflower (A5E),medium,plant,forest
+Wampus Cat,medium,monstrosity,forests
+Wampus Cat,medium,monstrosity,hills
+Wandering haze,gargantuan,ooze,mountains
+War Ostrich,large,beast,desert
+War Ostrich,large,beast,plains
+War Priest,medium,humanoid,desert
+War Priest,medium,humanoid,urban
+Warhordling Orc Eye (A5E),medium,humanoid,caverns
+Warhordling Orc Eye (A5E),medium,humanoid,desert
+Warhordling Orc Eye (A5E),medium,humanoid,forest
+Warhordling Orc Eye (A5E),medium,humanoid,grassland
+Warhordling Orc Eye (A5E),medium,humanoid,hills
+Warhordling Orc Eye (A5E),medium,humanoid,jungle
+Warhordling Orc Eye (A5E),medium,humanoid,mountains
+Warhordling Orc Eye (A5E),medium,humanoid,ruin
+Warhordling Orc Eye (A5E),medium,humanoid,swamp
+Warhordling Orc War Chief (A5E),medium,humanoid,desert
+Warhordling Orc War Chief (A5E),medium,humanoid,forest
+Warhordling Orc War Chief (A5E),medium,humanoid,grassland
+Warhordling Orc War Chief (A5E),medium,humanoid,hills
+Warhordling Orc War Chief (A5E),medium,humanoid,jungle
+Warhordling Orc War Chief (A5E),medium,humanoid,mountains
+Warhordling Orc War Chief (A5E),medium,humanoid,ruin
+Warhordling Orc War Chief (A5E),medium,humanoid,swamp
+Warhorse,large,beast,grassland
+Warhorse,large,beast,urban
+Warhorse (A5E),large,beast,settlement
+Warlock of the Archfey,medium,humanoid,arctic
+Warlock of the Archfey,medium,humanoid,forest
+Warlock of the Archfey,medium,humanoid,mountain
+Warlock of the Archfey,medium,humanoid,swamp
+Warlock of the Archfey,medium,humanoid,urban
+Warlock Of The Genie Lord,medium,humanoid,any
+Warlock Of The Genie Lord,medium,humanoid,desert
+Warlock Of The Genie Lord,medium,humanoid,urban
+Warlock of the Great Old One,medium,humanoid,arctic
+Warlock of the Great Old One,medium,humanoid,grassland
+Warlock of the Great Old One,medium,humanoid,mountain
+Warlock of the Great Old One,medium,humanoid,underground
+Warlock of the Great Old One,medium,humanoid,urban
+Warlord,medium,humanoid,urban
+Warlord&#039,s ghost (a5e),medium,undead
+Warrior,medium,construct,caverns
+Warrior,medium,construct,desert
+Warrior,medium,construct,feywild
+Warrior,medium,construct,forest
+Warrior,medium,construct,grassland
+Warrior,medium,construct,hills
+Warrior,medium,construct,jungle
+Warrior,medium,construct,mountains
+Warrior,medium,construct,swamp
+Warrior,medium,construct,tundra
+Warrior Band (A5E),large,humanoid,caverns
+Warrior Band (A5E),large,humanoid,desert
+Warrior Band (A5E),large,humanoid,feywild
+Warrior Band (A5E),large,humanoid,forest
+Warrior Band (A5E),large,humanoid,grassland
+Warrior Band (A5E),large,humanoid,hills
+Warrior Band (A5E),large,humanoid,jungle
+Warrior Band (A5E),large,humanoid,mountains
+Warrior Band (A5E),large,humanoid,swamp
+Warrior Band (A5E),large,humanoid,tundra
+Water Elemental,large,elemental,aquatic
+Water Elemental,large,elemental,arctic
+Water Elemental,large,elemental,cave
+Water Elemental,large,elemental,coast
+Water Elemental,large,elemental,dungeon
+Water Elemental,large,elemental,forest
+Water Elemental,large,elemental,grassland
+Water Elemental,large,elemental,mountain
+Water Elemental,large,elemental,planar
+Water Elemental,large,elemental,ruins
+Water Elemental,large,elemental,swamp
+Water Elemental,large,elemental,underground
+Water Elemental (A5E),large,elemental,laboratory
+Water Elemental (A5E),large,elemental,plane of water
+Water Elemental (A5E),large,elemental,water
+Water Elemental Myrmidon,medium,elemental,aquatic
+Water Elemental Myrmidon,medium,elemental,arctic
+Water Elemental Myrmidon,medium,elemental,cave
+Water Elemental Myrmidon,medium,elemental,coast
+Water Elemental Myrmidon,medium,elemental,dungeon
+Water Elemental Myrmidon,medium,elemental,forest
+Water Elemental Myrmidon,medium,elemental,grassland
+Water Elemental Myrmidon,medium,elemental,mountain
+Water Elemental Myrmidon,medium,elemental,planar
+Water Elemental Myrmidon,medium,elemental,ruins
+Water Elemental Myrmidon,medium,elemental,swamp
+Water Elemental Myrmidon,medium,elemental,underground
+Water Leaper,large,monstrosity,aquatic
+Water Weird,large,elemental,cave
+Water Weird,large,elemental,coast
+Water Weird,large,elemental,forest
+Water Weird,large,elemental,mountain
+Water Weird,large,elemental,planar
+Water Weird,large,elemental,swamp
+Water Weird,large,elemental,underground
+Waterkledde,large,fiend,coastal
+Waterkledde,large,fiend,farmland
+Weasel,tiny,beast,grassland
+Weasel (A5E),tiny,beast,forest
+Weeping Treant,huge,plant,forests
+Werebear (A5E),medium,humanoid,feywild
+Werebear (A5E),medium,humanoid,forest
+Werebear (A5E),medium,humanoid,hills
+Werebear (A5E),medium,humanoid,mountains
+Werebear (A5E),medium,humanoid,settlement
+Werebear (A5E),medium,humanoid,shadowfell
+Werebear (A5E),medium,humanoid,tundra
+Wereboar,medium,humanoid,forest
+Wereboar,medium,humanoid,grassland
+Wereboar,medium,humanoid,swamp
+Wereboar,medium,humanoid,urban
+Wereboar (A5E),medium,humanoid,feywild
+Wereboar (A5E),medium,humanoid,forest
+Wereboar (A5E),medium,humanoid,hills
+Wereboar (A5E),medium,humanoid,settlement
+Wereboar (A5E),medium,humanoid,shadowfell
+Wererat,medium,humanoid,cave
+Wererat,medium,humanoid,dungeon
+Wererat,medium,humanoid,ruins
+Wererat,medium,humanoid,swamp
+Wererat,medium,humanoid,underground
+Wererat,medium,humanoid,urban
+Wererat (A5E),medium,humanoid,caverns
+Wererat (A5E),medium,humanoid,feywild
+Wererat (A5E),medium,humanoid,forest
+Wererat (A5E),medium,humanoid,ruin
+Wererat (A5E),medium,humanoid,settlement
+Wererat (A5E),medium,humanoid,sewer
+Wererat (A5E),medium,humanoid,shadowfell
+Weretiger,medium,humanoid,forest
+Weretiger,medium,humanoid,urban
+Werewolf,medium,humanoid,dungeon
+Werewolf,medium,humanoid,forest
+Werewolf,medium,humanoid,grassland
+Werewolf,medium,humanoid,urban
+Wharfling,tiny,beast,aquatic
+Wharfling Swarm,large swarm,beast,aquatic
+White Ape,large,monstrosity,forests
+White Dragon Spellcaster (A5E),huge,dragon,snow
+White Dragon Wyrmling (A5E),medium,dragon,snow
+White Great Wyrm (A5E),gargantuan,dragon,snow
+White Great Wyrm Spellcaster (A5E),gargantuan,dragon,snow
+Widow Creeper,large,plant,forest
+Wight,medium,undead,arctic
+Wight,medium,undead,cave
+Wight,medium,undead,coast
+Wight,medium,undead,desert
+Wight,medium,undead,dungeon
+Wight,medium,undead,forest
+Wight,medium,undead,grassland
+Wight,medium,undead,mountain
+Wight,medium,undead,ruins
+Wight,medium,undead,swamp
+Wight,medium,undead,underground
+Wight,medium,undead,urban
+Wild sirocco,large,elemental,desert
+Wild sirocco,large,elemental,planar
+Wilderness crone,medium,fey,arctic
+Wilderness crone,medium,fey,forest
+Wilderness crone,medium,fey,mountains
+Will-o'-Wisp,tiny,undead,swamp
+Wind Acolyte,medium,humanoid,any
+Wind Drake,medium,dragon,mountain
+Wind Wyrmling Dragon,medium,dragon,hills
+Wind Wyrmling Dragon,medium,dragon,mountains
+Wind Wyrmling Dragon,medium,dragon,plains
+Winter Wolf,large,monstrosity,arctic
+Winter Wolf,large,monstrosity,cave
+Winter Wolf,large,monstrosity,forest
+Winter Wolf,large,monstrosity,grassland
+Witch Doctor,medium,humanoid,cave
+Witch Doctor,medium,humanoid,forest
+Witch Doctor,medium,humanoid,swamp
+Witch Doctor,medium,humanoid,mountain
+Witchalder,medium,plant,forest
+Wolf,medium,beast,arctic
+Wolf,medium,beast,cave
+Wolf,medium,beast,forest
+Wolf,medium,beast,grassland
+Wolfwere,medium,monstrosity,grassland
+Wolfwere,medium,monstrosity,underground
+Wood Blight,medium,plant,forest
+Wood Blight,medium,plant,grassland
+Wood Blight,medium,plant,swamp
+Wood Woad,medium,plant,forest
+Woodwraith,medium,undead,forest
+Woodwraith,medium,undead,swamp
+Wrackwraith,medium,undead,coastal
+Wraith,medium,undead,dungeon
+Wraith,medium,undead,ruins
+Wraith,medium,undead,swamp
+Wraith,medium,undead,urban
+"Wraith, oathrot",medium,undead,any
+Wyrmling Flame Dragon,medium,dragon,mountains
+Wyvern,large,dragon,arctic
+Wyvern,large,dragon,coast
+Wyvern,large,dragon,grassland
+Xecha,medium,fiend,planar
+Xorn,medium,elemental,dungeon
+Xorn,medium,elemental,planar
+Xorn,medium,elemental,underground
+Xvart Speaker,small,humanoid,grassland
+Xvart Speaker,small,humanoid,underground
+Xvart Warlock of Raxivort,small,humanoid,grassland
+Xvart Warlock of Raxivort,small,humanoid,underground
+Yali,medium,construct,forest
+Yali,medium,construct,urban
+Yamata-no-Orochi,gargantuan,dragon (titan),aquatic
+Yamata-no-Orochi,gargantuan,dragon (titan),coastal
+Yellow Musk Zombie,medium,plant,forest
+Yellow Musk Zombie,medium,plant,underground
+Yeti,large,monstrosity,arctic
+Yeti,large,monstrosity,cave
+Yeti,large,monstrosity,mountain
+Yochlol,medium,fiend,dungeon
+Yochlol,medium,fiend,planar
+Young Aboleth,large,aberration,aquatic
+Young Aboleth,large,aberration,coast
+Young Black Dragon,large,dragon,swamp
+Young Black Dragon (A5E),large,dragon,swamps
+Young Black Dragon (A5E),large,dragon,ruins
+Young Black Dragon Spellcaster (A5E),large,dragon,swamps
+Young Black Dragon Spellcaster (A5E),large,dragon,ruins
+Young Blue Dragon,large,dragon,desert
+Young Blue Dragon (A5E),large,dragon,caves
+Young Blue Dragon (A5E),large,dragon,coastal
+Young Blue Dragon (A5E),large,dragon,desert
+Young Blue Dragon (A5E),large,dragon,oasis
+Young Blue Dragon Spellcaster (A5E),large,dragon,caves
+Young Blue Dragon Spellcaster (A5E),large,dragon,coastal
+Young Blue Dragon Spellcaster (A5E),large,dragon,desert
+Young Blue Dragon Spellcaster (A5E),large,dragon,oasis
+Young Brass Dragon (A5E),large,dragon,caves
+Young Brass Dragon Spellcaster (A5E),large,dragon,caves
+Young Bronze Dragon,large,dragon,coast
+Young Bronze Dragon (A5E),large,dragon,caves
+Young Bronze Dragon (A5E),large,dragon,aquatic
+Young Bronze Dragon (A5E),large,dragon,coastal
+Young Bronze Dragon Spellcaster (A5E),large,dragon,caves
+Young Bronze Dragon Spellcaster (A5E),large,dragon,aquatic
+Young Bronze Dragon Spellcaster (A5E),large,dragon,coastal
+Young Cave Dragon,large,dragon,ruins
+Young Cave Dragon,large,dragon,underground
+Young Copper Dragon,large,dragon,cave
+Young Copper Dragon,large,dragon,desert
+Young Copper Dragon,large,dragon,grassland
+Young Copper Dragon (A5E),large,dragon,mountains
+Young Copper Dragon Spellcaster (A5E),large,dragon,mountains
+Young Earth Dragon (A5E),large,dragon,mountains
+Young Earth Dragon (A5E),large,dragon,hills
+Young Earth Dragon (A5E),large,dragon,deserts
+Young Earth Dragon Spellcaster (A5E),large,dragon,mountains
+Young Earth Dragon Spellcaster (A5E),large,dragon,hills
+Young Earth Dragon Spellcaster (A5E),large,dragon,deserts
+Young Flame Dragon,large,dragon,mountains
+Young Gold Dragon,large,dragon,mountain
+Young Gold Dragon,large,dragon,ruins
+Young Green Dragon,large,dragon,forest
+Young Green Dragon (A5E),large,dragon,forests
+Young Green Dragon Spellcaster (A5E),large,dragon,forests
+Young Leucrotta,medium,monstrosity,forest
+Young Mithral Dragon,medium,dragon,mountains
+Young Red Dragon,large,dragon,mountain
+Young Red Dragon (A5E),large,dragon,volcano
+Young Red Dragon (A5E),large,dragon,mountains
+Young Red Dragon Spellcaster (A5E),large,dragon,volcano
+Young Red Dragon Spellcaster (A5E),large,dragon,mountains
+Young Red Shadow Dragon,large,dragon,planar
+Young Remorhaz,large,monstrosity,arctic
+Young Remorhaz,large,monstrosity,cave
+Young River Dragon (A5E),large,dragon,rivers
+Young River Dragon Spellcaster (A5E),large,dragon,rivers
+Young Sea Dragon,large,dragon,aquatic
+Young Sea Dragon,large,dragon,mountains
+Young Shadow Dragon (A5E),large,dragon,swamps
+Young Shadow Dragon (A5E),large,dragon,ruins
+Young Silver Dragon,large,dragon,arctic
+Young Silver Dragon,large,dragon,mountain
+Young Silver Dragon (A5E),large,dragon,caves
+Young Silver Dragon (A5E),large,dragon,mountains
+Young Void Dragon,large,dragon,mountains
+Young White Dragon,large,dragon,arctic
+Young White Dragon,large,dragon,cave
+Young White Dragon,large,dragon,underground
+Young White Dragon (A5E),large,dragon,snow
+Young White Dragon Spellcaster (A5E),large,dragon,snow
+Young Wind Dragon,large,dragon,mountains
+Young Wind Dragon,large,dragon,plains
+Yuan-ti Abomination,large,monstrosity,desert
+Yuan-ti Abomination,large,monstrosity,forest
+Yuan-ti Abomination,large,monstrosity,mountain
+Yuan-ti Abomination,large,monstrosity,ruins
+Yuan-ti Abomination,large,monstrosity,swamp
+Yuan-ti Anathema,huge,monstrosity,desert
+Yuan-ti Anathema,huge,monstrosity,forest
+Yuan-ti Anathema,huge,monstrosity,underground
+Yuan-ti Broodguard,medium,humanoid,desert
+Yuan-ti Broodguard,medium,humanoid,forest
+Yuan-ti Broodguard,medium,humanoid,underground
+Yuan-ti Malison,medium,monstrosity,desert
+Yuan-ti Malison,medium,monstrosity,forest
+Yuan-ti Malison,medium,monstrosity,mountain
+Yuan-ti Malison,medium,monstrosity,ruins
+Yuan-ti Malison,medium,monstrosity,swamp
+Yuan-ti Mind Whisperer,medium,monstrosity,desert
+Yuan-ti Mind Whisperer,medium,monstrosity,forest
+Yuan-ti Mind Whisperer,medium,monstrosity,underground
+Yuan-ti Pit Master,medium,monstrosity,desert
+Yuan-ti Pit Master,medium,monstrosity,forest
+Yuan-ti Pit Master,medium,monstrosity,underground
+Zaratan,gargantuan,monstrosity,aquatic
+Zilaq,tiny,dragon,any
+Zilaq,tiny,dragon,urban
+Zmey,huge,dragon,forests
+Zmey Headling,medium,dragon,forests
+Zmey Headling,medium,dragon,marshes
+Zoblin Boss,small,undead,aquatic
+Zoblin Boss,small,undead,arctic
+Zoblin Boss,small,undead,cave
+Zoblin Boss,small,undead,coast
+Zoblin Boss,small,undead,desert
+Zoblin Boss,small,undead,dungeon
+Zoblin Boss,small,undead,forest
+Zoblin Boss,small,undead,grassland
+Zoblin Boss,small,undead,mountain
+Zoblin Boss,small,undead,ruins
+Zoblin Boss,small,undead,swamp
+Zoblin Boss,small,undead,underground
+Zoblin Boss,small,undead,urban
+Zombie,medium,undead,aquatic
+Zombie,medium,undead,arctic
+Zombie,medium,undead,cave
+Zombie,medium,undead,coast
+Zombie,medium,undead,desert
+Zombie,medium,undead,dungeon
+Zombie,medium,undead,forest
+Zombie,medium,undead,grassland
+Zombie,medium,undead,mountain
+Zombie,medium,undead,ruins
+Zombie,medium,undead,swamp
+Zombie,medium,undead,underground
+Zombie,medium,undead,urban
+Zombie Warrior,small,undead,aquatic
+Zombie Warrior,small,undead,arctic
+Zombie Warrior,small,undead,cave
+Zombie Warrior,small,undead,coast
+Zombie Warrior,small,undead,desert
+Zombie Warrior,small,undead,dungeon
+Zombie Warrior,small,undead,forest
+Zombie Warrior,small,undead,grassland
+Zombie Warrior,small,undead,mountain
+Zombie Warrior,small,undead,ruins
+Zombie Warrior,small,undead,swamp
+Zombie Warrior,small,undead,underground
+Zombie Warrior,small,undead,urban
+"Zombie, smokeplume",large,undead,farmland
+"Zombie, smokeplume",large,undead,urban
+"Zombie, voidclaw",small,undead,any
+"Zombie, voidclaw",small,undead,farmland
+"Zombie, voidclaw",small,undead,urban
