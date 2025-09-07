@@ -1,3 +1,6 @@
+'''
+gets rid of the comments in pageNamesBlacklistRaw.txt
+'''
 sourceFileName = "pageNamesBlacklistRaw.txt"
 sourceFile = open(sourceFileName, 'r')
  
@@ -33,4 +36,4 @@ outputFile.close()
 outputFile = open(outputFileName, "a")
 
 for k in outputArr:
-    outputFile.write(k + "\n")
+  outputFile.write(k + "\n")

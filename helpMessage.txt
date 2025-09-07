@@ -1,12 +1,19 @@
 hi! here are my commands!
 
 $category 
-  -randomly chooses "kandi" or "perler" for you 
+  -randomly chooses "kandi" or "perler" for you (50% chance to get either)
 
 $kandi [options]
 $perler [options]
-  -the command tells us what category of craft you'd like to make, eiher kandi or perlers. 
+  -the command tells me if you want ideas for kandi or perlers 
   -you can add options after the command to tell me what types of ideas you'd like me to suggest
     -the options are "theme", "color", and "type" 
-    -you can have as many as you want and you can write them in any order
-    -write "all" as the option if you want me to just give you all of them
+    -you can write these 3 categories in any order or format (capital or lowercase does not matter)
+    -write "all" as the option if you want me to just give you all 3 of them
+For ex:
+$kandi color theme
+$perler type
+$perler type color theme
+$kandi all
+
+for any questions or concerns, please contact either @dan_qz or @allweknowisfalling (Jojo)

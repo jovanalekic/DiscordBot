@@ -1,3 +1,6 @@
+'''
+main file for the bot
+'''
 import random
 import aiohttp
 import discord
@@ -14,18 +17,20 @@ kandiTypesFile = open("kandiTypes.txt", "r")
 kandiColorsFile = open("kandiColors.txt", "r")
 '''
 
+# get all theme urls from pageNames.txt
 theme_url_list = []
 page_names_file_string = "pageNames.txt"
 page_names_file = open(page_names_file_string, "r")
 
+# use the blacklist to filter out bad theme urls
 page_blacklist_file_string = "pageNamesBlacklistCleaned.txt"
 page_blacklist_file = open(page_blacklist_file_string, "r")
 
-contentByLine = page_names_file.read().split("\n")
-theme_url_list = contentByLine
+# 2 arrays: 1 of all the themes, 1 of the blacklisted themes
+theme_url_list = page_names_file.read().split("\n")
 theme_url_blacklist = page_blacklist_file.read().split("\n")
   
-    
+# array of colors, types, and categories 
 colorlist = [
   "red",
   "orange",
@@ -81,20 +86,27 @@ categorylist = [
   "kandi"
 ]
 
+# confirm the bot is online
 @client.event
 async def on_ready():
   print(f'We have logged in as {client.user}')
 
-#this method sucks (big O = infinity)
+# get a random theme from the theme list
 def get_random_theme():
-  theme_string = random.choice(theme_url_list)
-  while theme_string in theme_url_blacklist:
-    theme_string = random.choice(theme_url_list)
-  return theme_string
+   return random.choice(theme_url_list)
 
+# removes all identical themes from blacklist from the theme array
+# i.e. clean the theme array
+def clean_theme_array():
+  for i in theme_url_list:
+    if i in theme_url_blacklist:
+      theme_url_list.remove(i)
+
+# returns a formatted string with a random theme for the user
 def get_random_theme_message_string():
   return "Here's a random theme for you:\n" + get_random_theme()
 
+# listens for messages and if the message has a command in it, the bot will respond
 @client.event
 async def on_message(message):
   if message.author == client.user:
@@ -125,13 +137,13 @@ async def on_message(message):
       if message contains "color"
         add random color to output
       ...
-  '''
-  
-  #info
-  if formatted_message == "$help":
-    string_to_send = ""
+  '''  
+  #help message
+  if formatted_message == "$kandihelp":
     
-    return string_to_send
+    help_message_file = open("helpMessage.txt")
+    help_message_string = help_message_file.read()
+    await message.channel.send(help_message_string)
   
   #if the user types in $category, they will get either kandi or perler
   if formatted_message.startswith('$category'):
@@ -146,15 +158,16 @@ async def on_message(message):
     randomcategory=random.choice(categorylist)
     await message.channel.send(randomcategory)
 
-#if the user types in $kandi
-#$kandi color theme type valid - will output on whichever user chooses to put in
-  if formatted_message.startswith('$kandi'):
+  #if the user types in $kandi
+  #$kandi color theme type valid - will output on whichever user chooses to put in
+  if formatted_message.startswith('$kandi '):
     
     # string to send
     string_to_send = "Kandi: \n"
+    orig_string = string_to_send
     allArgument = formatted_message.find("all") != -1
     
-    #check if the user typed "color", then give them a random color"
+    #check if the user typed "color", then give them a random color
     if formatted_message.find("color")!=-1 or allArgument:
       #want to get a random index and print from the color list at that index
       randomkandicolor=random.choice(colorlist)
@@ -169,16 +182,20 @@ async def on_message(message):
     if formatted_message.find("theme")!=-1 or allArgument:
       string_to_send += get_random_theme_message_string() + "\n"
       
+    if(string_to_send == orig_string):
+      string_to_send = "guys you gotta specify either \"color\", \"type\", \"theme\", or \"all\" after $kandi"
+      
     await message.channel.send(string_to_send)
     
     
-#if the user types in $perler
-#$perler color theme type valid - will output on whichever user chooses to put in
-  if formatted_message.startswith('$perler'):
+  #if the user types in $perler
+  #$perler color theme type valid - will output on whichever user chooses to put in
+  if formatted_message.startswith('$perler '):
     
     # string to send in message
-    string_to_send = ""
-    
+    string_to_send = "Perler: \n"
+    orig_string = string_to_send
+
     allArgument = formatted_message.find("all") != -1
     
     #check if the user typed "color", then give them a random color"
@@ -195,12 +212,12 @@ async def on_message(message):
     if formatted_message.find("theme")!=-1 or allArgument:
       string_to_send += get_random_theme_message_string() + "\n"
       
-    await message.channel.send(string_to_send)
-      
-    #randomvar=getrandomnumber()  
-    
- # if formatted_message.startswith('$'):  
-  #peepee poopoo
+    if(string_to_send == orig_string):
+      string_to_send = "guys you gotta specify either \"color\", \"type\", \"theme\", or \"all\" after $perler"
 
-   
-client.run('MTIxMDcyOTcxNzQ4MTYxMTMyNg.GGT_Dw.eb0hsiYAKYvr3hRp-oPImhRF4BmXGbNqnKqWBQ')
+    await message.channel.send(string_to_send)
+  
+    
+
+# runs the bot using our Discord API token
+client.run('MTIxMDcyOTcxNzQ4MTYxMTMyNg.GgUFnC.1zJcfyiV4ug6qOI61j1kHL7Wr3vv4VNZ5PfKyE')
