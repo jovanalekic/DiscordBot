@@ -5,12 +5,14 @@ contentsByLine = sourceFile.read().split("\n")
 
 outputArr = []
 
-print("ASDFASDFAD")
+# returns the substring from the start of the line to the first " " or "\n" it encounters 
 def returnOnlyLinkInLine(line):
   print("cleaning \""+ line + "\"")
   index = 0
-  while(line[index:index+1] != " " and line[index:index+1] != "-" and line[index:index+1] != "\n" and index < len(line)):
+  curChar = line[index:index+1]
+  while(curChar != " " and curChar != "\n" and index < len(line)):
     index += 1
+    curChar = line[index:index+1]
   print("output: \"" + line[0:index] + "\"")
   return line[0:index]
 
